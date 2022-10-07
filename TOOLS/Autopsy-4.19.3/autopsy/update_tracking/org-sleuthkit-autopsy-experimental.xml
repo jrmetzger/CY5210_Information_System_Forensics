@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.sleuthkit.autopsy.experimental/1">
+    <module_version install_time="1639771076823" last="true" origin="installer" specification_version="1.0.1">
+        <file crc="3053587940" name="config/Modules/org-sleuthkit-autopsy-experimental.xml"/>
+        <file crc="3583347034" name="modules/ext/LGoodDatePicker-10.3.1.jar"/>
+        <file crc="3109275931" name="modules/ext/c3p0-0.9.5.jar"/>
+        <file crc="1221366033" name="modules/ext/checker-qual-3.5.0.jar"/>
+        <file crc="4294966420" name="modules/ext/jackson-core-2.7.0.jar"/>
+        <file crc="3992120430" name="modules/ext/jtidy-r938.jar"/>
+        <file crc="3800888264" name="modules/ext/mchange-commons-java-0.2.9.jar"/>
+        <file crc="389479399" name="modules/ext/postgresql-42.2.18.jar"/>
+        <file crc="3728800746" name="modules/ext/swingx-all-1.6.4.jar"/>
+        <file crc="644267732" name="modules/org-sleuthkit-autopsy-experimental.jar"/>
+    </module_version>
+</module>
