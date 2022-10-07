@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2022/09/21 20:20:23 (EDT)</CreatedDate>
+  <ModifiedDate>2022/09/21 20:20:27 (EDT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.19.3</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.19.3</SavedByAutopsyVersion>
+  <Case>
+    <Name>labassignment1_20220921_202023</Name>
+    <DisplayName>LabAssignment1</DisplayName>
+    <Number>LabAssignment</Number>
+    <Examiner>Jon Metzger</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>

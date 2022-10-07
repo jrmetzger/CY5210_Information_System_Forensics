@@ -1,0 +1,603 @@
+2022-09-21 20:20:27.36 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2022-09-21 20:20:27.828 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting local Solr SOLR8 server
+2022-09-21 20:20:29.722 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2022-09-21 20:20:29.723 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Local Solr SOLR8 server is already running
+2022-09-21 20:20:29.763 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2022-09-21 20:20:35.843 org.sleuthkit.autopsy.keywordsearch.Server$Collection <init>
+INFO: Using Solr document queue size = 30
+2022-09-21 20:20:36.906 org.sleuthkit.autopsy.imagegallery.PerCaseProperties getConfigSetting
+INFO: File did not exist. Created file [Image Gallery.properties]
+2022-09-21 20:20:37.236 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.25.2 loaded in native mode
+2022-09-21 20:20:37.732 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened LabAssignment1 (labassignment1_20220921_202023) in Z:\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Module_2\Lab_1\LabAssignment1 as the current case
+2022-09-21 20:20:39.152 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
+INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
+2022-09-21 20:20:42.444 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
+INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-21 20:20:44.605 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
+INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2022-09-21 20:20:47.151 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent <init>
+INFO: Created DataContentTopComponent instance: org.sleuthkit.autopsy.corecomponents.DataContentTopComponent[Data Content,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=256,maximumSize=,minimumSize=,preferredSize=]
+2022-09-21 20:20:47.969 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Central Repository, version = 4.19.3
+2022-09-21 20:20:47.998 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Data Source Integrity, version = 4.19.3
+2022-09-21 20:20:48.025 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = DJI Drone Analyzer, version = 4.19.3
+2022-09-21 20:20:48.054 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.19.3
+2022-09-21 20:20:48.058 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Encryption Detection, version = 4.19.3
+2022-09-21 20:20:48.084 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.19.3
+2022-09-21 20:20:48.112 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = File Type Identification, version = 4.19.3
+2022-09-21 20:20:48.139 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Hash Lookup, version = 4.19.3
+2022-09-21 20:20:48.14 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.19.3
+2022-09-21 20:20:48.167 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Android Analyzer (aLEAPP), version = 4.19.3
+2022-09-21 20:20:48.168 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = iOS Analyzer (iLEAPP), version = 4.19.3
+2022-09-21 20:20:48.194 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
+2022-09-21 20:20:48.22 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Picture Analyzer, version = 4.19.3
+2022-09-21 20:20:48.249 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Plaso, version = 4.19.3
+2022-09-21 20:20:48.28 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.19.3
+2022-09-21 20:20:48.295 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = YARA Analyzer, version = 4.19.3
+2022-09-21 20:20:48.475 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Keyword Search, version = 4.19.3
+2022-09-21 20:20:48.482 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Email Parser, version = 4.19.3
+2022-09-21 20:20:48.487 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
+INFO: Found ingest module factory: name = Recent Activity, version = 4.19.3
+2022-09-21 20:20:48.901 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = GPX Parser, version = 1.2
+2022-09-21 20:20:48.903 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
+INFO: Found ingest module factory: name = Android Analyzer, version = 4.19.3
+2022-09-21 20:23:13.758 org.sleuthkit.autopsy.ingest.IngestMonitor$MonitorTimerAction logMonitoredRootDirectory
+INFO: Monitoring disk space of Z:\
+2022-09-21 20:23:13.768 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
+INFO: Starting ingest job 0
+2022-09-21 20:23:13.782 org.sleuthkit.autopsy.ingest.IngestPipelinesConfiguration getInstance
+INFO: Creating ingest module loader instance
+2022-09-21 20:23:15.347 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer loadConfigFile
+INFO: Load successful
+2022-09-21 20:23:21.131 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
+INFO: Solr server is running
+2022-09-21 20:23:21.491 org.sleuthkit.autopsy.modules.yara.YaraIngestModule startUp
+INFO: YARA ingest module: No rule set was selected for this ingest job.
+2022-09-21 20:23:22.668 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
+INFO: Starting first stage analysis in streaming mode (data source = LabAssignment1B.dd, objId = 1, pipeline id = 0, ingest job id = 1)
+2022-09-21 20:23:23.426 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
+INFO: Starting full first stage analysis in streaming mode (data source = LabAssignment1B.dd, objId = 1, pipeline id = 0, ingest job id = 1)
+2022-09-21 20:23:23.663 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Recent Activity analysis of LabAssignment1B.dd starting
+2022-09-21 20:23:23.848 org.sleuthkit.autopsy.recentactivity.RecentDocumentsByLnk getRecentDocuments
+INFO: Didn't find any recent files.
+2022-09-21 20:23:25.629 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
+INFO: Could not find any allocated Chrome history files.
+2022-09-21 20:23:25.644 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2022-09-21 20:23:25.648 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
+INFO: Didn't find any Chrome cookies files.
+2022-09-21 20:23:25.664 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
+INFO: Didn't find any Chrome Login Data files.
+2022-09-21 20:23:25.686 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2022-09-21 20:23:25.689 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
+INFO: Didn't find any Chrome download files.
+2022-09-21 20:23:25.703 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
+INFO: Could not find any allocated Chrome history files.
+2022-09-21 20:23:25.705 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2022-09-21 20:23:25.745 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
+INFO: Didn't find any Chrome cookies files.
+2022-09-21 20:23:25.747 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
+INFO: Didn't find any Chrome Login Data files.
+2022-09-21 20:23:25.748 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2022-09-21 20:23:25.749 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
+INFO: Didn't find any Chrome download files.
+2022-09-21 20:23:25.75 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
+INFO: Could not find any allocated Chrome history files.
+2022-09-21 20:23:25.751 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2022-09-21 20:23:25.753 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
+INFO: Didn't find any Chrome cookies files.
+2022-09-21 20:23:25.755 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
+INFO: Didn't find any Chrome Login Data files.
+2022-09-21 20:23:25.757 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2022-09-21 20:23:25.758 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
+INFO: Didn't find any Chrome download files.
+2022-09-21 20:23:25.761 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
+INFO: Could not find any allocated Chrome history files.
+2022-09-21 20:23:25.762 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2022-09-21 20:23:25.764 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
+INFO: Didn't find any Chrome cookies files.
+2022-09-21 20:23:25.766 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
+INFO: Didn't find any Chrome Login Data files.
+2022-09-21 20:23:25.767 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2022-09-21 20:23:25.769 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
+INFO: Didn't find any Chrome download files.
+2022-09-21 20:23:25.783 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
+INFO: Could not find any allocated Chrome history files.
+2022-09-21 20:23:25.785 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2022-09-21 20:23:25.786 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
+INFO: Didn't find any Chrome cookies files.
+2022-09-21 20:23:25.787 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
+INFO: Didn't find any Chrome Login Data files.
+2022-09-21 20:23:25.788 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2022-09-21 20:23:25.789 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
+INFO: Didn't find any Chrome download files.
+2022-09-21 20:23:25.79 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
+INFO: Could not find any allocated Chrome history files.
+2022-09-21 20:23:25.802 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2022-09-21 20:23:25.804 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
+INFO: Didn't find any Chrome cookies files.
+2022-09-21 20:23:25.805 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
+INFO: Didn't find any Chrome Login Data files.
+2022-09-21 20:23:25.806 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2022-09-21 20:23:25.807 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
+INFO: Didn't find any Chrome download files.
+2022-09-21 20:23:25.826 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
+INFO: Could not find any allocated Chrome history files.
+2022-09-21 20:23:25.846 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
+INFO: Didn't find any Chrome bookmark files.
+2022-09-21 20:23:25.882 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
+INFO: Didn't find any Chrome cookies files.
+2022-09-21 20:23:25.887 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
+INFO: Didn't find any Chrome Login Data files.
+2022-09-21 20:23:25.903 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
+INFO: Didn't find any Chrome Web Data files.
+2022-09-21 20:23:25.905 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
+INFO: Didn't find any Chrome download files.
+2022-09-21 20:23:25.964 org.sleuthkit.autopsy.recentactivity.Firefox getHistory
+INFO: No FireFox history files found.
+2022-09-21 20:23:25.968 org.sleuthkit.autopsy.recentactivity.Firefox getBookmark
+INFO: Didn't find any firefox bookmark files.
+2022-09-21 20:23:25.983 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadPreVersion24
+INFO: Didn't find any pre-version-24.0 Firefox download files.
+2022-09-21 20:23:25.985 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadVersion24
+INFO: Didn't find any version-24.0 Firefox download files.
+2022-09-21 20:23:25.988 org.sleuthkit.autopsy.recentactivity.Firefox getCookie
+INFO: Didn't find any Firefox cookie files.
+2022-09-21 20:23:26.004 org.sleuthkit.autopsy.recentactivity.Firefox getFormsHistory
+INFO: No FireFox form history files found.
+2022-09-21 20:23:26.026 org.sleuthkit.autopsy.recentactivity.Firefox getAutofillProfiles
+INFO: Didn't find any Firefox Autofill Profiles files.
+2022-09-21 20:23:26.063 org.sleuthkit.autopsy.recentactivity.ExtractIE getBookmark
+INFO: Didn't find any IE bookmark files.
+2022-09-21 20:23:26.067 org.sleuthkit.autopsy.recentactivity.ExtractIE getCookie
+INFO: Didn't find any IE cookies files.
+2022-09-21 20:23:26.068 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: Pasco results path: C:\Users\jon\AppData\Local\Temp\Autopsy\labassignment1_20220921_202023\Temp\RecentActivity\IE_0\results
+2022-09-21 20:23:26.084 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: Pasco2 home: C:\Program Files\Autopsy-4.19.3\autopsy\pasco2
+2022-09-21 20:23:26.087 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
+INFO: No InternetExplorer history files found.
+2022-09-21 20:23:26.207 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
+INFO: Processing 0 blackboard artifacts.
+2022-09-21 20:23:26.245 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
+INFO: Extracted 0 queries from the blackboard
+2022-09-21 20:23:26.248 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer process
+INFO: Search Engine stats: 
+Google : 0
+Yahoo : 0
+Twitter : 0
+LinkedIn : 0
+Facebook : 0
+Bing : 0
+Baidu : 0
+Sogou : 0
+Soso : 0
+Youdao : 0
+Yandex : 0
+Biglobe : 0
+Linkestan : 0
+Parseek : 0
+Parset : 0
+Amazon : 0
+DuckDuckGo : 0
+Youtube : 0
+Reddit : 0
+CCSearch : 0
+Swisscows : 0
+GIbiru : 0
+Wiki : 0
+Cutestat : 0
+Givewater : 0
+Ekoru : 0
+Ecosia : 0
+Slideshare : 0
+Wikipedia : 0
+Wiki : 0
+
+2022-09-21 20:23:26.306 org.sleuthkit.autopsy.recentactivity.ExtractWebAccountType extractDomainRoles
+INFO: Processing 0 blackboard artifacts.
+2022-09-21 20:23:26.325 org.sleuthkit.autopsy.recentactivity.ExtractWebAccountType$RoleProcessor createArtifacts
+INFO: Didn't find any web accounts.
+2022-09-21 20:23:32.465 org.sleuthkit.autopsy.recentactivity.DomainCategoryRunner findDomainTypes
+INFO: Processing 0 blackboard artifacts.
+2022-09-21 20:23:32.468 org.sleuthkit.autopsy.recentactivity.DomainCategoryRunner findDomainTypes
+INFO: Extracted 0 distinct messaging domain(s) from the blackboard.  Of the 0 artifact(s) with valid hosts, 0 url(s) contained messaging domain suffix.
+2022-09-21 20:23:32.483 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer complete
+INFO: Search Engine URL Query Analyzer has completed.
+2022-09-21 20:23:32.485 org.sleuthkit.autopsy.recentactivity.DomainCategoryRunner complete
+INFO: Domain categorization completed.
+2022-09-21 20:23:32.486 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Recent Activity analysis of LabAssignment1B.dd finished
+2022-09-21 20:23:32.486 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Android Analyzer analysis of LabAssignment1B.dd starting
+2022-09-21 20:23:36.765 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner startJob
+INFO: Adding job 0
+2022-09-21 20:23:36.849 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner startJob
+INFO: Resetting periodic search time out to default value
+2022-09-21 20:23:43.308 AndroidIngestModule process
+INFO: running 22 analyzers
+2022-09-21 20:23:44.364 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Android Analyzer analysis of LabAssignment1B.dd finished
+2022-09-21 20:23:44.386 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Encryption Detection analysis of LabAssignment1B.dd starting
+2022-09-21 20:23:44.485 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Encryption Detection analysis of LabAssignment1B.dd finished
+2022-09-21 20:23:44.489 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Virtual Machine Extractor analysis of LabAssignment1B.dd starting
+2022-09-21 20:23:44.502 org.sleuthkit.autopsy.modules.vmextractor.VMExtractorIngestModule process
+INFO: Looking for virtual machine files in data source LabAssignment1B.dd
+2022-09-21 20:23:44.529 org.sleuthkit.autopsy.modules.vmextractor.VMExtractorIngestModule process
+INFO: No virtual machine files found in data source LabAssignment1B.dd
+2022-09-21 20:23:44.529 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Virtual Machine Extractor analysis of LabAssignment1B.dd finished
+2022-09-21 20:23:44.543 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Android Analyzer (aLEAPP) analysis of LabAssignment1B.dd starting
+2022-09-21 20:23:54.7 org.sleuthkit.autopsy.modules.leappanalyzers.ALeappAnalyzerIngestModule processALeappFs
+WARNING: Error when trying to execute aLeapp program getting file paths to search for result is -1
+2022-09-21 20:23:54.703 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Android Analyzer (aLEAPP) analysis of LabAssignment1B.dd finished
+2022-09-21 20:23:54.705 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: DJI Drone Analyzer analysis of LabAssignment1B.dd starting
+2022-09-21 20:23:54.713 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: DJI Drone Analyzer analysis of LabAssignment1B.dd finished
+2022-09-21 20:23:54.714 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: iOS Analyzer (iLEAPP) analysis of LabAssignment1B.dd starting
+2022-09-21 20:24:04.551 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: iOS Analyzer (iLEAPP) analysis of LabAssignment1B.dd finished
+2022-09-21 20:24:04.554 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
+INFO: Finished first stage analysis (data source = LabAssignment1B.dd, objId = 1, pipeline id = 0, ingest job id = 1)
+2022-09-21 20:24:04.566 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Keyword search ingest module instance 1 shutting down
+2022-09-21 20:24:04.724 org.sleuthkit.autopsy.centralrepository.ingestmodule.CentralRepoIngestModule shutDown
+INFO: 7 artifacts in db for case: LabAssignment1 ds:LabAssignment1B.dd
+2022-09-21 20:24:04.768 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Keyword search ingest module instance 0 shutting down
+2022-09-21 20:24:04.769 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner endJob
+INFO: Commiting search index before final search for search job 0
+2022-09-21 20:24:06.187 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Starting final search for search job 0
+2022-09-21 20:24:06.188 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Checking for previous search for search job 0 before executing final search
+2022-09-21 20:24:06.19 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Kicking off final search for search job 0
+2022-09-21 20:24:06.203 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Waiting for final search for search job 0
+2022-09-21 20:24:07.075 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$Searcher doInBackground
+INFO: Searcher took 0 secs to run (final = true)
+2022-09-21 20:24:07.083 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$SearchJobInfo searchNotify
+INFO: Notifying after finishing search
+2022-09-21 20:24:07.083 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
+INFO: Final search for search job 0 completed
+2022-09-21 20:24:07.084 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner endJob
+INFO: No more search jobs. Stopping periodic search task
+2022-09-21 20:24:07.128 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Indexed files count: 21
+2022-09-21 20:24:07.172 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
+INFO: Indexed file chunks count: 21
+2022-09-21 20:24:07.175 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule postIndexSummary
+INFO: Keyword Indexing Completed: <table border=0><tr><td>Files with known types</td><td>8</td></tr><tr><td>Files with general strings extracted</td><td>6</td></tr><tr><td>Metadata only was indexed</td><td>0</td></tr><tr><td>Error (indexer)</td><td>0</td></tr><tr><td>Error (text extraction)</td><td>0</td></tr><tr><td>Error (I/O)</td><td>0</td></tr></table>
+2022-09-21 20:24:07.181 org.sleuthkit.autopsy.centralrepository.ingestmodule.CentralRepoIngestModule shutDown
+INFO: 7 artifacts in db for case: LabAssignment1 ds:LabAssignment1B.dd
+2022-09-21 20:24:07.183 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
+INFO: Starting second stage ingest task pipelines for LabAssignment1B.dd (objID=1, jobID=0) (data source = LabAssignment1B.dd, objId = 1, pipeline id = 0, ingest job id = 1)
+2022-09-21 20:24:07.184 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Data Source Integrity analysis of LabAssignment1B.dd starting
+2022-09-21 20:24:07.204 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Total chunks = 45
+2022-09-21 20:24:07.206 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Starting hash calculation for LabAssignment1B.dd
+2022-09-21 20:24:07.405 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Hash calculated from LabAssignment1B.dd: a117773bcf1fc88ec0ab8e0a349fbbcb
+2022-09-21 20:24:07.406 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Hash calculated from LabAssignment1B.dd: 6200453567102ec6100adfa91cdbf7b1003574f6
+2022-09-21 20:24:07.407 org.sleuthkit.autopsy.modules.dataSourceIntegrity.DataSourceIntegrityIngestModule process
+INFO: Hash calculated from LabAssignment1B.dd: 3ce8053e4f3d9c8ab98b3aadb2480685efb8e4980d34297b83bd5a09b1a7b122
+2022-09-21 20:24:07.428 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule executeTask
+INFO: Data Source Integrity analysis of LabAssignment1B.dd finished
+2022-09-21 20:24:07.429 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
+INFO: Finished all tasks (data source = LabAssignment1B.dd, objId = 1, pipeline id = 0, ingest job id = 1)
+2022-09-21 20:24:07.444 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
+INFO: Ingest job 0 completed
+2022-09-22 20:27:00.936 org.sleuthkit.autopsy.keywordsearch.RegexQuery createKeywordHitArtifact
+SEVERE: Error adding bb attributes for terms search artifact
+org.sleuthkit.datamodel.TskCoreException: Error adding analysis result to content with objId = 5.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.Blackboard$BlackboardException: Failed to add analysis result.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.TskCoreException: Error creating a analysis result
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sqlite.SQLiteException: [SQLITE_CANTOPEN]  Unable to open the database file (unable to open database file)
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-09-22 20:27:00.989 org.sleuthkit.autopsy.keywordsearch.RegexQuery createKeywordHitArtifact
+SEVERE: Error adding bb attributes for terms search artifact
+org.sleuthkit.datamodel.TskCoreException: Error adding analysis result to content with objId = 7.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.Blackboard$BlackboardException: Failed to add analysis result.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.TskCoreException: Error creating a analysis result
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sqlite.SQLiteException: [SQLITE_CANTOPEN]  Unable to open the database file (unable to open database file)
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-09-22 20:27:01.035 org.sleuthkit.autopsy.keywordsearch.RegexQuery createKeywordHitArtifact
+SEVERE: Error adding bb attributes for terms search artifact
+org.sleuthkit.datamodel.TskCoreException: Error adding analysis result to content with objId = 24.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.Blackboard$BlackboardException: Failed to add analysis result.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.TskCoreException: Error creating a analysis result
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sqlite.SQLiteException: [SQLITE_CANTOPEN]  Unable to open the database file (unable to open database file)
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-09-22 20:27:01.053 org.sleuthkit.autopsy.keywordsearch.RegexQuery createKeywordHitArtifact
+SEVERE: Error adding bb attributes for terms search artifact
+org.sleuthkit.datamodel.TskCoreException: Error adding analysis result to content with objId = 25.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.Blackboard$BlackboardException: Failed to add analysis result.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.TskCoreException: Error creating a analysis result
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sqlite.SQLiteException: [SQLITE_CANTOPEN]  Unable to open the database file (unable to open database file)
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-09-22 20:27:01.111 org.sleuthkit.autopsy.keywordsearch.RegexQuery createKeywordHitArtifact
+SEVERE: Error adding bb attributes for terms search artifact
+org.sleuthkit.datamodel.TskCoreException: Error adding analysis result to content with objId = 13.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.Blackboard$BlackboardException: Failed to add analysis result.
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.datamodel.TskCoreException: Error creating a analysis result
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sqlite.SQLiteException: [SQLITE_CANTOPEN]  Unable to open the database file (unable to open database file)
+	org.sleuthkit.datamodel.AbstractContent.newAnalysisResult(AbstractContent.java:356)
+	org.sleuthkit.autopsy.keywordsearch.RegexQuery.createKeywordHitArtifact(RegexQuery.java:618)
+	org.sleuthkit.autopsy.keywordsearch.QueryResults.process(QueryResults.java:226)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:429)
+	org.sleuthkit.autopsy.keywordsearch.AdHocSearchChildFactory$BlackboardResultWriter.doInBackground(AdHocSearchChildFactory.java:402)
+	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	javax.swing.SwingWorker.run(SwingWorker.java:334)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-09-22 21:00:38.643 org.sleuthkit.autopsy.report.ReportBranding getReportFooter
+INFO: Using default report branding for report footer
+2022-09-22 21:00:38.946 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Data Source Usage
+2022-09-22 21:00:38.95 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+WARNING: useDataTypeIcon: unhandled artifact type = Data Source Usage
+2022-09-22 21:00:38.967 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Keyword Hits
+2022-09-22 21:00:38.97 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Metadata
+2022-09-22 21:00:39.022 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Tagged Files
+2022-09-22 21:00:39.024 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Tagged Images
+2022-09-22 21:00:39.026 org.sleuthkit.autopsy.report.modules.html.HTMLReport useDataTypeIcon
+INFO: useDataTypeIcon: dataType = Tagged Results

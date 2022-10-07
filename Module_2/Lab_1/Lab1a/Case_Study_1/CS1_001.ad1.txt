@@ -1,0 +1,53 @@
+﻿Created By AccessData® FTK® Imager 4.3.1.1 
+
+Case Information: 
+Acquired using: ADI4.3.1.1
+Case Number: 2021_CaseStudy1
+Evidence Number: CS1_001
+Unique Description: Export for Lab Assignment 1A
+Examiner: Jon Metzger
+Notes: 
+
+--------------------------------------------------------------
+
+Information for \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Module_2\Lab_1\Lab1a\Case_Study_1\CS1_001.ad1:
+[Custom Content Sources]
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|$MFT(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|$LogFile(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SYSTEM(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SECURITY(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SAM(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SOFTWARE(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|srogers|NTUSER.DAT(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|srogers|AppData|Local|Microsoft|Windows|UsrClass.dat(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|winevt|Logs|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|pagefile.sys(Exact)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|Prefetch|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|srogers|AppData|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|srogers|Recent|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|srogers|Desktop|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|srogers|Documents|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|srogers|Dropbox|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|srogers|Downloads|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|$Recycle.Bin|*(Wildcard,Consider Case,Include Subdirectories)
+ IP_CaseStudy.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|INF|setupapi.dev.log(Exact)
+ File Owner: S-1-5-21-263698462-3103634936-1936700066-1001 (srogers)
+ File Owner: S-1-5-21-263698462-3103634936-1936700066-500 (Administrator)
+ File Owner: S-1-5-21-263698462-3103634936-1936700066-501 (Guest)
+ File Owner: S-1-5-21-263698462-3103634936-1936700066-503 (DefaultAccount)
+ File Owner: S-1-5-21-263698462-3103634936-1936700066-504 (WDAGUtilityAccount)
+[Computed Hashes]
+ MD5 checksum:    2f81fb9f2587a6bde9e181a65c7704e5
+ SHA1 checksum:   927d5a1e5e53752a4b702cee24bb9a8223b1fa44
+
+Image information:
+ Acquisition started:   Thu Sep 22 19:08:14 2022
+ Acquisition finished:  Thu Sep 22 19:10:34 2022
+ Segment list:
+  \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Module_2\Lab_1\Lab1a\Case_Study_1\CS1_001.ad1
+
+Image Verification Results:
+ Verification started:  Thu Sep 22 19:10:44 2022
+ Verification finished: Thu Sep 22 19:11:11 2022
+ MD5 checksum:    2f81fb9f2587a6bde9e181a65c7704e5 : verified
+ SHA1 checksum:   927d5a1e5e53752a4b702cee24bb9a8223b1fa44 : verified

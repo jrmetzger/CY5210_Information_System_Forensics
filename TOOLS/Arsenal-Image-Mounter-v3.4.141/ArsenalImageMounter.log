@@ -1,0 +1,22 @@
+---------------
+2022-09-22 19:53:35
+Application '\\Mac\Home\Desktop\Arsenal-Image-Mounter-v3.4.141\ArsenalImageMounter.exe' version 3.4.141 starting up. Licensed mode = False. Windows version = 10.0.25206.0
+---------------
+2022-09-22 19:54:56
+Image file '\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Module_2\Lab_1\Lab1a\IP_CaseStudy.E01', detected GuidPartitionTable, 4 partitions.
+Offset 1048576, length 523239424, type 'DE94BBA4-06D1-4D40-A16A-BFD50179D6AC', detected 'Microsoft NTFS' (healthy).
+Offset 524288000, length 103809024, type 'EFI System', detected 'Microsoft FAT' (healthy).
+Offset 628097024, length 16777216, type 'Microsoft Reserved', unrecognized file system.
+Offset 644874240, length 63778586624, type 'Windows Basic Data', detected 'Microsoft NTFS' (healthy).
+
+---------------
+2022-09-24 12:42:26
+Image file '\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Module_2\Lab_1\Lab1a\IP_CaseStudy.E01', detected GuidPartitionTable, 4 partitions.
+Offset 1048576, length 523239424, type 'DE94BBA4-06D1-4D40-A16A-BFD50179D6AC', detected 'Microsoft NTFS' (healthy).
+Offset 524288000, length 103809024, type 'EFI System', detected 'Microsoft FAT' (healthy).
+Offset 628097024, length 16777216, type 'Microsoft Reserved', unrecognized file system.
+Offset 644874240, length 63778586624, type 'Windows Basic Data', detected 'Microsoft NTFS' (healthy).
+
+---------------
+2022-09-24 12:43:42
+Application \\Mac\Home\Desktop\Arsenal-Image-Mounter-v3.4.141\ArsenalImageMounter.exe exit. Licensed mode = False
