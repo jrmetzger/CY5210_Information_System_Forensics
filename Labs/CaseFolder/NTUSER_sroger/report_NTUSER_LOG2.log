@@ -1,0 +1,209 @@
+Thu Sep 29 20:40:57 2022: Hive (Z:\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Module_3\Lab_2\NTUSER_sroger\ntuser.dat.LOG2.copy0) is not dirty.
+
+Thu Sep 29 20:40:57 2022: Log opened.
+Thu Sep 29 20:40:57 2022: File: Z:\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Module_3\Lab_2\NTUSER_sroger\ntuser.dat.LOG2.copy0
+Thu Sep 29 20:40:57 2022: Environment set up.
+Thu Sep 29 20:40:58 2022: Launching adobe v.20200522
+Thu Sep 29 20:40:58 2022: Error in adobe: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\adobe.pl line 62.
+
+Thu Sep 29 20:40:58 2022: Launching allowedenum v.20200511
+Thu Sep 29 20:40:58 2022: Error in allowedenum: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\allowedenum.pl line 61.
+
+Thu Sep 29 20:40:58 2022: Launching appassoc v.20200515
+Thu Sep 29 20:40:58 2022: Error in appassoc: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\appassoc.pl line 46.
+
+Thu Sep 29 20:40:58 2022: Launching appcompatflags v.20200525
+Thu Sep 29 20:40:58 2022: Error in appcompatflags: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\appcompatflags.pl line 76.
+
+Thu Sep 29 20:40:58 2022: Launching appkeys v.20200517
+Thu Sep 29 20:40:58 2022: Error in appkeys: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\appkeys.pl line 53.
+
+Thu Sep 29 20:40:58 2022: Launching applets v.20200525
+Thu Sep 29 20:40:58 2022: Error in applets: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\applets.pl line 50.
+
+Thu Sep 29 20:40:58 2022: Launching apppaths v.20200511
+Thu Sep 29 20:40:58 2022: Error in apppaths: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\apppaths.pl line 65.
+
+Thu Sep 29 20:40:58 2022: Launching appspecific v.20200515
+Thu Sep 29 20:40:58 2022: Error in appspecific: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\appspecific.pl line 45.
+
+Thu Sep 29 20:40:58 2022: Launching appx v.20200427
+Thu Sep 29 20:40:58 2022: Error in appx: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\appx.pl line 50.
+
+Thu Sep 29 20:40:58 2022: Launching arpcache v.20200515
+Thu Sep 29 20:40:58 2022: Error in arpcache: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\arpcache.pl line 57.
+
+Thu Sep 29 20:40:58 2022: Launching attachmgr v.20200525
+Thu Sep 29 20:40:58 2022: Error in attachmgr: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\attachmgr.pl line 59.
+
+Thu Sep 29 20:40:58 2022: Launching cached v.20200525
+Thu Sep 29 20:40:58 2022: Error in cached: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\cached.pl line 63.
+
+Thu Sep 29 20:40:58 2022: Launching cmdproc v.20200515
+Thu Sep 29 20:40:58 2022: Error in cmdproc: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\cmdproc.pl line 52.
+
+Thu Sep 29 20:40:58 2022: Launching comdlg32 v.20200517
+Thu Sep 29 20:40:58 2022: Error in comdlg32: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\comdlg32.pl line 101.
+
+Thu Sep 29 20:40:58 2022: Launching compdesc v.20200511
+Thu Sep 29 20:40:58 2022: Error in compdesc: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\compdesc.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching DDO v.20140414
+Thu Sep 29 20:40:58 2022: Error in ddo: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\ddo.pl line 46.
+
+Thu Sep 29 20:40:58 2022: Launching disablemru v.20190924
+Thu Sep 29 20:40:58 2022: Error in disablemru: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\disablemru.pl line 51.
+
+Thu Sep 29 20:40:58 2022: Launching environment v.20200512
+Thu Sep 29 20:40:58 2022: Error in environment: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\environment.pl line 77.
+
+Thu Sep 29 20:40:58 2022: Launching featureusage v.20200511
+Thu Sep 29 20:40:58 2022: Error in featureusage: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\featureusage.pl line 52.
+
+Thu Sep 29 20:40:58 2022: [*] Launching heidisql v.20201227
+Thu Sep 29 20:40:58 2022: Error in heidisql: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\heidisql.pl line 43.
+
+Thu Sep 29 20:40:58 2022: Launching identities v.20200525
+Thu Sep 29 20:40:58 2022: Error in identities: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\identities.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching injectdll64 v.20200427
+Thu Sep 29 20:40:58 2022: Error in injectdll64: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\injectdll64.pl line 56.
+
+Thu Sep 29 20:40:58 2022: Launching jumplistdata v.20200517
+Thu Sep 29 20:40:58 2022: Error in jumplistdata: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\jumplistdata.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching knowndev v.20200515
+Thu Sep 29 20:40:58 2022: Error in knowndev: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\knowndev.pl line 48.
+
+Thu Sep 29 20:40:58 2022: Launching listsoft v.20200517
+Thu Sep 29 20:40:58 2022: Error in listsoft: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\listsoft.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching load v.20200517
+Thu Sep 29 20:40:58 2022: Error in load: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\load.pl line 49.
+
+Thu Sep 29 20:40:58 2022: Launching logonstats v.20200517
+Thu Sep 29 20:40:58 2022: Error in logonstats: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\logonstats.pl line 45.
+
+Thu Sep 29 20:40:58 2022: Launching lxss v.20200511
+Thu Sep 29 20:40:58 2022: Error in lxss: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\lxss.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching mixer v.20200517
+Thu Sep 29 20:40:58 2022: Error in mixer: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\mixer.pl line 53.
+
+Thu Sep 29 20:40:58 2022: Launching mmc v.20200517
+Thu Sep 29 20:40:58 2022: Error in mmc: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\mmc.pl line 48.
+
+Thu Sep 29 20:40:58 2022: Launching mmo v.20200517
+Thu Sep 29 20:40:58 2022: Error in mmo: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\mmo.pl line 56.
+
+Thu Sep 29 20:40:58 2022: Launching mndmru v.20200517
+Thu Sep 29 20:40:58 2022: Error in mndmru: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\mndmru.pl line 46.
+
+Thu Sep 29 20:40:58 2022: Launching mp2 v.20200526
+Thu Sep 29 20:40:58 2022: Error in mp2: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\mp2.pl line 57.
+
+Thu Sep 29 20:40:58 2022: Launching mpmru v.20200517
+Thu Sep 29 20:40:58 2022: Error in mpmru: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\mpmru.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching  msoffice v.20200518
+Thu Sep 29 20:40:58 2022: Error in msoffice: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\msoffice.pl line 66.
+
+Thu Sep 29 20:40:58 2022: Launching muicache v.20200525
+Thu Sep 29 20:40:58 2022: Error in muicache: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\muicache.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching nation v.20200517
+Thu Sep 29 20:40:58 2022: Error in nation: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\nation.pl line 51.
+
+Thu Sep 29 20:40:58 2022: Launching oisc v.20091125
+Thu Sep 29 20:40:58 2022: Error in oisc: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\oisc.pl line 65.
+
+Thu Sep 29 20:40:58 2022: Launching onedrivev.20200515
+Thu Sep 29 20:40:58 2022: Error in onedrive: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\onedrive.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching osversion v.20200511
+Thu Sep 29 20:40:58 2022: Error in osversion: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\osversion.pl line 48.
+
+Thu Sep 29 20:40:58 2022: Launching outlook_homepage v.20201002
+Thu Sep 29 20:40:58 2022: Error in outlook_homepage: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\outlook_homepage.pl line 72.
+
+Thu Sep 29 20:40:58 2022: Launching pendinggpos v.20200427
+Thu Sep 29 20:40:58 2022: Error in pendinggpos: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\pendinggpos.pl line 48.
+
+Thu Sep 29 20:40:58 2022: Launching profiler v.20200525
+Thu Sep 29 20:40:58 2022: Error in profiler: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\profiler.pl line 51.
+
+Thu Sep 29 20:40:58 2022: Launching pslogging v.20200515
+Thu Sep 29 20:40:58 2022: Error in pslogging: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\pslogging.pl line 52.
+
+Thu Sep 29 20:40:58 2022: Launching psscript v.20200525
+Thu Sep 29 20:40:58 2022: Error in psscript: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\psscript.pl line 53.
+
+Thu Sep 29 20:40:58 2022: Launching putty v.20200515
+Thu Sep 29 20:40:58 2022: Error in putty: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\putty.pl line 48.
+
+Thu Sep 29 20:40:58 2022: Launching recentapps v.20200515
+Thu Sep 29 20:40:58 2022: Error in recentapps: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\recentapps.pl line 46.
+
+Thu Sep 29 20:40:58 2022: Launching recentdocs v.20200427
+Thu Sep 29 20:40:58 2022: Error in recentdocs: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\recentdocs.pl line 52.
+
+Thu Sep 29 20:40:58 2022: Launching run v.20200511
+Thu Sep 29 20:40:58 2022: Error in run: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\run.pl line 88.
+
+Thu Sep 29 20:40:58 2022: Launching runmru v.20200525
+Thu Sep 29 20:40:58 2022: Error in runmru: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\runmru.pl line 49.
+
+Thu Sep 29 20:40:58 2022: Launching runvirtual v.20200427
+Thu Sep 29 20:40:58 2022: Error in runvirtual: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\runvirtual.pl line 50.
+
+Thu Sep 29 20:40:58 2022: Launching searchscopes v.20200517
+Thu Sep 29 20:40:58 2022: Error in searchscopes: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\searchscopes.pl line 48.
+
+Thu Sep 29 20:40:58 2022: Launching 7-zip v.20200515
+Thu Sep 29 20:40:58 2022: Error in sevenzip: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\sevenzip.pl line 51.
+
+Thu Sep 29 20:40:58 2022: Launching shc v.20200427
+Thu Sep 29 20:40:58 2022: Error in shc: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\shc.pl line 54.
+
+Thu Sep 29 20:40:58 2022: Launching shellfolders v.20200515
+Thu Sep 29 20:40:58 2022: Error in shellfolders: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\shellfolders.pl line 51.
+
+Thu Sep 29 20:40:58 2022: Launching speech v.20200427
+Thu Sep 29 20:40:58 2022: Error in speech: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\speech.pl line 52.
+
+Thu Sep 29 20:40:58 2022: Launching sysinternals v.20080324
+Thu Sep 29 20:40:58 2022: Error in sysinternals: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\sysinternals.pl line 45.
+
+Thu Sep 29 20:40:58 2022: Launching tsclient v.20200518
+Thu Sep 29 20:40:58 2022: Error in tsclient: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\tsclient.pl line 48.
+
+Thu Sep 29 20:40:58 2022: Launching typedpaths v.20200526
+Thu Sep 29 20:40:58 2022: Error in typedpaths: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\typedpaths.pl line 46.
+
+Thu Sep 29 20:40:58 2022: Launching typedurls v.20200526
+Thu Sep 29 20:40:58 2022: Error in typedurls: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\typedurls.pl line 61.
+
+Thu Sep 29 20:40:58 2022: Launching typedurlstime v.20200526
+Thu Sep 29 20:40:58 2022: Error in typedurlstime: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\typedurlstime.pl line 52.
+
+Thu Sep 29 20:40:58 2022: Launching uninstall v.20200525
+Thu Sep 29 20:40:58 2022: Error in uninstall: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\uninstall.pl line 61.
+
+Thu Sep 29 20:40:58 2022: Launching userassist v.20170204
+Thu Sep 29 20:40:58 2022: Error in userassist: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\userassist.pl line 51.
+
+Thu Sep 29 20:40:58 2022: Launching wc_shares v.20200515
+Thu Sep 29 20:40:58 2022: Error in wc_shares: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\wc_shares.pl line 47.
+
+Thu Sep 29 20:40:58 2022: Launching winrar v.20200526
+Thu Sep 29 20:40:58 2022: Error in winrar: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\winrar.pl line 46.
+
+Thu Sep 29 20:40:58 2022: Launching winscp v.20201227
+Thu Sep 29 20:40:58 2022: Error in winscp: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\winscp.pl line 68.
+
+Thu Sep 29 20:40:58 2022: Launching WinZip v.20200526
+Thu Sep 29 20:40:58 2022: Error in winzip: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\winzip.pl line 43.
+
+Thu Sep 29 20:40:58 2022: Launching wordwheelquery v.20200823
+Thu Sep 29 20:40:58 2022: Error in wordwheelquery: Can't call method "get_subkey" on an undefined value at \\Mac\Home\Desktop\RegRipper3.0-master/plugins\wordwheelquery.pl line 48.
+
