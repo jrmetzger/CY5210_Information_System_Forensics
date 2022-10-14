@@ -984,15 +984,14 @@ LastWrite Time 2019-01-19 03:12:56Z
   C:\Users\srogers\Documents\USB Backup\privacy-eraser-setup.exe (1)
 2019-01-21 05:33:07Z
   Microsoft.MicrosoftEdge_8wekyb3d8bbwe!MicrosoftEdge (5)
-2019-01-21 05:10:14Z
-  C:\Users\srogers\Downloads\torbrowser-install-win64-8.0.4_en-US.exe (1)
+
 2019-01-21 05:06:24Z
   {6D809377-6AF0-444B-8957-A3773F02200E}\LibreOffice\program\swriter.exe (1)
 2019-01-20 21:26:03Z
   C:\Users\srogers\Downloads\BitTorrent.exe (1)
 2019-01-20 21:13:26Z
   C:\Users\srogers\Downloads\DropboxInstaller.exe (1)
-2019-01-20 21:10:08Z
+
   {1AC14E77-02E7-4E5D-B744-2EB1AE5198B7}\cmd.exe (1)
 2019-01-20 19:18:25Z
   Microsoft.Windows.Explorer (2)
