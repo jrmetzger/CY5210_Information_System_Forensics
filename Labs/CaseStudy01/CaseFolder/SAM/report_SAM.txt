@@ -1,0 +1,192 @@
+Hive (Z:\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Module_3\Lab_2\SAM\SAM) is not dirty.
+
+samparse v.20200825
+(SAM) Parse SAM file for user & group mbrshp info
+
+
+User Information
+-------------------------
+Username        : Administrator [500]
+Full Name       : 
+User Comment    : Built-in account for administering the computer/domain
+Account Type    : 
+Account Created : 2019-01-19 06:06:54Z
+Name            :  
+Last Login Date : Never
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Login Count     : 0
+Embedded RID    : 500
+  --> Password does not expire
+  --> Account Disabled
+  --> Normal user account
+
+Username        : Guest [501]
+Full Name       : 
+User Comment    : Built-in account for guest access to the computer/domain
+Account Type    : 
+Account Created : 2019-01-19 06:06:54Z
+Name            :  
+Last Login Date : Never
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Login Count     : 0
+Embedded RID    : 501
+  --> Password does not expire
+  --> Account Disabled
+  --> Password not required
+  --> Normal user account
+
+Username        : DefaultAccount [503]
+Full Name       : 
+User Comment    : A user account managed by the system.
+Account Type    : 
+Account Created : 2019-01-19 06:06:54Z
+Name            :  
+Last Login Date : Never
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Login Count     : 0
+Embedded RID    : 503
+  --> Password does not expire
+  --> Account Disabled
+  --> Password not required
+  --> Normal user account
+
+Username        : WDAGUtilityAccount [504]
+Full Name       : 
+User Comment    : A user account managed and used by the system for Windows Defender Application Guard scenarios.
+Account Type    : 
+Account Created : 2019-01-19 06:06:54Z
+Name            :  
+Last Login Date : Never
+Pwd Reset Date  : 2019-01-19 06:04:22Z
+Pwd Fail Date   : Never
+Login Count     : 0
+Embedded RID    : 504
+  --> Account Disabled
+  --> Normal user account
+
+Username        : srogers [1001]
+Full Name       : 
+User Comment    : 
+Account Type    : 
+Account Created : 2019-01-19 03:11:57Z
+Name            :  
+Password Hint   : Superhero Name
+Last Login Date : 2019-01-21 18:56:51Z
+Pwd Reset Date  : 2019-01-19 03:11:57Z
+Pwd Fail Date   : 2019-01-20 19:46:19Z
+Login Count     : 10
+Embedded RID    : 1001
+  --> Password does not expire
+  --> Password not required
+  --> Normal user account
+
+-------------------------
+Group Membership Information
+-------------------------
+Group Name    : Event Log Readers [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members of this group can read event logs from local machine
+Users         : None
+
+Group Name    : Guests [1]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Guests have the same access as members of the Users group by default, except for the Guest account which is further restricted
+Users :
+  S-1-5-21-263698462-3103634936-1936700066-501
+
+Group Name    : Network Configuration Operators [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members in this group can have some administrative privileges to manage configuration of networking features
+Users         : None
+
+Group Name    : Performance Log Users [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members of this group may schedule logging of performance counters, enable trace providers, and collect event traces both locally and via remote access to this computer
+Users         : None
+
+Group Name    : Hyper-V Administrators [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members of this group have complete and unrestricted access to all features of Hyper-V.
+Users         : None
+
+Group Name    : IIS_IUSRS [1]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Built-in group used by Internet Information Services.
+Users :
+  S-1-5-17
+
+Group Name    : Backup Operators [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Backup Operators can override security restrictions for the sole purpose of backing up or restoring files
+Users         : None
+
+Group Name    : Users [2]
+LastWrite     : 2019-01-20 02:44:10Z
+Group Comment : Users are prevented from making accidental or intentional system-wide changes and can run most applications
+Users :
+  S-1-5-4
+  S-1-5-11
+
+Group Name    : Access Control Assistance Operators [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members of this group can remotely query authorization attributes and permissions for resources on this computer.
+Users         : None
+
+Group Name    : System Managed Accounts Group [1]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members of this group are managed by the system.
+Users :
+  S-1-5-21-263698462-3103634936-1936700066-503
+
+Group Name    : Distributed COM Users [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members are allowed to launch, activate and use Distributed COM objects on this machine.
+Users         : None
+
+Group Name    : Administrators [2]
+LastWrite     : 2019-01-19 03:12:54Z
+Group Comment : Administrators have complete and unrestricted access to the computer/domain
+Users :
+  S-1-5-21-263698462-3103634936-1936700066-500
+  S-1-5-21-263698462-3103634936-1936700066-1001
+
+Group Name    : Power Users [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Power Users are included for backwards compatibility and possess limited administrative powers
+Users         : None
+
+Group Name    : Cryptographic Operators [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members are authorized to perform cryptographic operations.
+Users         : None
+
+Group Name    : Remote Management Users [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members of this group can access WMI resources over management protocols (such as WS-Management via the Windows Remote Management service). This applies only to WMI namespaces that grant access to the user.
+Users         : None
+
+Group Name    : Replicator [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Supports file replication in a domain
+Users         : None
+
+Group Name    : Performance Monitor Users [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members of this group can access performance counter data locally and remotely
+Users         : None
+
+Group Name    : Remote Desktop Users [0]
+LastWrite     : 2019-01-19 06:04:22Z
+Group Comment : Members in this group are granted the right to logon remotely
+Users         : None
+
+Analysis Tips:
+ - For well-known SIDs, see http://support.microsoft.com/kb/243330
+     - S-1-5-4  = Interactive
+     - S-1-5-11 = Authenticated Users
+ - Correlate the user SIDs to the output of the ProfileList plugin
+
+----------------------------------------
