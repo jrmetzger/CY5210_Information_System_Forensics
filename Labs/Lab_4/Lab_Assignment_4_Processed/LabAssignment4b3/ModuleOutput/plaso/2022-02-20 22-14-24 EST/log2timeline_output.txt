@@ -1,0 +1,90 @@
+
+Source path	: D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab Assignment 4B\InCh12Randall.001
+Source type	: storage media image
+Processing time	: 00:00:00
+
+Processing started.
+Worker_00 (PID: 3148) - events produced: 4752 - file: TSK:/Windows/Prefetch - running: True
+Worker_01 (PID: 8072) - events produced: 5031 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 3148) - events produced: 5444 - file: TSK:/Windows/Prefetch/GOOGLEUPDATE.EXE-F06C3F3F.pf - running: True
+Worker_01 (PID: 8072) - events produced: 21669 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 3148) - events produced: 5841 - file: TSK:/Windows/System32/config/SYSTEM - running: True
+Worker_01 (PID: 8072) - events produced: 37725 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 3148) - events produced: 6818 - file: TSK:/Users/Randall/NTUSER.DAT{2d63bfc5-d670-11e1-a66a-001ec9fe82c7}.TxR.0.regtrans-ms - running: True
+Worker_01 (PID: 8072) - events produced: 53845 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 3148) - events produced: 7199 - file: TSK:/Users/Randall/AppData/Local/Microsoft - running: True
+Worker_01 (PID: 8072) - events produced: 68996 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 3148) - events produced: 7443 - file: TSK:/Users/Randall/AppData/Local/Packages/Microsoft.ZuneMusic_8wekyb3d8bbwe - running: True
+Worker_01 (PID: 8072) - events produced: 84535 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 3148) - events produced: 7704 - file: TSK:/Users/Randall/AppData/Local/Packages/Microsoft.BingSports_8wekyb3d8bbwe/SystemAppData - running: True
+Worker_01 (PID: 8072) - events produced: 84711 - file: TSK:/Users/Randall/AppData/Roaming/Microsoft/Windows/Start Menu - running: True
+Worker_00 (PID: 3148) - events produced: 7993 - file: TSK:/Users/Randall/AppData/LocalLow/Microsoft/CryptnetUrlCache/Content/7423F88C7F265F0DEFC08EA88C3BDE45_11D7BA58D75E54D622A3AD9CDF9905BB - running: True
+Worker_01 (PID: 8072) - events produced: 84992 - file: TSK:/Users/Randall/AppData/Local/Packages/Microsoft.XboxLIVEGames_8wekyb3d8bbwe/LocalState - running: True
+Worker_00 (PID: 3148) - events produced: 8442 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/Notifications/070bacd7ded211e3afa408002784c134 - running: True
+Worker_01 (PID: 8072) - events produced: 85412 - file: TSK:/Users/Randall/AppData/Roaming/Thunderbird/Profiles/wqf8u2r0.default/addons.json - running: True
+Worker_00 (PID: 3148) - events produced: 8786 - file: TSK:/Users/Randall/AppData/Local/Packages/Microsoft.Reader_8wekyb3d8bbwe/AC/INetHistory - running: True
+Worker_01 (PID: 8072) - events produced: 86026 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/WebCache/WebCacheV01.dat - running: True
+Worker_00 (PID: 3148) - events produced: 9123 - file: TSK:/Users/Randall/AppData/Roaming/Microsoft/Network/Connections/Pbk/_hiddenPbk - running: True
+Worker_01 (PID: 8072) - events produced: 86937 - file: TSK:/Users/Randall/AppData/Local/Packages/Microsoft.ZuneMusic_8wekyb3d8bbwe/AC/INetHistory - running: True
+Worker_00 (PID: 3148) - events produced: 9690 - file: TSK:/Windows/System32/config/systemprofile/AppData/LocalLow/Microsoft/CryptnetUrlCache/MetaData/1DAF2884EC4DFA96BA4A58D4DBC9C406 - running: True
+Worker_01 (PID: 8072) - events produced: 87181 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/Notifications/070bacd7ded211e3afa408002784c134/CanadaFireweed_EN-US9328418332_310x150_sb[2].jpg - running: True
+Worker_00 (PID: 3148) - events produced: 10090 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/History/History.IE5/MSHist012014080820140809/container.dat - running: True
+Worker_01 (PID: 8072) - events produced: 88169 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Cookies - running: True
+Worker_00 (PID: 3148) - events produced: 10258 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/Live/Roaming/RemoteSync/edbres00001.jrs - running: True
+Worker_01 (PID: 8072) - events produced: 90299 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/Live/Roaming/LocalCache/windows-credentials - running: True
+Worker_00 (PID: 3148) - events produced: 10350 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/1/51 - running: True
+Worker_01 (PID: 8072) - events produced: 90475 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/1/42 - running: True
+Worker_00 (PID: 3148) - events produced: 10374 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/1/CF - running: True
+Worker_01 (PID: 8072) - events produced: 90495 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/1/7C - running: True
+Worker_00 (PID: 3148) - events produced: 10582 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/8/1F - running: True
+Worker_01 (PID: 8072) - events produced: 90607 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/4/CD - running: True
+Worker_00 (PID: 3148) - events produced: 10838 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/F/F3 - running: True
+Worker_01 (PID: 8072) - events produced: 90859 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/C/C5 - running: True
+Worker_00 (PID: 3148) - events produced: 11122 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Cache/f_000059 - running: True
+Worker_01 (PID: 8072) - events produced: 91143 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Cache/f_000024 - running: True
+Worker_00 (PID: 3148) - events produced: 11410 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/6S27KSDY/th[2].jpg - running: True
+Worker_01 (PID: 8072) - events produced: 91411 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Local Storage/http_c.betrad.com_0.localstorage - running: True
+Worker_00 (PID: 3148) - events produced: 11694 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/SCGT8W9Y/storage[1].swf - running: True
+Worker_01 (PID: 8072) - events produced: 91651 - file: TSK:/Users/Randall/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/92GLU4Q1/th[9].jpg - running: True
+Worker_00 (PID: 3148) - events produced: 11918 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/4/70/80F44d01 - running: True
+Worker_01 (PID: 8072) - events produced: 91963 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/2/21/1D7EEd01 - running: True
+Worker_00 (PID: 3148) - events produced: 12154 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/B/EE/DD0F7d01 - running: True
+Worker_01 (PID: 8072) - events produced: 92175 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/8/3A/C1173d01 - running: True
+Worker_00 (PID: 3148) - events produced: 12310 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Storage/ext/chrome-signin - running: True
+Worker_01 (PID: 8072) - events produced: 92407 - file: TSK:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/F/71/48C42d01 - running: True
+Worker_00 (PID: 3148) - events produced: 12394 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/File System/Origins/MANIFEST-000002 - running: True
+Worker_01 (PID: 8072) - events produced: 92499 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.6_0 - running: True
+Worker_00 (PID: 3148) - events produced: 12455 - file: GZIP:/Users/Randall/AppData/Local/Thunderbird/Profiles/wqf8u2r0.default/Cache/4/19/50606d01 - running: True
+Worker_01 (PID: 8072) - events produced: 92551 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Local Extension Settings/pafkbggdmjlpgkdkcbjmhmfcdpncadgh/CURRENT - running: True
+Worker_00 (PID: 3148) - events produced: 12609 - file: TSK:/Users/Randall/AppData/Local/Packages/microsoft.windowscommunicationsapps_8wekyb3d8bbwe/LocalState/LiveComm/f3fb25b095002c10/120712-0049/DBStore/LogFiles/edbtmp.log - running: True
+Worker_01 (PID: 8072) - events produced: 92636 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/bepbmhgboaologfdajaanbcjmnhjmhfn/0.1.1.5023_0/_platform_specific - running: True
+Worker_00 (PID: 3148) - events produced: 12757 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/aohghmighlieiainnegkcijnfilokake/0.7_0/_locales/lt - running: True
+Worker_01 (PID: 8072) - events produced: 92804 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/6.3_0/_locales/pt_BR - running: True
+Worker_00 (PID: 3148) - events produced: 12909 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.20_0/_locales/cs - running: True
+Worker_01 (PID: 8072) - events produced: 92944 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.6_0/_locales/hu - running: True
+Worker_00 (PID: 3148) - events produced: 12989 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/0.0.6.1_0/html/craw_window.html - running: True
+Worker_01 (PID: 8072) - events produced: 93080 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.20_0/_locales/ro - running: True
+Worker_00 (PID: 3148) - events produced: 13057 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/0.0.6.1_0/_locales/sk - running: True
+Worker_01 (PID: 8072) - events produced: 93156 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/0.0.6.1_0/_locales/pl - running: True
+Worker_00 (PID: 3148) - events produced: 13169 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/File System/000/t/Paths/CURRENT - running: True
+Worker_01 (PID: 8072) - events produced: 93244 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/pjkljhegncpnkpknbcohdijeoejaedia/7_1/_locales/it - running: True
+Worker_00 (PID: 3148) - events produced: 13293 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/6.3_0/_locales/zh_CN/messages.json - running: True
+Worker_01 (PID: 8072) - events produced: 93352 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/apdfllckaahabafndbhieahigkjlhalf/6.3_0/_locales/fi/messages.json - running: True
+Worker_00 (PID: 3148) - events produced: 13469 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/coobgpohoikkiipiblmjeljniedjpjpf/0.0.0.20_0/_locales/ca/messages.json - running: True
+Worker_01 (PID: 8072) - events produced: 93536 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/blpcfgokakmgnkcojhhkbfbldkacnbeo/4.2.6_0/_locales/lt/messages.json - running: True
+Worker_00 (PID: 3148) - events produced: 13613 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/0.0.6.1_0/_locales/sr/messages.json - running: True
+Worker_01 (PID: 8072) - events produced: 93680 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Extensions/nmmhkkegccagdldgiimedpiccmgmieda/0.0.6.1_0/_locales/el/messages.json - running: True
+Worker_00 (PID: 3148) - events produced: 13781 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Pepper Data/Shockwave Flash/WritableRoot/#SharedObjects/T4UYRTEL/macromedia.com/support/flashplayer/sys/#skype.com/settings.sol - running: True
+Worker_01 (PID: 8072) - events produced: 93836 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Pepper Data/Shockwave Flash/WritableRoot/#SharedObjects/T4UYRTEL/vox-static.liverail.com - running: True
+Worker_00 (PID: 3148) - events produced: 13781 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Pepper Data/Shockwave Flash/WritableRoot/#SharedObjects/T4UYRTEL/macromedia.com/support/flashplayer/sys/#skype.com/settings.sol - running: True
+Worker_01 (PID: 8072) - events produced: 93836 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Pepper Data/Shockwave Flash/WritableRoot/#SharedObjects/T4UYRTEL/vox-static.liverail.com - running: True
+Worker_00 (PID: 3148) - events produced: 13785 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Pepper Data/Shockwave Flash/WritableRoot/#SharedObjects/T4UYRTEL/macromedia.com/support/flashplayer/sys/#video.viewster.com/settings.sol - running: True
+Worker_01 (PID: 8072) - events produced: 93904 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Pepper Data/Shockwave Flash/WritableRoot/#SharedObjects/T4UYRTEL/macromedia.com/support/flashplayer/sys/#software.hiro.tv/settings.sol - running: True
+Worker_00 (PID: 3148) - events produced: 13785 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Pepper Data/Shockwave Flash/WritableRoot/#SharedObjects/T4UYRTEL/macromedia.com/support/flashplayer/sys/#video.viewster.com/settings.sol - running: True
+Worker_01 (PID: 8072) - events produced: 93904 - file: TSK:/Users/Randall/AppData/Local/Google/Chrome/User Data/Default/Pepper Data/Shockwave Flash/WritableRoot/#SharedObjects/T4UYRTEL/macromedia.com/support/flashplayer/sys/#software.hiro.tv/settings.sol - running: True
+Processing completed.
+
+Number of errors encountered while extracting events: 16.
+
+Use pinfo to inspect errors in more detail.
+

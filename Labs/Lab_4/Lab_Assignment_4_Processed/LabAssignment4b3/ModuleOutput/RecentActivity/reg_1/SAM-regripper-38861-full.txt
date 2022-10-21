@@ -1,0 +1,158 @@
+***Hive Check***
+Hive is not dirty.
+
+samparse v.20160203
+(SAM) Parse SAM file for user & group mbrshp info
+
+
+User Information
+-------------------------
+Username        : Administrator [500]
+SID             : S-1-5-21-3057426867-222828032-2530963727-500
+Full Name       : 
+User Comment    : Built-in account for administering the computer/domain
+Account Type    : Default Admin User
+Account Created : Sat Apr 12 00:23:26 2014 Z
+Name            :  
+Last Login Date : Sat Nov 20 21:48:12 2010 Z
+Pwd Reset Date  : Sat Nov 20 21:56:34 2010 Z
+Pwd Fail Date   : Never
+Login Count     : 6
+  --> Password does not expire
+  --> Account Disabled
+  --> Normal user account
+
+Username        : Guest [501]
+SID             : S-1-5-21-3057426867-222828032-2530963727-501
+Full Name       : 
+User Comment    : Built-in account for guest access to the computer/domain
+Account Type    : Default Guest Acct
+Account Created : Sat Apr 12 00:23:26 2014 Z
+Name            :  
+Last Login Date : Never
+Pwd Reset Date  : Never
+Pwd Fail Date   : Never
+Login Count     : 0
+  --> Password does not expire
+  --> Account Disabled
+  --> Password not required
+  --> Normal user account
+
+Username        : admin [1000]
+SID             : S-1-5-21-3057426867-222828032-2530963727-1000
+Full Name       : 
+User Comment    : 
+Account Type    : Default Admin User
+Account Created : Sat Apr 12 00:25:06 2014 Z
+Name            :  
+Password Hint   : owner admin
+Last Login Date : Wed Jul 23 22:15:25 2014 Z
+Pwd Reset Date  : Sat Apr 12 00:25:06 2014 Z
+Pwd Fail Date   : Tue Jul 22 17:49:58 2014 Z
+Login Count     : 12
+  --> Password does not expire
+  --> Password not required
+  --> Normal user account
+
+Username        : Randall Simpson [1001]
+SID             : S-1-5-21-3057426867-222828032-2530963727-1001
+Full Name       : Randall Simpson
+User Comment    : 
+Account Type    : Custom Limited Acct
+Account Created : Sun May 18 20:51:02 2014 Z
+Name            :  
+Password Hint   : Name  of our company is:
+Last Login Date : Wed Jul 30 15:51:48 2014 Z
+Pwd Reset Date  : Sun May 18 20:51:57 2014 Z
+Pwd Fail Date   : Thu Jul 24 15:53:01 2014 Z
+Login Count     : 8
+  --> Password does not expire
+  --> Normal user account
+
+-------------------------
+Group Membership Information
+-------------------------
+Group Name    : Users [3]
+LastWrite     : Sun May 18 20:51:03 2014 Z
+Group Comment : Users are prevented from making accidental or intentional system-wide changes and can run most applications
+Users :
+  S-1-5-4
+  S-1-5-11
+  S-1-5-21-3057426867-222828032-2530963727-1001
+
+Group Name    : Event Log Readers [0]
+LastWrite     : Tue Jul 14 04:34:12 2009 Z
+Group Comment : Members of this group can read event logs from local machine
+Users         : None
+
+Group Name    : Guests [1]
+LastWrite     : Sat Apr 12 00:19:26 2014 Z
+Group Comment : Guests have the same access as members of the Users group by default, except for the Guest account which is further restricted
+Users :
+  S-1-5-21-3057426867-222828032-2530963727-501
+
+Group Name    : Distributed COM Users [0]
+LastWrite     : Tue Jul 14 04:34:12 2009 Z
+Group Comment : Members are allowed to launch, activate and use Distributed COM objects on this machine.
+Users         : None
+
+Group Name    : Administrators [2]
+LastWrite     : Sat Apr 12 00:25:06 2014 Z
+Group Comment : Administrators have complete and unrestricted access to the computer/domain
+Users :
+  S-1-5-21-3057426867-222828032-2530963727-500
+  S-1-5-21-3057426867-222828032-2530963727-1000
+
+Group Name    : Network Configuration Operators [0]
+LastWrite     : Sat Apr 12 00:19:50 2014 Z
+Group Comment : Members in this group can have some administrative privileges to manage configuration of networking features
+Users         : None
+
+Group Name    : Cryptographic Operators [0]
+LastWrite     : Sat Apr 12 00:19:50 2014 Z
+Group Comment : Members are authorized to perform cryptographic operations.
+Users         : None
+
+Group Name    : Power Users [0]
+LastWrite     : Sat Apr 12 00:19:50 2014 Z
+Group Comment : Power Users are included for backwards compatibility and possess limited administrative powers
+Users         : None
+
+Group Name    : Performance Log Users [0]
+LastWrite     : Tue Jul 14 04:34:12 2009 Z
+Group Comment : Members of this group may schedule logging of performance counters, enable trace providers, and collect event traces both locally and via remote access to this computer
+Users         : None
+
+Group Name    : Replicator [0]
+LastWrite     : Sat Apr 12 00:19:50 2014 Z
+Group Comment : Supports file replication in a domain
+Users         : None
+
+Group Name    : Performance Monitor Users [0]
+LastWrite     : Tue Jul 14 04:34:12 2009 Z
+Group Comment : Members of this group can access performance counter data locally and remotely
+Users         : None
+
+Group Name    : Remote Desktop Users [0]
+LastWrite     : Sat Apr 12 00:19:50 2014 Z
+Group Comment : Members in this group are granted the right to logon remotely
+Users         : None
+
+Group Name    : IIS_IUSRS [1]
+LastWrite     : Tue Jul 14 04:34:12 2009 Z
+Group Comment : Built-in group used by Internet Information Services.
+Users :
+  S-1-5-17
+
+Group Name    : Backup Operators [0]
+LastWrite     : Sat Apr 12 00:19:50 2014 Z
+Group Comment : Backup Operators can override security restrictions for the sole purpose of backing up or restoring files
+Users         : None
+
+Analysis Tips:
+ - For well-known SIDs, see http://support.microsoft.com/kb/243330
+     - S-1-5-4  = Interactive
+     - S-1-5-11 = Authenticated Users
+ - Correlate the user SIDs to the output of the ProfileList plugin
+
+----------------------------------------

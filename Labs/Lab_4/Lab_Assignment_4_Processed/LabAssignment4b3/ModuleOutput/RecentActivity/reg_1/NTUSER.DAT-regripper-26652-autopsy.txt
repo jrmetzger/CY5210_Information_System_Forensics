@@ -1,0 +1,62 @@
+<logon>
+<mtime>Tue Aug 12 01:34:36 2014</mtime><artifacts>
+</artifacts></logon>
+----------------------------------------
+<recentdocs><mtime>Tue Aug 12 00:37:20 2014</mtime><artifacts>
+<doc name="Windows">All Tasks</doc>
+<doc name="Windows">User Accounts and Family Safety</doc>
+<doc name="Windows">The Internet</doc>
+</artifacts></recentdocs>
+----------------------------------------
+<runMRU>
+<mtime>Tue Aug 12 01:34:36 2014</mtime>
+<artifacts>
+</artifacts>
+</runMRU>
+----------------------------------------
+<shellfolders>
+<mtime>Sun Apr 13 21:15:37 2014</mtime>
+<artifacts>
+<shell name="!Do not use this registry key"> Use the SHGetFolderPath or SHGetKnownFolderPath function instead</shell>
+<shell name="AppData"> C:\Users\Admin\AppData\Roaming</shell>  
+<shell name="Local AppData"> C:\Users\Admin\AppData\Local</shell>    
+<shell name="My Video"> C:\Users\Admin\Videos</shell>           
+<shell name="{1B3EA5DC-B587-4786-B4EF-BD1DC332AEAE}"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Libraries</shell>
+<shell name="My Pictures"> C:\Users\Admin\Pictures</shell>         
+<shell name="Desktop"> C:\Users\Admin\Desktop</shell>          
+<shell name="History"> C:\Users\Admin\AppData\Local\Microsoft\Windows\History</shell>
+<shell name="NetHood"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Network Shortcuts</shell>
+<shell name="{56784854-C6CB-462B-8169-88E350ACB882}"> C:\Users\Admin\Contacts</shell>         
+<shell name="{00BCFC5A-ED94-4E48-96A1-3F6217F21990}"> C:\Users\Admin\AppData\Local\Microsoft\Windows\RoamingTiles</shell>
+<shell name="Cookies"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Cookies</shell>
+<shell name="Favorites"> C:\Users\Admin\Favorites</shell>        
+<shell name="SendTo"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\SendTo</shell>
+<shell name="Start Menu"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu</shell>
+<shell name="My Music"> C:\Users\Admin\Music</shell>            
+<shell name="Programs"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</shell>
+<shell name="Recent"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Recent</shell>
+<shell name="CD Burning"> C:\Users\Admin\AppData\Local\Microsoft\Windows\Burn\Burn</shell>
+<shell name="PrintHood"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Printer Shortcuts</shell>
+<shell name="{7D1D3A04-DEBB-4115-95CF-2F29DA2920DA}"> C:\Users\Admin\Searches</shell>         
+<shell name="{374DE290-123F-4565-9164-39C4925E467B}"> C:\Users\Admin\Downloads</shell>        
+<shell name="{A520A1A4-1780-4FF6-BD18-167343C5AF16}"> C:\Users\Admin\AppData\LocalLow</shell> 
+<shell name="Startup"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</shell>
+<shell name="Administrative Tools"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Administrative Tools</shell>
+<shell name="Personal"> C:\Users\Admin\Documents</shell>        
+<shell name="{BFB9D5E0-C6A9-404C-B2B2-AE6DB6AF4968}"> C:\Users\Admin\Links</shell>            
+<shell name="Cache"> C:\Users\Admin\AppData\Local\Microsoft\Windows\Temporary Internet Files</shell>
+<shell name="Templates"> C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Templates</shell>
+<shell name="{4C5C32FF-BB9D-43B0-B5B4-2D72E54EAAA4}"> C:\Users\Admin\Saved Games</shell>      
+<shell name="Fonts"> C:\Windows\Fonts</shell>                
+
+</artifacts></shellfolders>
+----------------------------------------
+----------------------------------------
+<office>
+</office>
+----------------------------------------
+<NtuserNetwork>
+<mtime></mtime>
+<artifacts>
+</artifacts></NtuserNetwork>
+----------------------------------------

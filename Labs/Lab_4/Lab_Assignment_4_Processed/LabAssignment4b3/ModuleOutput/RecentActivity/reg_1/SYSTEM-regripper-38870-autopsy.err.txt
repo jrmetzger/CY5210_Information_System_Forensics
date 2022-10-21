@@ -1,0 +1,16 @@
+Parsed Plugins file.
+Error in autopsyusb: Can't call method "get_root_key" on an undefined value at C:\Program Files\Autopsy-4.19.1\autopsy\rr\plugins\autopsyusb.pl line 36.
+
+autopsyusb complete.
+Error in autopsynic2: Can't call method "get_root_key" on an undefined value at C:\Program Files\Autopsy-4.19.1\autopsy\rr\plugins\autopsynic2.pl line 45.
+
+autopsynic2 complete.
+Error in autopsyprocarchitecture: Can't call method "get_root_key" on an undefined value at C:\Program Files\Autopsy-4.19.1\autopsy\rr\plugins\autopsyprocarchitecture.pl line 33.
+
+autopsyprocarchitecture complete.
+Error in autopsycompname: Can't call method "get_root_key" on an undefined value at C:\Program Files\Autopsy-4.19.1\autopsy\rr\plugins\autopsycompname.pl line 42.
+
+autopsycompname complete.
+Error in autopsyprofiler: Can't call method "get_root_key" on an undefined value at C:\Program Files\Autopsy-4.19.1\autopsy\rr\plugins\autopsyprofiler.pl line 44.
+
+autopsyprofiler complete.

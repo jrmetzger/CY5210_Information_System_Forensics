@@ -1,0 +1,9 @@
+Processing completed.
+
+******************************** Export results ********************************
+        Events processed : 107689
+     Events MACB grouped : 105214
+Duplicate events removed : 38
+         Events filtered : 0
+  Events from time slice : 0
+--------------------------------------------------------------------------------

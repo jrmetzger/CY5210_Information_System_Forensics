@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>5.0</SchemaVersion>
+  <CreatedDate>2022/02/20 12:59:33 (EST)</CreatedDate>
+  <ModifiedDate>2022/02/20 12:59:35 (EST)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.19.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.19.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>labassignment4a3_20220220_125933</Name>
+    <DisplayName>LabAssignment4a3</DisplayName>
+    <Number>LabAssignment4a3</Number>
+    <Examiner>E. Booker</Examiner>
+    <ExaminerPhone/>
+    <ExaminerEmail/>
+    <CaseNotes/>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <OriginalCase/>
+</AutopsyCase>

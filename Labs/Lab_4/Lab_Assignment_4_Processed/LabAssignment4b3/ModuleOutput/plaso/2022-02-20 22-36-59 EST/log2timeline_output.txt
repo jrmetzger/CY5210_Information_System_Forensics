@@ -1,0 +1,156 @@
+
+Source path	: D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab Assignment 4B\InCh12Sarah.001
+Source type	: storage media image
+Processing time	: 00:00:00
+
+Processing started.
+Worker_00 (PID: 16544) - events produced: 459 - file: TSK:/$Extend/$UsnJrnl - running: True
+Worker_01 (PID: 9404) - events produced: 9913 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 16544) - events produced: 8045 - file: TSK:/$Extend/$UsnJrnl - running: True
+Worker_01 (PID: 9404) - events produced: 26616 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 16544) - events produced: 10833 - file: TSK:/Windows/Prefetch/SVCHOST.EXE-7AC6742A.pf - running: True
+Worker_01 (PID: 9404) - events produced: 43186 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 16544) - events produced: 11242 - file: TSK:/$Extend/$RmMetadata/$TxfLog/$TxfLog.blf - running: True
+Worker_01 (PID: 9404) - events produced: 60122 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 16544) - events produced: 11619 - file: TSK:/Users/Sarah/Dropbox/.dropbox.cache/prefetch_cache - running: True
+Worker_01 (PID: 9404) - events produced: 77008 - file: TSK:/$MFT - running: True
+Worker_00 (PID: 16544) - events produced: 11967 - file: TSK:/Windows/System32/config/systemprofile/AppData/LocalLow/Microsoft - running: True
+Worker_01 (PID: 9404) - events produced: 84596 - file: TSK:/Users/Sarah/AppData/Roaming/Microsoft/Windows/Themes - running: True
+Worker_00 (PID: 16544) - events produced: 12204 - file: TSK:/Users/Sarah/AppData/Local/Temp/scoped_dir2028_27993/AppCache - running: True
+Worker_01 (PID: 9404) - events produced: 84828 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/UsrClass.dat{f26c4d6a-decc-11e3-98be-080027f4ffda}.TMContainer00000000000000000002.regtrans-ms - running: True
+Worker_00 (PID: 16544) - events produced: 12504 - file: TSK:/Users/Sarah/AppData/LocalLow/Microsoft/CryptnetUrlCache/Content/7D266D9E1E69FA1EEFB9699B009B34C8_8CA7164968F366C9A94AC8E71C4BDD9B - running: True
+Worker_01 (PID: 9404) - events produced: 85172 - file: TSK:/Users/Sarah/AppData/LocalLow/Microsoft/CryptnetUrlCache/Content/FCD2CC3451EF5F3DB8D4B7DD511B2F77_2CB6116529341403E3777E69068D1312 - running: True
+Worker_00 (PID: 16544) - events produced: 12908 - file: TSK:/Users/Sarah/AppData/LocalLow/Microsoft/CryptnetUrlCache/MetaData/91ECFED5143F7F4F4576655D8EFAB51C_4BF9E091F7E646918992616FB44457D6 - running: True
+Worker_01 (PID: 9404) - events produced: 85608 - file: TSK:/Users/Sarah/AppData/Roaming/Microsoft/Windows/Libraries/Music.library-ms - running: True
+Worker_00 (PID: 16544) - events produced: 13349 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Virtualized - running: True
+Worker_01 (PID: 9404) - events produced: 85897 - file: TSK:/Users/Sarah/AppData/LocalLow/Microsoft/Internet Explorer/DOMStore/J7AXSC8A/www.pillsbury[1].xml - running: True
+Worker_00 (PID: 16544) - events produced: 13725 - file: TSK:/Users/Sarah/AppData/Roaming/Microsoft/Windows/Cookies/Low/randall_simpson@bs.serving-sys[1].txt - running: True
+Worker_01 (PID: 9404) - events produced: 86309 - file: TSK:/Users/Sarah/AppData/Roaming/Thunderbird/Profiles/x499mn76.default/ImapMail/imap.googlemail.com.msf - running: True
+Worker_00 (PID: 16544) - events produced: 14127 - file: TSK:/Users/Sarah/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Accessories/Accessibility - running: True
+Worker_01 (PID: 9404) - events produced: 86686 - file: TSK:/Users/Sarah/AppData/Local/Thunderbird/Profiles/x499mn76.default/Cache/6/6E - running: True
+Worker_00 (PID: 16544) - events produced: 14465 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/OB8ZFCWX/desktop.ini - running: True
+Worker_01 (PID: 9404) - events produced: 86894 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR - running: True
+Worker_00 (PID: 16544) - events produced: 14609 - file: TSK:/Users/Sarah/AppData/Local/Thunderbird/Profiles/x499mn76.default/Cache/2/2C/231FEd01 - running: True
+Worker_01 (PID: 9404) - events produced: 87147 - file: TSK:/Users/Sarah/AppData/Local/Thunderbird/Profiles/x499mn76.default/Cache/9/C0/EFAF1d01 - running: True
+Worker_00 (PID: 16544) - events produced: 14905 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3VGIMBIZ/bootstrap[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 87527 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3VGIMBIZ/icon[1].png - running: True
+Worker_00 (PID: 16544) - events produced: 15345 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3VGIMBIZ/tgx[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 87955 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/140724_FOR_NetanyahuPress.jpg.CROP.rectangle-xsmall[1].jpg - running: True
+Worker_00 (PID: 16544) - events produced: 15701 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/timer[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 88315 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/VerifyOldPassword[1].htm - running: True
+Worker_00 (PID: 16544) - events produced: 16121 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/96691_ModernMix_MSN_300x600_1[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 88787 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/cleardot[4].gif - running: True
+Worker_00 (PID: 16544) - events produced: 16557 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/f[10].txt - running: True
+Worker_01 (PID: 9404) - events produced: 89195 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/jquery.min[2].js - running: True
+Worker_00 (PID: 16544) - events produced: 16897 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/newattachmentcards-7f961476482232d487c7980cdeb07e59[1].png - running: True
+Worker_01 (PID: 9404) - events produced: 89459 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/pixel[3].gif - running: True
+Worker_00 (PID: 16544) - events produced: 17233 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/Search[1].css - running: True
+Worker_01 (PID: 9404) - events produced: 89839 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/thOQ60C9YF.jpg - running: True
+Worker_00 (PID: 16544) - events produced: 17633 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/3LCLMURE/wol.common[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 90219 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/18347039[1].gif - running: True
+Worker_00 (PID: 16544) - events produced: 17953 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/8a50a5ff-36be-4d4f-85d7-a3f1f3660c28_q60[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 90551 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/cb=gapi[10].js - running: True
+Worker_00 (PID: 16544) - events produced: 18229 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/01dcf4d414[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 90811 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/flex[1].htm - running: True
+Worker_00 (PID: 16544) - events produced: 18425 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/111003_HUAL_illo.jpg.CROP.rectangle-xsmall[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 90871 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/getentities[4].js - running: True
+Worker_00 (PID: 16544) - events produced: 18441 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/get[3].txt - running: True
+Worker_01 (PID: 9404) - events produced: 90891 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/gigya.services.socialize.plugins.min[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 18509 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/140128_PageHeader_234x60_Statoil[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 91019 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/knockout.validation.min[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 18821 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/pixel[1].gif - running: True
+Worker_01 (PID: 9404) - events produced: 91363 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/rs=AItRSTMjmQPviTNX5jE8D_JaOa5C5362ug[2].js - running: True
+Worker_00 (PID: 16544) - events produced: 18993 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/18289145[1].gif - running: True
+Worker_01 (PID: 9404) - events produced: 91431 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/rs=AItRSTNVjyCewv42FSzlOY13MIt_T5xJlQ[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 19037 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/rs=AItRSTOmXgDN2BXA9hzFn5yKh12VhZRPSw[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 91471 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/rs=AItRSTP76NIy61mtBypsCOVoVmzWQdl9bw[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 19097 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/Rust_Button_right[1].png - running: True
+Worker_01 (PID: 9404) - events produced: 91551 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/18299170[1].gif - running: True
+Worker_00 (PID: 16544) - events produced: 19253 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/th2WY93K9N.jpg - running: True
+Worker_01 (PID: 9404) - events produced: 91719 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/18318108[1].gif - running: True
+Worker_00 (PID: 16544) - events produced: 19385 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/18321390[1].gif - running: True
+Worker_01 (PID: 9404) - events produced: 91851 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/unnamedCE0NX82L.gif - running: True
+Worker_00 (PID: 16544) - events produced: 19561 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/4AL307FC/visitor[8].json - running: True
+Worker_01 (PID: 9404) - events produced: 92043 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/120x60_Dome_bkgd[1].png - running: True
+Worker_00 (PID: 16544) - events produced: 19737 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/BF60389530E83C6646557892D961ED[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 92203 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/channels[1].css - running: True
+Worker_00 (PID: 16544) - events produced: 19841 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/300x600_WomensPlus_perch41939[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 92303 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/function-natives[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 19953 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/icon-small-s74e4a0a685[1].png - running: True
+Worker_01 (PID: 9404) - events produced: 92391 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/image[9].jpg - running: True
+Worker_00 (PID: 16544) - events produced: 20097 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/nokia-lumia-530-tilt-promo[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 92583 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/shoe-lace-ribbons-ictcrop_75[1].jpg - running: True
+Worker_00 (PID: 16544) - events produced: 20277 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/th[10].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 92715 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/GE7CJ96W/urs[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 20445 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/4b47249b-82ce-4e67-be3a-f069a47cee20_220_q60[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 92887 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/anonc[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 20573 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/cleardot[2].gif - running: True
+Worker_01 (PID: 9404) - events produced: 93055 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/flash-vfl93QRV7[1].png - running: True
+Worker_00 (PID: 16544) - events produced: 20741 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/Image[3].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 93207 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/mail[1] - running: True
+Worker_00 (PID: 16544) - events produced: 20905 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/quant[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 93323 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/rpc[1].flow - running: True
+Worker_00 (PID: 16544) - events produced: 21021 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/thCA4O8887.jpg - running: True
+Worker_01 (PID: 9404) - events produced: 93447 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/HV77B7LR/th[2].jpg - running: True
+Worker_00 (PID: 16544) - events produced: 21149 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/MI39NPBA/20140528-maison-du-bitcoin-logo[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 93599 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/MI39NPBA/ajax_form-vflI3tdj8[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 21305 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/MI39NPBA/count[1].json - running: True
+Worker_01 (PID: 9404) - events produced: 93775 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/MI39NPBA/fpc[1].pl - running: True
+Worker_00 (PID: 16544) - events produced: 21497 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/854f0725-8c70-447b-bdf7-b3017391cc9e_220_q60[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 93951 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/8B8EDDC16A74A30F9CF15EDD23A79[1].jpg - running: True
+Worker_00 (PID: 16544) - events produced: 21601 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/MI39NPBA/object-helper-1.0[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 94055 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/MI39NPBA/reload[1] - running: True
+Worker_00 (PID: 16544) - events produced: 21781 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/MI39NPBA/thCA7PY7Z3.jpg - running: True
+Worker_01 (PID: 9404) - events produced: 94239 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/MI39NPBA/WindowsLiveConnect_c[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 21949 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/140722_FT_BillGatesAutodidact.jpg.CROP.promo-medium2[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 94387 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/18306064[1].gif - running: True
+Worker_00 (PID: 16544) - events produced: 22109 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/311[1].jpg - running: True
+Worker_01 (PID: 9404) - events produced: 94543 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/53d0ba2df4c1fe5b9ef0ae0c_150x150[1].jpg - running: True
+Worker_00 (PID: 16544) - events produced: 22229 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/activityi;src=3735144;type=pills057;cat=pills096;ord=8029463126476[1].htm - running: True
+Worker_01 (PID: 9404) - events produced: 94715 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/AdCallAggregator[4].htm - running: True
+Worker_00 (PID: 16544) - events produced: 22449 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/ADSAdClient31[4].htm - running: True
+Worker_01 (PID: 9404) - events produced: 94883 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/cJZKeOuBrn4kERxqtaUH3T8E0i7KZn-EPnyo3HZu7kw[1].woff - running: True
+Worker_00 (PID: 16544) - events produced: 22589 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/cTagsImgCmd[1].htm - running: True
+Worker_01 (PID: 9404) - events produced: 95007 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/dfp-lib[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 22761 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/fSQBPFZDQ.txt - running: True
+Worker_01 (PID: 9404) - events produced: 95210 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/ha5[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 22929 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/jquery.cookie[2].js - running: True
+Worker_01 (PID: 9404) - events produced: 95347 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/bingy-b4275e1161e408f09e3bf3c9b8816941[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 23109 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/ns_OpenClose_close[1].png - running: True
+Worker_01 (PID: 9404) - events produced: 95523 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/philips_airfryer_thumb[1].jpg - running: True
+Worker_00 (PID: 16544) - events produced: 23233 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/pixel[5].gif - running: True
+Worker_01 (PID: 9404) - events produced: 95643 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/p[1].js - running: True
+Worker_00 (PID: 16544) - events produced: 23353 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/rs=AD6RtdMyWJns-qByqXV-lP0SiytOxEY4fw[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 95787 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/rs=AItRSTPB1lIPT8Mpn0_J_pXtmKowWshG3g[2].js - running: True
+Worker_00 (PID: 16544) - events produced: 23585 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/th0RH4VCMK.jpg - running: True
+Worker_01 (PID: 9404) - events produced: 95979 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/thUHMWM004.jpg - running: True
+Worker_00 (PID: 16544) - events produced: 23721 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/trans_pixel[2].gif - running: True
+Worker_01 (PID: 9404) - events produced: 96151 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/T05RG7QS/unnamed[9].jpg - running: True
+Worker_00 (PID: 16544) - events produced: 23961 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/default[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 96399 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/fVOIPYDPZ.txt - running: True
+Worker_00 (PID: 16544) - events produced: 24205 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/hscv[6].htm - running: True
+Worker_01 (PID: 9404) - events produced: 96639 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/l[10].gif - running: True
+Worker_00 (PID: 16544) - events produced: 24433 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/navcancl[1] - running: True
+Worker_01 (PID: 9404) - events produced: 96735 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/ne[2].htm - running: True
+Worker_00 (PID: 16544) - events produced: 24445 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/noscript[1].gif - running: True
+Worker_01 (PID: 9404) - events produced: 96791 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/pixel8QV1ZUFO.gif - running: True
+Worker_00 (PID: 16544) - events produced: 24573 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/pubads_impl_45[1].js - running: True
+Worker_01 (PID: 9404) - events produced: 96911 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/right_corners[1].png - running: True
+Worker_00 (PID: 16544) - events produced: 24649 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/rs=AItRSTMrcV6DyFI2xZR6SJ9pyj1bdgG2Qg[2].js - running: True
+Worker_01 (PID: 9404) - events produced: 96991 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/rs=AItRSTOr6KU8yEplvdprfFaApFW8qhua1Q[2].js - running: True
+Worker_00 (PID: 16544) - events produced: 24745 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/ServiceLoginAuth3030599e[1].htm - running: True
+Worker_01 (PID: 9404) - events produced: 97075 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/si[1].gif - running: True
+Worker_00 (PID: 16544) - events produced: 24813 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/sync[1].gif - running: True
+Worker_01 (PID: 9404) - events produced: 97121 - file: GZIP:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/RecoverAccount[1].htm - running: True
+Worker_00 (PID: 16544) - events produced: 24813 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/sync[1].gif - running: True
+Worker_01 (PID: 9404) - events produced: 97121 - file: GZIP:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Low/Content.IE5/2XDJEY7Q/RecoverAccount[1].htm - running: True
+Worker_00 (PID: 16544) - events produced: 24851 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Virtualized/C/Users/Randall Simpson/AppData/Roaming/Microsoft/Windows/PrivacIE - running: True
+Worker_01 (PID: 9404) - events produced: 97147 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Virtualized/C/Users/Randall Simpson/AppData/Roaming/Microsoft/Windows/PrivacIE/Low - running: True
+Worker_00 (PID: 16544) - events produced: 24851 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Virtualized/C/Users/Randall Simpson/AppData/Roaming/Microsoft/Windows/PrivacIE - running: True
+Worker_01 (PID: 9404) - events produced: 97147 - file: TSK:/Users/Sarah/AppData/Local/Microsoft/Windows/Temporary Internet Files/Virtualized/C/Users/Randall Simpson/AppData/Roaming/Microsoft/Windows/PrivacIE/Low - running: True
+Processing completed.
+
+Number of errors encountered while extracting events: 9.
+
+Use pinfo to inspect errors in more detail.
+

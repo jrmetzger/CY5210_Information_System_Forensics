@@ -1,0 +1,10 @@
+Parsed Plugins file.
+Error in autopsywinver: Can't call method "get_root_key" on an undefined value at C:\Program Files\Autopsy-4.19.1\autopsy\rr\plugins\autopsywinver.pl line 33.
+
+autopsywinver complete.
+Error in autopsyuninstall: Can't call method "get_root_key" on an undefined value at C:\Program Files\Autopsy-4.19.1\autopsy\rr\plugins\autopsyuninstall.pl line 48.
+
+autopsyuninstall complete.
+Error in autopsyprofilelist: Can't call method "get_root_key" on an undefined value at C:\Program Files\Autopsy-4.19.1\autopsy\rr\plugins\autopsyprofilelist.pl line 47.
+
+autopsyprofilelist complete.

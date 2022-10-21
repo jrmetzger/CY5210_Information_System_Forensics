@@ -1,0 +1,14 @@
+38861	/img_InCh12Sarah.001/Windows/System32/config/RegBack/SAM
+38873	/img_InCh12Sarah.001/Windows/System32/config/SAM
+26652	/img_InCh12Sarah.001/Users/Admin/NTUSER.DAT
+26662	/img_InCh12Sarah.001/Users/Default/NTUSER.DAT
+38524	/img_InCh12Sarah.001/Users/Sarah/NTUSER.DAT
+39029	/img_InCh12Sarah.001/Windows/System32/config/systemprofile/ntuser.dat
+45989	/img_InCh12Sarah.001/$OrphanFiles/config/systemprofile/ntuser.dat
+36148	/img_InCh12Sarah.001/Users/Sarah/AppData/Local/Microsoft/Windows/UsrClass.dat
+38870	/img_InCh12Sarah.001/Windows/System32/config/RegBack/SYSTEM
+38890	/img_InCh12Sarah.001/Windows/System32/config/SYSTEM
+38867	/img_InCh12Sarah.001/Windows/System32/config/RegBack/SOFTWARE
+38885	/img_InCh12Sarah.001/Windows/System32/config/SOFTWARE
+38864	/img_InCh12Sarah.001/Windows/System32/config/RegBack/SECURITY
+38879	/img_InCh12Sarah.001/Windows/System32/config/SECURITY

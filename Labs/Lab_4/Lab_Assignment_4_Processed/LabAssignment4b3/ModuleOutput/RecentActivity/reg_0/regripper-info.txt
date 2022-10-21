@@ -1,0 +1,13 @@
+13765	/img_InCh12Randall.001/Windows/System32/config/SAM
+13776	/img_InCh12Randall.001/Windows/System32/config/RegBack/SAM
+299	/img_InCh12Randall.001/Users/Admin/NTUSER.DAT
+309	/img_InCh12Randall.001/Users/Default/NTUSER.DAT
+6943	/img_InCh12Randall.001/Users/Randall/NTUSER.DAT
+14010	/img_InCh12Randall.001/Windows/System32/config/systemprofile/ntuser.dat
+3490	/img_InCh12Randall.001/Users/Randall/AppData/Local/Microsoft/Windows/UsrClass.dat
+13785	/img_InCh12Randall.001/Windows/System32/config/RegBack/SYSTEM
+13797	/img_InCh12Randall.001/Windows/System32/config/SYSTEM
+13782	/img_InCh12Randall.001/Windows/System32/config/RegBack/SOFTWARE
+13793	/img_InCh12Randall.001/Windows/System32/config/SOFTWARE
+13779	/img_InCh12Randall.001/Windows/System32/config/RegBack/SECURITY
+13789	/img_InCh12Randall.001/Windows/System32/config/SECURITY

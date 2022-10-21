@@ -1,0 +1,19 @@
+----------------------------------------
+----------------------------------------
+----------------------------------------
+<shellfolders>
+<mtime>Thu Jul 26 06:54:03 2012</mtime>
+<artifacts>
+<shell name="!Do not use this registry key"> Use the SHGetFolderPath or SHGetKnownFolderPath function instead</shell>
+
+</artifacts></shellfolders>
+----------------------------------------
+----------------------------------------
+<office>
+</office>
+----------------------------------------
+<NtuserNetwork>
+<mtime></mtime>
+<artifacts>
+</artifacts></NtuserNetwork>
+----------------------------------------

@@ -1,0 +1,1 @@
+Assertion failed: error not defined [8] (bundled\zeromq\src\ip.cpp:470)
