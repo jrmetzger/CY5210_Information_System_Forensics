@@ -1,344 +1,120 @@
-2022-02-20 11:48:26.523 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-21 16:54:29.174 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2022-10-21 16:54:29.247 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 INFO: Starting local Solr SOLR8 server
-2022-02-20 11:48:26.533 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
-INFO: Solr server is running
-2022-02-20 11:48:26.534 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
-INFO: Local Solr SOLR8 server is already running
-2022-02-20 11:48:26.541 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
-INFO: Solr server is running
-2022-02-20 11:48:37.856 org.sleuthkit.autopsy.keywordsearch.Server$Collection <init>
-INFO: Using Solr document queue size = 30
-2022-02-20 11:48:37.979 org.sleuthkit.autopsy.imagegallery.PerCaseProperties getConfigSetting
-INFO: File did not exist. Created file [Image Gallery.properties]
-2022-02-20 11:48:38.136 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
-INFO: sqlite-jdbc version 3.25.2 loaded in native mode
-2022-02-20 11:48:38.244 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
-INFO: Opened LabAssignmenta2 (labassignmenta2_20220220_114823) in D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab_Assignment_4_Processed\LabAssignmenta2 as the current case
-2022-02-20 11:48:38.626 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex <init>
-INFO: Created HexView instance: org.sleuthkit.autopsy.corecomponents.DataContentViewerHex[,0,0,0x0,invalid,layout=javax.swing.GroupLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=java.awt.Dimension[width=100,height=58]]
-2022-02-20 11:48:39.162 org.sleuthkit.autopsy.contentviewers.MediaFileViewer <init>
-INFO: Created MediaView instance: org.sleuthkit.autopsy.contentviewers.MediaFileViewer[,0,0,0x0,invalid,layout=java.awt.CardLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2022-02-20 11:48:39.584 org.sleuthkit.autopsy.contentviewers.FileViewer <init>
-INFO: Created ApplicationContentViewer instance: org.sleuthkit.autopsy.contentviewers.FileViewer[,0,0,0x0,invalid,layout=javax.swing.OverlayLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
-2022-02-20 11:48:40.03 org.sleuthkit.autopsy.corecomponents.DataContentTopComponent <init>
-INFO: Created DataContentTopComponent instance: org.sleuthkit.autopsy.corecomponents.DataContentTopComponent[Data Content,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=256,maximumSize=,minimumSize=,preferredSize=]
-2022-02-20 11:48:40.269 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Central Repository, version = 4.19.1
-2022-02-20 11:48:40.304 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Data Source Integrity, version = 4.19.1
-2022-02-20 11:48:40.339 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = DJI Drone Analyzer, version = 4.19.1
-2022-02-20 11:48:40.374 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Embedded File Extractor, version = 4.19.1
-2022-02-20 11:48:40.438 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Encryption Detection, version = 4.19.1
-2022-02-20 11:48:40.476 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Extension Mismatch Detector, version = 4.19.1
-2022-02-20 11:48:40.509 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = File Type Identification, version = 4.19.1
-2022-02-20 11:48:40.54 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Hash Lookup, version = 4.19.1
-2022-02-20 11:48:40.54 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Interesting Files Identifier, version = 4.19.1
-2022-02-20 11:48:40.571 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Android Analyzer (aLEAPP), version = 4.19.1
-2022-02-20 11:48:40.571 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = iOS Analyzer (iLEAPP), version = 4.19.1
-2022-02-20 11:48:40.602 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = PhotoRec Carver, version = 7.0
-2022-02-20 11:48:40.632 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Picture Analyzer, version = 4.19.1
-2022-02-20 11:48:40.663 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Plaso, version = 4.19.1
-2022-02-20 11:48:40.695 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Virtual Machine Extractor, version = 4.19.1
-2022-02-20 11:48:40.727 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = YARA Analyzer, version = 4.19.1
-2022-02-20 11:48:40.728 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Keyword Search, version = 4.19.1
-2022-02-20 11:48:40.732 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Email Parser, version = 4.19.1
-2022-02-20 11:48:40.734 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader addFactory
-INFO: Found ingest module factory: name = Recent Activity, version = 4.19.1
-2022-02-20 11:48:40.83 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
-INFO: Found ingest module factory: name = Android Analyzer, version = 4.19.1
-2022-02-20 11:48:40.831 org.sleuthkit.autopsy.ingest.IngestModuleFactoryLoader getIngestModuleFactories
-INFO: Found ingest module factory: name = GPX Parser, version = 1.2
-2022-02-20 11:48:59.802 org.sleuthkit.autopsy.ingest.IngestMonitor$MonitorTimerAction logMonitoredRootDirectory
-INFO: Monitoring disk space of D:\
-2022-02-20 11:48:59.802 org.sleuthkit.autopsy.ingest.IngestManager startIngestJob
-INFO: Starting ingest job 0
-2022-02-20 11:48:59.804 org.sleuthkit.autopsy.ingest.IngestPipelinesConfiguration getInstance
-INFO: Creating ingest module loader instance
-2022-02-20 11:49:00.045 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer loadConfigFile
-INFO: Load successful
-2022-02-20 11:49:01.679 org.sleuthkit.autopsy.keywordsearch.Server isLocalSolrRunning
-INFO: Solr server is running
-2022-02-20 11:49:01.761 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
-INFO: Preparing for first stage analysis (data source = GCFI-OS9.001, objId = 1, pipeline id = 0, ingest job id = 1)
-2022-02-20 11:49:01.764 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
-INFO: Waiting for streaming files (data source = GCFI-OS9.001, objId = 1, pipeline id = 0, ingest job id = 1)
-2022-02-20 11:49:02.255 org.sleuthkit.autopsy.casemodule.AddImageTask runAddImageProcess
-WARNING: Non-critical error occurred adding image D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab Assignment 4A\GCFI-OS9\GCFI-OS9.001
-org.sleuthkit.datamodel.TskDataException: Errors occurred while ingesting image 
-1. Cannot determine file system type (Sector offset: 64, Partition Type: Apple_Driver_ATA) 
-2. Cannot determine file system type (Sector offset: 118, Partition Type: Apple_Driver_ATA) 
-3. Cannot determine file system type (Sector offset: 1216, Partition Type: Apple_HFS) 
-
-	org.sleuthkit.datamodel.SleuthkitJNI.runAddImgNat(Native Method)
-	org.sleuthkit.datamodel.SleuthkitJNI.access$2200(SleuthkitJNI.java:52)
-	org.sleuthkit.datamodel.SleuthkitJNI$CaseDbHandle$AddImageProcess.run(SleuthkitJNI.java:584)
-	org.sleuthkit.autopsy.casemodule.AddImageTask.runAddImageProcess(AddImageTask.java:167)
-	org.sleuthkit.autopsy.casemodule.AddImageTask.run(AddImageTask.java:117)
-	java.lang.Thread.run(Thread.java:748)
-2022-02-20 11:49:02.279 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
-INFO: Scheduling first stage data source level analysis tasks (data source = GCFI-OS9.001, objId = 1, pipeline id = 0, ingest job id = 1)
-2022-02-20 11:49:02.281 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule performTask
-INFO: Recent Activity analysis of GCFI-OS9.001 starting
-2022-02-20 11:49:02.283 org.sleuthkit.autopsy.recentactivity.RecentDocumentsByLnk getRecentDocuments
-INFO: Didn't find any recent files.
-2022-02-20 11:49:02.307 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
-INFO: Could not find any allocated Chrome history files.
-2022-02-20 11:49:02.308 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
-INFO: Didn't find any Chrome bookmark files.
-2022-02-20 11:49:02.309 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
-INFO: Didn't find any Chrome cookies files.
-2022-02-20 11:49:02.31 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
-INFO: Didn't find any Chrome Login Data files.
-2022-02-20 11:49:02.311 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
-INFO: Didn't find any Chrome Web Data files.
-2022-02-20 11:49:02.311 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
-INFO: Didn't find any Chrome download files.
-2022-02-20 11:49:02.312 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
-INFO: Could not find any allocated Chrome history files.
-2022-02-20 11:49:02.312 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
-INFO: Didn't find any Chrome bookmark files.
-2022-02-20 11:49:02.312 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
-INFO: Didn't find any Chrome cookies files.
-2022-02-20 11:49:02.313 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
-INFO: Didn't find any Chrome Login Data files.
-2022-02-20 11:49:02.313 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
-INFO: Didn't find any Chrome Web Data files.
-2022-02-20 11:49:02.314 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
-INFO: Didn't find any Chrome download files.
-2022-02-20 11:49:02.314 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
-INFO: Could not find any allocated Chrome history files.
-2022-02-20 11:49:02.315 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
-INFO: Didn't find any Chrome bookmark files.
-2022-02-20 11:49:02.315 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
-INFO: Didn't find any Chrome cookies files.
-2022-02-20 11:49:02.316 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
-INFO: Didn't find any Chrome Login Data files.
-2022-02-20 11:49:02.316 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
-INFO: Didn't find any Chrome Web Data files.
-2022-02-20 11:49:02.317 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
-INFO: Didn't find any Chrome download files.
-2022-02-20 11:49:02.317 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
-INFO: Could not find any allocated Chrome history files.
-2022-02-20 11:49:02.318 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
-INFO: Didn't find any Chrome bookmark files.
-2022-02-20 11:49:02.319 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
-INFO: Didn't find any Chrome cookies files.
-2022-02-20 11:49:02.32 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
-INFO: Didn't find any Chrome Login Data files.
-2022-02-20 11:49:02.32 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
-INFO: Didn't find any Chrome Web Data files.
-2022-02-20 11:49:02.321 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
-INFO: Didn't find any Chrome download files.
-2022-02-20 11:49:02.321 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
-INFO: Could not find any allocated Chrome history files.
-2022-02-20 11:49:02.323 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
-INFO: Didn't find any Chrome bookmark files.
-2022-02-20 11:49:02.327 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
-INFO: Didn't find any Chrome cookies files.
-2022-02-20 11:49:02.328 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
-INFO: Didn't find any Chrome Login Data files.
-2022-02-20 11:49:02.329 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
-INFO: Didn't find any Chrome Web Data files.
-2022-02-20 11:49:02.33 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
-INFO: Didn't find any Chrome download files.
-2022-02-20 11:49:02.33 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
-INFO: Could not find any allocated Chrome history files.
-2022-02-20 11:49:02.331 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
-INFO: Didn't find any Chrome bookmark files.
-2022-02-20 11:49:02.331 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
-INFO: Didn't find any Chrome cookies files.
-2022-02-20 11:49:02.331 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
-INFO: Didn't find any Chrome Login Data files.
-2022-02-20 11:49:02.332 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
-INFO: Didn't find any Chrome Web Data files.
-2022-02-20 11:49:02.332 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
-INFO: Didn't find any Chrome download files.
-2022-02-20 11:49:02.333 org.sleuthkit.autopsy.recentactivity.Chromium getHistory
-INFO: Could not find any allocated Chrome history files.
-2022-02-20 11:49:02.334 org.sleuthkit.autopsy.recentactivity.Chromium getBookmark
-INFO: Didn't find any Chrome bookmark files.
-2022-02-20 11:49:02.335 org.sleuthkit.autopsy.recentactivity.Chromium getCookie
-INFO: Didn't find any Chrome cookies files.
-2022-02-20 11:49:02.335 org.sleuthkit.autopsy.recentactivity.Chromium getLogins
-INFO: Didn't find any Chrome Login Data files.
-2022-02-20 11:49:02.336 org.sleuthkit.autopsy.recentactivity.Chromium getAutofill
-INFO: Didn't find any Chrome Web Data files.
-2022-02-20 11:49:02.336 org.sleuthkit.autopsy.recentactivity.Chromium getDownload
-INFO: Didn't find any Chrome download files.
-2022-02-20 11:49:02.342 org.sleuthkit.autopsy.recentactivity.Firefox getHistory
-INFO: No FireFox history files found.
-2022-02-20 11:49:02.343 org.sleuthkit.autopsy.recentactivity.Firefox getBookmark
-INFO: Didn't find any firefox bookmark files.
-2022-02-20 11:49:02.344 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadPreVersion24
-INFO: Didn't find any pre-version-24.0 Firefox download files.
-2022-02-20 11:49:02.344 org.sleuthkit.autopsy.recentactivity.Firefox getDownloadVersion24
-INFO: Didn't find any version-24.0 Firefox download files.
-2022-02-20 11:49:02.345 org.sleuthkit.autopsy.recentactivity.Firefox getCookie
-INFO: Didn't find any Firefox cookie files.
-2022-02-20 11:49:02.345 org.sleuthkit.autopsy.recentactivity.Firefox getFormsHistory
-INFO: No FireFox form history files found.
-2022-02-20 11:49:02.346 org.sleuthkit.autopsy.recentactivity.Firefox getAutofillProfiles
-INFO: Didn't find any Firefox Autofill Profiles files.
-2022-02-20 11:49:02.348 org.sleuthkit.autopsy.recentactivity.ExtractIE getBookmark
-INFO: Didn't find any IE bookmark files.
-2022-02-20 11:49:02.349 org.sleuthkit.autopsy.recentactivity.ExtractIE getCookie
-INFO: Didn't find any IE cookies files.
-2022-02-20 11:49:02.349 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
-INFO: Pasco results path: C:\Users\FORENS~1\AppData\Local\Temp\Autopsy\labassignmenta2_20220220_114823\Temp\RecentActivity\IE_0\results
-2022-02-20 11:49:02.35 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
-INFO: Pasco2 home: C:\Program Files\Autopsy-4.19.1\autopsy\pasco2
-2022-02-20 11:49:02.351 org.sleuthkit.autopsy.recentactivity.ExtractIE getHistory
-INFO: No InternetExplorer history files found.
-2022-02-20 11:49:02.358 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
-INFO: Processing 0 blackboard artifacts.
-2022-02-20 11:49:02.358 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer findSearchQueries
-INFO: Extracted 0 queries from the blackboard
-2022-02-20 11:49:02.358 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer process
-INFO: Search Engine stats: 
-Google : 0
-Yahoo : 0
-Twitter : 0
-LinkedIn : 0
-Facebook : 0
-Bing : 0
-Baidu : 0
-Sogou : 0
-Soso : 0
-Youdao : 0
-Yandex : 0
-Biglobe : 0
-Linkestan : 0
-Parseek : 0
-Parset : 0
-Amazon : 0
-DuckDuckGo : 0
-Youtube : 0
-Reddit : 0
-CCSearch : 0
-Swisscows : 0
-GIbiru : 0
-Wiki : 0
-Cutestat : 0
-Givewater : 0
-Ekoru : 0
-Ecosia : 0
-Slideshare : 0
-Wikipedia : 0
-Wiki : 0
-
-2022-02-20 11:49:02.359 org.sleuthkit.autopsy.recentactivity.ExtractWebAccountType extractDomainRoles
-INFO: Processing 0 blackboard artifacts.
-2022-02-20 11:49:02.36 org.sleuthkit.autopsy.recentactivity.ExtractWebAccountType$RoleProcessor createArtifacts
-INFO: Didn't find any web accounts.
-2022-02-20 11:49:03.723 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner startJob
-INFO: Adding job 0
-2022-02-20 11:49:03.724 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner startJob
-INFO: Resetting periodic search time out to default value
-2022-02-20 11:49:03.939 org.sleuthkit.autopsy.recentactivity.DomainCategoryRunner findDomainTypes
-INFO: Processing 0 blackboard artifacts.
-2022-02-20 11:49:03.939 org.sleuthkit.autopsy.recentactivity.DomainCategoryRunner findDomainTypes
-INFO: Extracted 0 distinct messaging domain(s) from the blackboard.  Of the 0 artifact(s) with valid hosts, 0 url(s) contained messaging domain suffix.
-2022-02-20 11:49:03.94 org.sleuthkit.autopsy.recentactivity.SearchEngineURLQueryAnalyzer complete
-INFO: Search Engine URL Query Analyzer has completed.
-2022-02-20 11:49:03.941 org.sleuthkit.autopsy.recentactivity.DomainCategoryRunner complete
-INFO: Domain categorization completed.
-2022-02-20 11:49:03.968 org.sleuthkit.autopsy.ingest.DataSourceIngestPipeline$DataSourcePipelineModule performTask
-INFO: Recent Activity analysis of GCFI-OS9.001 finished
-2022-02-20 11:54:08.531 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$PeriodicSearchTask run
-INFO: Starting periodic searches
-2022-02-20 11:54:08.569 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$PeriodicSearchTask run
-INFO: Executing periodic search for search job 0
-2022-02-20 11:54:57.859 org.sleuthkit.autopsy.thunderbirdparser.ThunderbirdMboxFileIngestModule addEmailArtifact
-WARNING: Failed to find sender address, from  = 
-2022-02-20 11:54:58.03 org.sleuthkit.autopsy.thunderbirdparser.ThunderbirdMboxFileIngestModule addEmailArtifact
-WARNING: Failed to find sender address, from  = 
-2022-02-20 11:54:58.044 org.sleuthkit.autopsy.thunderbirdparser.ThunderbirdMboxFileIngestModule addEmailArtifact
-WARNING: Failed to find sender address, from  = 
-2022-02-20 11:55:03.54 org.sleuthkit.autopsy.textextractors.TikaTextExtractor getReader
-WARNING: Error with file [id=2446] a12-02.pdf, see Tika log for details...
-2022-02-20 11:55:47.323 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
-INFO: Finished first stage analysis (data source = GCFI-OS9.001, objId = 1, pipeline id = 0, ingest job id = 1)
-2022-02-20 11:55:47.331 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
-INFO: Keyword search ingest module instance 0 shutting down
-2022-02-20 11:55:47.341 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
-INFO: Keyword search ingest module instance 1 shutting down
-2022-02-20 11:55:47.341 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner endJob
-INFO: Commiting search index before final search for search job 0
-2022-02-20 11:55:51.918 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
-INFO: Starting final search for search job 0
-2022-02-20 11:55:51.918 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
-INFO: Checking for previous search for search job 0 before executing final search
-2022-02-20 11:55:51.919 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$SearchJobInfo waitForCurrentWorker
-INFO: Waiting for previous worker to finish
-2022-02-20 11:56:40.027 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$Searcher doInBackground
-INFO: Searcher took 151 secs to run (final = false)
-2022-02-20 11:56:40.028 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$SearchJobInfo searchNotify
-INFO: Notifying after finishing search
-2022-02-20 11:56:40.028 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$SearchJobInfo waitForCurrentWorker
-INFO: Notified previous worker finished
-2022-02-20 11:56:40.028 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$PeriodicSearchTask run
-INFO: All periodic searches cumulatively took 151 secs
-2022-02-20 11:56:40.028 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
-INFO: Kicking off final search for search job 0
-2022-02-20 11:56:40.028 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$PeriodicSearchTask recalculateUpdateIntervalTime
-WARNING: Last periodic search took 151 sec. Increasing search interval to 600 sec
-2022-02-20 11:56:40.029 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
-INFO: Waiting for final search for search job 0
-2022-02-20 11:58:50.778 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$Searcher doInBackground
-INFO: Searcher took 130 secs to run (final = true)
-2022-02-20 11:58:50.779 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner$SearchJobInfo searchNotify
-INFO: Notifying after finishing search
-2022-02-20 11:58:50.779 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner doFinalSearch
-INFO: Final search for search job 0 completed
-2022-02-20 11:58:50.779 org.sleuthkit.autopsy.keywordsearch.IngestSearchRunner endJob
-INFO: No more search jobs. Stopping periodic search task
-2022-02-20 11:58:50.783 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
-INFO: Indexed files count: 2,425
-2022-02-20 11:58:50.785 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule shutDown
-INFO: Indexed file chunks count: 6,049
-2022-02-20 11:58:50.786 org.sleuthkit.autopsy.keywordsearch.KeywordSearchIngestModule postIndexSummary
-INFO: Keyword Indexing Completed: <table border=0><tr><td>Files with known types</td><td>241</td></tr><tr><td>Files with general strings extracted</td><td>2012</td></tr><tr><td>Metadata only was indexed</td><td>163</td></tr><tr><td>Error (indexer)</td><td>0</td></tr><tr><td>Error (text extraction)</td><td>0</td></tr><tr><td>Error (I/O)</td><td>0</td></tr></table>
-2022-02-20 11:58:50.787 org.sleuthkit.autopsy.ingest.IngestJobPipeline logInfoMessage
-INFO: Finished analysis (data source = GCFI-OS9.001, objId = 1, pipeline id = 0, ingest job id = 1)
-2022-02-20 11:58:50.795 org.sleuthkit.autopsy.ingest.IngestManager finishIngestJob
-INFO: Ingest job 0 completed
-2022-02-20 12:28:26.512 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
-INFO: Stopping Solr 8 server
-2022-02-20 12:28:26.512 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
-INFO: Setting Solr 8 directory: C:\Program Files\Autopsy-4.19.1\autopsy\solr
-2022-02-20 12:28:26.514 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
-INFO: Running Solr 8 command: [C:\Program Files\Autopsy-4.19.1\autopsy\solr\bin\autopsy-solr.cmd, stop, -k, jjk#09s, -p, 23232] from C:\Program Files\Autopsy-4.19.1\autopsy\solr
-2022-02-20 12:28:26.518 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+2022-10-21 16:54:29.255 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Port [23,232] available, starting Solr
+2022-10-21 16:54:29.257 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting Solr 8 server
+2022-10-21 16:54:29.26 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Setting Solr 8 directory: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr
+2022-10-21 16:54:29.26 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Running Solr 8 command: [\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr\bin\autopsy-solr.cmd, start, -p, 23232] from \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr
+2022-10-21 16:54:29.281 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
 INFO: Finished running Solr 8 command
-2022-02-20 12:28:26.519 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
-INFO: Waiting for Solr server to stop
-2022-02-20 12:28:27.558 org.sleuthkit.autopsy.keywordsearch.Server killSolr
-INFO: Trying to kill old Solr process, PID: 31,312
-2022-02-20 12:28:27.559 org.sleuthkit.autopsy.keywordsearch.Server stopLocalSolr
-INFO: Finished stopping Solr server
-2022-02-20 12:28:27.559 org.sleuthkit.autopsy.core.Installer <init>
-INFO: core installer created
-2022-02-20 12:28:27.613 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
-INFO: Closing current case LabAssignmenta2 (labassignmenta2_20220220_114823) in D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab_Assignment_4_Processed\LabAssignmenta2
-2022-02-20 12:28:29.622 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+2022-10-21 16:55:29.292 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+WARNING: Local Solr server failed to respond to status requests.
+2022-10-21 16:55:29.3 org.sleuthkit.autopsy.keywordsearch.Server configureSolrConnection
+SEVERE: Local Solr server is not running
+2022-10-21 16:55:29.312 org.sleuthkit.autopsy.casemodule.Case openAppServiceCaseResources
+SEVERE: Solr Keyword Search Service failed to open case resources for LabAssignmenta2
+java.util.concurrent.ExecutionException: org.sleuthkit.autopsy.appservices.AutopsyService$AutopsyServiceException: Failed to open or create core for \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4a2
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.openAppServiceCaseResources(Case.java:2851)
+	org.sleuthkit.autopsy.casemodule.Case.open(Case.java:2286)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doOpenCaseAction$6(Case.java:2154)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.autopsy.appservices.AutopsyService$AutopsyServiceException: Failed to open or create core for \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4a2
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.openAppServiceCaseResources(Case.java:2851)
+	org.sleuthkit.autopsy.casemodule.Case.open(Case.java:2286)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doOpenCaseAction$6(Case.java:2154)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Unable to connect to Solr server Local keyword search service not yet running
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.openAppServiceCaseResources(Case.java:2851)
+	org.sleuthkit.autopsy.casemodule.Case.open(Case.java:2286)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doOpenCaseAction$6(Case.java:2154)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Local keyword search service not yet running
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.openAppServiceCaseResources(Case.java:2851)
+	org.sleuthkit.autopsy.casemodule.Case.open(Case.java:2286)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doOpenCaseAction$6(Case.java:2154)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-10-21 16:55:29.612 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.25.2 loaded in native mode
+2022-10-21 16:55:29.81 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened LabAssignmenta2 (labassignmenta2_20220220_114823) in \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4a2 as the current case
+2022-10-21 16:55:29.812 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Retrieving images for case: autopsy.db...
+2022-10-21 16:55:29.828 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Opening all filesystems for image: GCFI-OS9.001...
+2022-10-21 16:55:29.867 org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask run
+WARNING: Error while opening file systems in background
+org.sleuthkit.datamodel.TskCoreException: Error stat(ing) image file (raw_open: image "D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab Assignment 4A\GCFI-OS9\GCFI-OS9.001" - No such file or directory)
+	org.sleuthkit.datamodel.SleuthkitJNI.openImgNat(Native Method)
+	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:894)
+	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:837)
+	org.sleuthkit.datamodel.Image.getImageHandle(Image.java:128)
+	org.sleuthkit.datamodel.FileSystem.getFileSystemHandle(FileSystem.java:113)
+	org.sleuthkit.datamodel.FileSystem.read(FileSystem.java:72)
+	org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask.openFileSystems(Case.java:2408)
+	org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask.run(Case.java:2433)
+	java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-10-21 17:01:25.528 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+INFO: The refreshing of the IngestJobInfoPanel was cancelled
+2022-10-21 17:01:25.529 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+INFO: The refreshing of the IngestJobInfoPanel was cancelled
+2022-10-21 17:01:25.53 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+INFO: The refreshing of the IngestJobInfoPanel was cancelled
+2022-10-21 17:18:47.267 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+INFO: Closing current case LabAssignmenta2 (labassignmenta2_20220220_114823) in \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4a2
+2022-10-21 17:18:49.296 org.sleuthkit.autopsy.casemodule.Case closeAppServiceCaseResources
+SEVERE: Solr Keyword Search Service service failed to open case resources
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@5f1d1537 registered?
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.closeAppServiceCaseResources(Case.java:3090)
+	org.sleuthkit.autopsy.casemodule.Case.close(Case.java:3033)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doCloseCaseAction$9(Case.java:2962)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@5f1d1537 registered?
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.closeAppServiceCaseResources(Case.java:3090)
+	org.sleuthkit.autopsy.casemodule.Case.close(Case.java:3033)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doCloseCaseAction$9(Case.java:2962)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-10-21 17:18:49.305 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
 INFO: Shutting down image gallery controller for case LabAssignmenta2 (labassignmenta2_20220220_114823)
-2022-02-20 12:28:29.629 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+2022-10-21 17:18:49.322 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
 INFO: Closing the drawable.db
-2022-02-20 12:28:29.632 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+2022-10-21 17:18:49.334 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
 INFO: Completed shut down of image gallery controller for case LabAssignmenta2 (labassignmenta2_20220220_114823)
