@@ -1,0 +1,8 @@
+
+Source path	: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_4b\Lab Assignment 4B\InCh12Randall.exe
+Source type	: single file
+Processing time	: 00:00:00
+
+Processing started.
+Processing completed.
+

@@ -1,0 +1,94 @@
+2022-10-22 21:05:21.988 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+INFO: Central Repository is up to date
+2022-10-22 21:05:22.095 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting local Solr SOLR8 server
+2022-10-22 21:05:22.105 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Port [23,232] available, starting Solr
+2022-10-22 21:05:22.113 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+INFO: Starting Solr 8 server
+2022-10-22 21:05:22.123 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Setting Solr 8 directory: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr
+2022-10-22 21:05:22.123 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Running Solr 8 command: [\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr\bin\autopsy-solr.cmd, start, -p, 23232] from \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr
+2022-10-22 21:05:22.154 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+INFO: Finished running Solr 8 command
+2022-10-22 21:06:22.162 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+WARNING: Local Solr server failed to respond to status requests.
+2022-10-22 21:06:22.172 org.sleuthkit.autopsy.keywordsearch.Server configureSolrConnection
+SEVERE: Local Solr server is not running
+2022-10-22 21:06:22.175 org.sleuthkit.autopsy.casemodule.Case openAppServiceCaseResources
+SEVERE: Solr Keyword Search Service failed to open case resources for LabAssignment4b3
+java.util.concurrent.ExecutionException: org.sleuthkit.autopsy.appservices.AutopsyService$AutopsyServiceException: Failed to open or create core for \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b3
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.openAppServiceCaseResources(Case.java:2851)
+	org.sleuthkit.autopsy.casemodule.Case.open(Case.java:2286)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doOpenCaseAction$6(Case.java:2154)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.autopsy.appservices.AutopsyService$AutopsyServiceException: Failed to open or create core for \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b3
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.openAppServiceCaseResources(Case.java:2851)
+	org.sleuthkit.autopsy.casemodule.Case.open(Case.java:2286)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doOpenCaseAction$6(Case.java:2154)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Unable to connect to Solr server Local keyword search service not yet running
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.openAppServiceCaseResources(Case.java:2851)
+	org.sleuthkit.autopsy.casemodule.Case.open(Case.java:2286)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doOpenCaseAction$6(Case.java:2154)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Local keyword search service not yet running
+	java.util.concurrent.FutureTask.report(FutureTask.java:122)
+	java.util.concurrent.FutureTask.get(FutureTask.java:192)
+	org.sleuthkit.autopsy.casemodule.Case.openAppServiceCaseResources(Case.java:2851)
+	org.sleuthkit.autopsy.casemodule.Case.open(Case.java:2286)
+	org.sleuthkit.autopsy.casemodule.Case.lambda$doOpenCaseAction$6(Case.java:2154)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-10-22 21:06:22.277 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+INFO: sqlite-jdbc version 3.25.2 loaded in native mode
+2022-10-22 21:06:22.352 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Retrieving images for case: autopsy.db...
+2022-10-22 21:06:22.352 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened LabAssignment4b3 (labassignment4b3_20220220_220507) in \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b3 as the current case
+2022-10-22 21:06:22.36 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+INFO: Opening all filesystems for image: InCh12Randall.001...
+2022-10-22 21:06:22.376 org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask run
+WARNING: Error while opening file systems in background
+org.sleuthkit.datamodel.TskCoreException: Error stat(ing) image file (raw_open: image "D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab Assignment 4B\InCh12Randall.001" - No such file or directory)
+	org.sleuthkit.datamodel.SleuthkitJNI.openImgNat(Native Method)
+	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:894)
+	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:837)
+	org.sleuthkit.datamodel.Image.getImageHandle(Image.java:128)
+	org.sleuthkit.datamodel.FileSystem.getFileSystemHandle(FileSystem.java:113)
+	org.sleuthkit.datamodel.FileSystem.read(FileSystem.java:72)
+	org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask.openFileSystems(Case.java:2408)
+	org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask.run(Case.java:2433)
+	java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	java.lang.Thread.run(Thread.java:748)
+2022-10-22 21:07:13.003 org.sleuthkit.autopsy.casemodule.Case$1 run
+SEVERE: User proceeding with missing image files
+2022-10-22 21:07:13.36 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+INFO: The refreshing of the IngestJobInfoPanel was cancelled
+2022-10-22 21:07:13.361 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+INFO: The refreshing of the IngestJobInfoPanel was cancelled
+2022-10-22 21:07:13.361 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+INFO: The refreshing of the IngestJobInfoPanel was cancelled
+2022-10-22 21:07:13.362 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+INFO: The refreshing of the IngestJobInfoPanel was cancelled

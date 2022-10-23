@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "ileapp.py", line 192, in <module>
+  File "ileapp.py", line 78, in main
+  File "scripts\ilapfuncs.py", line 36, in __init__
+  File "os.py", line 225, in makedirs
+FileNotFoundError: [WinError 206] The filename or extension is too long: '\\\\Mac\\Home\\Documents\\_Education\\Northeastern\\PhD_Cybersecurity\\CY5210_Information_System_Forensics\\Labs\\Lab_4\\Lab_Assignment_4_Processed\\LabAssignment4b3\\ModuleOutput\\iLeapp\\2022-10-22 21-37-01 MST\\iLEAPP_Reports_2022-10-22_Saturday_213704\\Script Logs'
+[7420] Failed to execute script ileapp

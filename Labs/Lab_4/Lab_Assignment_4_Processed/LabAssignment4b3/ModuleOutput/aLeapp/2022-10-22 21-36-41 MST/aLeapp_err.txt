@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "aleapp.py", line 174, in <module>
+  File "aleapp.py", line 77, in main
+  File "scripts\ilapfuncs.py", line 26, in __init__
+  File "os.py", line 225, in makedirs
+FileNotFoundError: [WinError 206] The filename or extension is too long: '\\\\Mac\\Home\\Documents\\_Education\\Northeastern\\PhD_Cybersecurity\\CY5210_Information_System_Forensics\\Labs\\Lab_4\\Lab_Assignment_4_Processed\\LabAssignment4b3\\ModuleOutput\\aLeapp\\2022-10-22 21-36-41 MST\\ALEAPP_Reports_2022-10-22_Saturday_213643\\Script Logs'
+[5776] Failed to execute script aleapp

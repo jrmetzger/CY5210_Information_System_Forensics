@@ -1,4 +1,2 @@
-Prefetch Directory is  C:\Users\FORENS~1\AppData\Local\Temp\Autopsy\labassignment4b3_20220220_220507\Temp\RecentActivity\InCh12Sarah.001-prefetch_1
-DB file is  D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab_Assignment_4_Processed\LabAssignment4b3\ModuleOutput\prefetch\InCh12Sarah.001-Autopsy_PF_DB.db3
-<built-in function open> returned a result with an error set == ('<built-in function open> returned a result with an error set',)
-Error in prefetch file FTK IMAGER.EXE-3E7F6E30_38695.pf
+Prefetch Directory is  C:\Users\jon\AppData\Local\Temp\Autopsy\labassignment4b3_20220220_220507\Temp\RecentActivity\50381-Autopsy_PF_DB.db3_2
+DB file is  \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b3\ModuleOutput\prefetch\50381-Autopsy_PF_DB.db3
