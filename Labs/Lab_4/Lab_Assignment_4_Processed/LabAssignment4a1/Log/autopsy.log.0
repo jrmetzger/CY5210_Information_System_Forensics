@@ -1,22 +1,22 @@
-2022-10-22 20:25:29.385 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+2022-10-23 17:02:15.727 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
 INFO: Central Repository is up to date
-2022-10-22 20:25:29.472 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-23 17:02:15.78 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 INFO: Starting local Solr SOLR8 server
-2022-10-22 20:25:29.483 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-23 17:02:15.786 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 INFO: Port [23,232] available, starting Solr
-2022-10-22 20:25:29.497 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-23 17:02:15.794 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 INFO: Starting Solr 8 server
-2022-10-22 20:25:29.502 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+2022-10-23 17:02:15.797 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
 INFO: Setting Solr 8 directory: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr
-2022-10-22 20:25:29.503 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+2022-10-23 17:02:15.798 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
 INFO: Running Solr 8 command: [\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr\bin\autopsy-solr.cmd, start, -p, 23232] from \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr
-2022-10-22 20:25:29.539 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+2022-10-23 17:02:15.819 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
 INFO: Finished running Solr 8 command
-2022-10-22 20:26:29.545 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-23 17:03:15.828 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 WARNING: Local Solr server failed to respond to status requests.
-2022-10-22 20:26:29.546 org.sleuthkit.autopsy.keywordsearch.Server configureSolrConnection
+2022-10-23 17:03:15.83 org.sleuthkit.autopsy.keywordsearch.Server configureSolrConnection
 SEVERE: Local Solr server is not running
-2022-10-22 20:26:29.547 org.sleuthkit.autopsy.casemodule.Case openAppServiceCaseResources
+2022-10-23 17:03:15.833 org.sleuthkit.autopsy.casemodule.Case openAppServiceCaseResources
 SEVERE: Solr Keyword Search Service failed to open case resources for LabAssignment4a1
 java.util.concurrent.ExecutionException: org.sleuthkit.autopsy.appservices.AutopsyService$AutopsyServiceException: Failed to open or create core for \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4a1
 	java.util.concurrent.FutureTask.report(FutureTask.java:122)
@@ -58,131 +58,25 @@ org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Local keyword 
 	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	java.lang.Thread.run(Thread.java:748)
-2022-10-22 20:26:29.638 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+2022-10-23 17:03:15.963 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
 INFO: sqlite-jdbc version 3.25.2 loaded in native mode
-2022-10-22 20:26:29.772 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+2022-10-23 17:03:16.103 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
 INFO: Opened LabAssignment4a1 (labassignment4a1_20220220_080413) in \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4a1 as the current case
-2022-10-22 20:26:29.772 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+2022-10-23 17:03:16.104 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
 INFO: Retrieving images for case: autopsy.db...
-2022-10-22 20:26:29.776 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+2022-10-23 17:03:16.117 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
 INFO: Opening all filesystems for image: GCFI-OSX.001...
-2022-10-22 20:26:30.268 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+2022-10-23 17:03:16.376 org.sleuthkit.autopsy.ingest.IngestMonitor$MonitorTimerAction logMonitoredRootDirectory
+INFO: Monitoring disk space of \\
+2022-10-23 17:03:16.88 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
 INFO: The refreshing of the IngestJobInfoPanel was cancelled
-2022-10-22 20:26:30.268 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
-INFO: The refreshing of the IngestJobInfoPanel was cancelled
-2022-10-22 20:35:26.657 org.sleuthkit.autopsy.casemodule.CaseOpenAction$1 done
-SEVERE: Error opening case with metadata file path \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b2\LabAssignment4a1.aut
-java.util.concurrent.ExecutionException: org.sleuthkit.autopsy.casemodule.CaseActionException: Failed to read case metadata:
-Error reading from case metadata file \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b2\LabAssignment4a1.aut.
-	java.util.concurrent.FutureTask.report(FutureTask.java:122)
-	java.util.concurrent.FutureTask.get(FutureTask.java:192)
-	javax.swing.SwingWorker.get(SwingWorker.java:602)
-	org.sleuthkit.autopsy.casemodule.CaseOpenAction$1.done(CaseOpenAction.java:146)
-	javax.swing.SwingWorker$5.run(SwingWorker.java:737)
-	javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(SwingWorker.java:832)
-	sun.swing.AccumulativeRunnable.run(AccumulativeRunnable.java:112)
-	javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(SwingWorker.java:842)
-	javax.swing.Timer.fireActionPerformed(Timer.java:313)
-	javax.swing.Timer$DoPostEvent.run(Timer.java:245)
-	java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
-	java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
-	java.awt.EventQueue.access$500(EventQueue.java:97)
-	java.awt.EventQueue$3.run(EventQueue.java:709)
-	java.awt.EventQueue$3.run(EventQueue.java:703)
-	java.security.AccessController.doPrivileged(Native Method)
-	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
-	java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
-	org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:136)
-	java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
-	java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
-	java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
-	java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
-	java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
-org.sleuthkit.autopsy.casemodule.CaseActionException: Failed to read case metadata:
-Error reading from case metadata file \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b2\LabAssignment4a1.aut.
-	java.util.concurrent.FutureTask.report(FutureTask.java:122)
-	java.util.concurrent.FutureTask.get(FutureTask.java:192)
-	javax.swing.SwingWorker.get(SwingWorker.java:602)
-	org.sleuthkit.autopsy.casemodule.CaseOpenAction$1.done(CaseOpenAction.java:146)
-	javax.swing.SwingWorker$5.run(SwingWorker.java:737)
-	javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(SwingWorker.java:832)
-	sun.swing.AccumulativeRunnable.run(AccumulativeRunnable.java:112)
-	javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(SwingWorker.java:842)
-	javax.swing.Timer.fireActionPerformed(Timer.java:313)
-	javax.swing.Timer$DoPostEvent.run(Timer.java:245)
-	java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
-	java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
-	java.awt.EventQueue.access$500(EventQueue.java:97)
-	java.awt.EventQueue$3.run(EventQueue.java:709)
-	java.awt.EventQueue$3.run(EventQueue.java:703)
-	java.security.AccessController.doPrivileged(Native Method)
-	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
-	java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
-	org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:136)
-	java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
-	java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
-	java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
-	java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
-	java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
-org.sleuthkit.autopsy.casemodule.CaseMetadata$CaseMetadataException: Error reading from case metadata file \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b2\LabAssignment4a1.aut
-	java.util.concurrent.FutureTask.report(FutureTask.java:122)
-	java.util.concurrent.FutureTask.get(FutureTask.java:192)
-	javax.swing.SwingWorker.get(SwingWorker.java:602)
-	org.sleuthkit.autopsy.casemodule.CaseOpenAction$1.done(CaseOpenAction.java:146)
-	javax.swing.SwingWorker$5.run(SwingWorker.java:737)
-	javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(SwingWorker.java:832)
-	sun.swing.AccumulativeRunnable.run(AccumulativeRunnable.java:112)
-	javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(SwingWorker.java:842)
-	javax.swing.Timer.fireActionPerformed(Timer.java:313)
-	javax.swing.Timer$DoPostEvent.run(Timer.java:245)
-	java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
-	java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
-	java.awt.EventQueue.access$500(EventQueue.java:97)
-	java.awt.EventQueue$3.run(EventQueue.java:709)
-	java.awt.EventQueue$3.run(EventQueue.java:703)
-	java.security.AccessController.doPrivileged(Native Method)
-	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
-	java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
-	org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:136)
-	java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
-	java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
-	java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
-	java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
-	java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
-java.io.FileNotFoundException: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b2\LabAssignment4a1.aut (The system cannot find the file specified)
-	java.util.concurrent.FutureTask.report(FutureTask.java:122)
-	java.util.concurrent.FutureTask.get(FutureTask.java:192)
-	javax.swing.SwingWorker.get(SwingWorker.java:602)
-	org.sleuthkit.autopsy.casemodule.CaseOpenAction$1.done(CaseOpenAction.java:146)
-	javax.swing.SwingWorker$5.run(SwingWorker.java:737)
-	javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.run(SwingWorker.java:832)
-	sun.swing.AccumulativeRunnable.run(AccumulativeRunnable.java:112)
-	javax.swing.SwingWorker$DoSubmitAccumulativeRunnable.actionPerformed(SwingWorker.java:842)
-	javax.swing.Timer.fireActionPerformed(Timer.java:313)
-	javax.swing.Timer$DoPostEvent.run(Timer.java:245)
-	java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
-	java.awt.EventQueue.dispatchEventImpl(EventQueue.java:758)
-	java.awt.EventQueue.access$500(EventQueue.java:97)
-	java.awt.EventQueue$3.run(EventQueue.java:709)
-	java.awt.EventQueue$3.run(EventQueue.java:703)
-	java.security.AccessController.doPrivileged(Native Method)
-	java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:74)
-	java.awt.EventQueue.dispatchEvent(EventQueue.java:728)
-	org.netbeans.core.TimableEventQueue.dispatchEvent(TimableEventQueue.java:136)
-	java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:205)
-	java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
-	java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
-	java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
-	java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
-	java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
-2022-10-22 21:05:18.422 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+2022-10-23 17:03:41.736 org.sleuthkit.autopsy.coreutils.StringExtract$StringExtractUnicodeTable init
+INFO: initialized, unicode table loaded
+2022-10-23 17:08:25.996 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
 INFO: Closing current case LabAssignment4a1 (labassignment4a1_20220220_080413) in \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4a1
-2022-10-22 21:05:20.45 org.sleuthkit.autopsy.casemodule.Case closeAppServiceCaseResources
+2022-10-23 17:08:28.052 org.sleuthkit.autopsy.casemodule.Case closeAppServiceCaseResources
 SEVERE: Solr Keyword Search Service service failed to open case resources
-java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@5f1d1537 registered?
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@3adcf163 registered?
 	java.util.concurrent.FutureTask.report(FutureTask.java:122)
 	java.util.concurrent.FutureTask.get(FutureTask.java:192)
 	org.sleuthkit.autopsy.casemodule.Case.closeAppServiceCaseResources(Case.java:3090)
@@ -192,7 +86,7 @@ java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: mis
 	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	java.lang.Thread.run(Thread.java:748)
-java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@5f1d1537 registered?
+java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@3adcf163 registered?
 	java.util.concurrent.FutureTask.report(FutureTask.java:122)
 	java.util.concurrent.FutureTask.get(FutureTask.java:192)
 	org.sleuthkit.autopsy.casemodule.Case.closeAppServiceCaseResources(Case.java:3090)
@@ -202,9 +96,9 @@ java.lang.IllegalArgumentException: missing event subscriber for an annotated me
 	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	java.lang.Thread.run(Thread.java:748)
-2022-10-22 21:05:20.484 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+2022-10-23 17:08:28.064 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
 INFO: Shutting down image gallery controller for case LabAssignment4a1 (labassignment4a1_20220220_080413)
-2022-10-22 21:05:20.494 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+2022-10-23 17:08:28.07 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
 INFO: Closing the drawable.db
-2022-10-22 21:05:20.504 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+2022-10-23 17:08:28.081 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
 INFO: Completed shut down of image gallery controller for case LabAssignment4a1 (labassignment4a1_20220220_080413)

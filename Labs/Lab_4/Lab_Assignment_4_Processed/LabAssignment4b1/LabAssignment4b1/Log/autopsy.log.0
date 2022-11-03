@@ -1,22 +1,22 @@
-2022-10-22 19:35:53.265 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
+2022-10-23 17:08:29.356 org.sleuthkit.autopsy.centralrepository.datamodel.RdbmsCentralRepo upgradeSchema
 INFO: Central Repository is up to date
-2022-10-22 19:35:53.408 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-23 17:08:29.431 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 INFO: Starting local Solr SOLR8 server
-2022-10-22 19:35:53.428 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-23 17:08:29.436 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 INFO: Port [23,232] available, starting Solr
-2022-10-22 19:35:53.443 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-23 17:08:29.44 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 INFO: Starting Solr 8 server
-2022-10-22 19:35:53.45 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+2022-10-23 17:08:29.441 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
 INFO: Setting Solr 8 directory: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr
-2022-10-22 19:35:53.451 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+2022-10-23 17:08:29.442 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
 INFO: Running Solr 8 command: [\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr\bin\autopsy-solr.cmd, start, -p, 23232] from \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\TOOLS\Autopsy-4.19.3\autopsy\solr
-2022-10-22 19:35:53.498 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
+2022-10-23 17:08:29.468 org.sleuthkit.autopsy.keywordsearch.Server runLocalSolr8ControlCommand
 INFO: Finished running Solr 8 command
-2022-10-22 19:36:53.511 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
+2022-10-23 17:09:29.489 org.sleuthkit.autopsy.keywordsearch.Server startLocalSolr
 WARNING: Local Solr server failed to respond to status requests.
-2022-10-22 19:36:53.514 org.sleuthkit.autopsy.keywordsearch.Server configureSolrConnection
+2022-10-23 17:09:29.49 org.sleuthkit.autopsy.keywordsearch.Server configureSolrConnection
 SEVERE: Local Solr server is not running
-2022-10-22 19:36:53.519 org.sleuthkit.autopsy.casemodule.Case openAppServiceCaseResources
+2022-10-23 17:09:29.491 org.sleuthkit.autopsy.casemodule.Case openAppServiceCaseResources
 SEVERE: Solr Keyword Search Service failed to open case resources for LabAssignment4b1
 java.util.concurrent.ExecutionException: org.sleuthkit.autopsy.appservices.AutopsyService$AutopsyServiceException: Failed to open or create core for \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b1\LabAssignment4b1
 	java.util.concurrent.FutureTask.report(FutureTask.java:122)
@@ -58,83 +58,23 @@ org.sleuthkit.autopsy.keywordsearch.KeywordSearchModuleException: Local keyword 
 	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	java.lang.Thread.run(Thread.java:748)
-2022-10-22 19:36:53.681 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
+2022-10-23 17:09:29.701 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB setPragmas
 INFO: sqlite-jdbc version 3.25.2 loaded in native mode
-2022-10-22 19:36:53.824 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
-INFO: Opened LabAssignment4b1 (labassignment4b1_20220220_134134) in \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b1\LabAssignment4b1 as the current case
-2022-10-22 19:36:53.825 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+2022-10-23 17:09:29.867 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
 INFO: Retrieving images for case: autopsy.db...
-2022-10-22 19:36:53.832 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
+2022-10-23 17:09:29.87 org.sleuthkit.autopsy.casemodule.Case openAsCurrentCase
+INFO: Opened LabAssignment4b1 (labassignment4b1_20220220_134134) in \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b1\LabAssignment4b1 as the current case
+2022-10-23 17:09:29.874 org.sleuthkit.autopsy.progress.LoggingProgressIndicator progress
 INFO: Opening all filesystems for image: Motorola.E01...
-2022-10-22 19:36:53.873 org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask run
-WARNING: Error while opening file systems in background
-org.sleuthkit.datamodel.TskCoreException: Error stat(ing) image file (raw_open: image "D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab Assignment 4B\Motorola.E01" - No such file or directory)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImgNat(Native Method)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:894)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:837)
-	org.sleuthkit.datamodel.Image.getImageHandle(Image.java:128)
-	org.sleuthkit.datamodel.FileSystem.getFileSystemHandle(FileSystem.java:113)
-	org.sleuthkit.datamodel.FileSystem.read(FileSystem.java:72)
-	org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask.openFileSystems(Case.java:2408)
-	org.sleuthkit.autopsy.casemodule.Case$BackgroundOpenFileSystemsTask.run(Case.java:2433)
-	java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	java.lang.Thread.run(Thread.java:748)
-2022-10-22 19:41:06.255 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
+2022-10-23 17:09:30.269 org.sleuthkit.autopsy.ingest.IngestMonitor$MonitorTimerAction logMonitoredRootDirectory
+INFO: Monitoring disk space of \\
+2022-10-23 17:09:30.692 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
 INFO: The refreshing of the IngestJobInfoPanel was cancelled
-2022-10-22 19:41:06.256 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
-INFO: The refreshing of the IngestJobInfoPanel was cancelled
-2022-10-22 19:41:06.256 org.sleuthkit.autopsy.casemodule.IngestJobInfoPanel$1 done
-INFO: The refreshing of the IngestJobInfoPanel was cancelled
-2022-10-22 19:45:57.66 org.sleuthkit.autopsy.coreutils.ImageUtils getImageProperty
-WARNING: ImageIO could not read /img_Motorola.E01//$CarvedFiles/f0007424.jpg: javax.imageio.IIOException: No ImageReader found.
-2022-10-22 19:45:57.685 org.sleuthkit.autopsy.coreutils.ImageUtils$ReadImageTaskBase failed
-WARNING: ImageIO could not read /img_Motorola.E01//$CarvedFiles/f0007424.jpg.  It may be unsupported or corrupt: javax.imageio.IIOException: No ImageReader found.
-2022-10-22 19:46:00.297 org.sleuthkit.autopsy.coreutils.ImageUtils getImageProperty
-WARNING: ImageIO could not read /img_Motorola.E01//$CarvedFiles/f0007424.jpg: javax.imageio.IIOException: No ImageReader found.
-2022-10-22 19:46:00.299 org.sleuthkit.autopsy.coreutils.ImageUtils$ReadImageTaskBase failed
-WARNING: ImageIO could not read /img_Motorola.E01//$CarvedFiles/f0007424.jpg.  It may be unsupported or corrupt: javax.imageio.IIOException: No ImageReader found.
-2022-10-22 19:46:46.591 org.sleuthkit.autopsy.contentviewers.textcontentviewer.StringsContentPanel$ContentWorker doInBackground
-WARNING: Error while trying to show the String content.
-org.sleuthkit.datamodel.TskCoreException: Error stat(ing) image file (raw_open: image "D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab Assignment 4B\Motorola.E01" - No such file or directory)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImgNat(Native Method)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:894)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:837)
-	org.sleuthkit.datamodel.Image.getImageHandle(Image.java:128)
-	org.sleuthkit.datamodel.LayoutFile.readInt(LayoutFile.java:166)
-	org.sleuthkit.datamodel.AbstractFile.read(AbstractFile.java:1003)
-	org.sleuthkit.autopsy.contentviewers.textcontentviewer.StringsContentPanel$ContentWorker.doInBackground(StringsContentPanel.java:435)
-	org.sleuthkit.autopsy.contentviewers.textcontentviewer.StringsContentPanel$ContentWorker.doInBackground(StringsContentPanel.java:412)
-	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
-	java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	javax.swing.SwingWorker.run(SwingWorker.java:334)
-	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	java.lang.Thread.run(Thread.java:748)
-2022-10-22 19:46:47.458 org.sleuthkit.autopsy.corecomponents.DataContentViewerHex$HexWorker doInBackground
-WARNING: Error while trying to show the hex content.
-org.sleuthkit.datamodel.TskCoreException: Error stat(ing) image file (raw_open: image "D:\NEU CY5210\Instructor Course Material\Lab Assignments\Lab_Assignment_4\Lab Assignment 4B\Motorola.E01" - No such file or directory)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImgNat(Native Method)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:894)
-	org.sleuthkit.datamodel.SleuthkitJNI.openImage(SleuthkitJNI.java:837)
-	org.sleuthkit.datamodel.Image.getImageHandle(Image.java:128)
-	org.sleuthkit.datamodel.LayoutFile.readInt(LayoutFile.java:166)
-	org.sleuthkit.datamodel.AbstractFile.read(AbstractFile.java:1003)
-	org.sleuthkit.autopsy.corecomponents.DataContentViewerHex$HexWorker.doInBackground(DataContentViewerHex.java:616)
-	org.sleuthkit.autopsy.corecomponents.DataContentViewerHex$HexWorker.doInBackground(DataContentViewerHex.java:597)
-	javax.swing.SwingWorker$1.call(SwingWorker.java:295)
-	java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	javax.swing.SwingWorker.run(SwingWorker.java:334)
-	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	java.lang.Thread.run(Thread.java:748)
-2022-10-22 20:25:24.833 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
+2022-10-23 17:14:44.567 org.sleuthkit.autopsy.casemodule.Case closeCurrentCase
 INFO: Closing current case LabAssignment4b1 (labassignment4b1_20220220_134134) in \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\Lab_4\Lab_Assignment_4_Processed\LabAssignment4b1\LabAssignment4b1
-2022-10-22 20:25:26.865 org.sleuthkit.autopsy.casemodule.Case closeAppServiceCaseResources
+2022-10-23 17:14:46.598 org.sleuthkit.autopsy.casemodule.Case closeAppServiceCaseResources
 SEVERE: Solr Keyword Search Service service failed to open case resources
-java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@5f1d1537 registered?
+java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@3adcf163 registered?
 	java.util.concurrent.FutureTask.report(FutureTask.java:122)
 	java.util.concurrent.FutureTask.get(FutureTask.java:192)
 	org.sleuthkit.autopsy.casemodule.Case.closeAppServiceCaseResources(Case.java:3090)
@@ -144,7 +84,7 @@ java.util.concurrent.ExecutionException: java.lang.IllegalArgumentException: mis
 	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	java.lang.Thread.run(Thread.java:748)
-java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@5f1d1537 registered?
+java.lang.IllegalArgumentException: missing event subscriber for an annotated method. Is org.sleuthkit.autopsy.keywordsearch.SolrSearchService@3adcf163 registered?
 	java.util.concurrent.FutureTask.report(FutureTask.java:122)
 	java.util.concurrent.FutureTask.get(FutureTask.java:192)
 	org.sleuthkit.autopsy.casemodule.Case.closeAppServiceCaseResources(Case.java:3090)
@@ -154,9 +94,9 @@ java.lang.IllegalArgumentException: missing event subscriber for an annotated me
 	java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
 	java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
 	java.lang.Thread.run(Thread.java:748)
-2022-10-22 20:25:26.875 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+2022-10-23 17:14:46.614 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
 INFO: Shutting down image gallery controller for case LabAssignment4b1 (labassignment4b1_20220220_134134)
-2022-10-22 20:25:26.878 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
+2022-10-23 17:14:46.618 org.sleuthkit.autopsy.imagegallery.datamodel.DrawableDB close
 INFO: Closing the drawable.db
-2022-10-22 20:25:26.899 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
+2022-10-23 17:14:46.626 org.sleuthkit.autopsy.imagegallery.ImageGalleryController shutDown
 INFO: Completed shut down of image gallery controller for case LabAssignment4b1 (labassignment4b1_20220220_134134)

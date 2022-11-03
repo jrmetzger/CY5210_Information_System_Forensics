@@ -1,0 +1,50 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: CaseStudy2_Custom
+Evidence Number: 
+Unique Description: 
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for C:\Users\Forensic-Geek\Desktop\Custom\InsiderThreat_Custom.ad1:
+[Custom Content Sources]
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|$MFT(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|$Recycle.Bin|*(Wildcard,Consider Case,Include Subdirectories)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|ethan_local|*(Wildcard,Consider Case,Include Subdirectories)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Users|ethomas|*(Wildcard,Consider Case,Include Subdirectories)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|RegBack|*(Wildcard,Consider Case,Include Subdirectories)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|RegBack|*(Wildcard,Consider Case,Include Subdirectories)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SAM(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SAM.LOG1(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SAM.LOG2(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SECURITY(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SECURITY.LOG1(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SECURITY.LOG2(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SOFTWARE(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SOFTWARE.LOG1(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SOFTWARE.LOG2(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SYSTEM(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SYSTEM.LOG1(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|config|SYSTEM.LOG2(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|Prefetch|*(Wildcard,Consider Case,Include Subdirectories)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|INF|setupapi.dev.log(Exact)
+ InsiderThreatWin10.E01:Basic data partition (4) [60824MB]:NONAME [NTFS]|[root]|Windows|System32|winevt|Logs|*(Wildcard,Consider Case,Include Subdirectories)
+[Computed Hashes]
+ MD5 checksum:    a0a2c9b43637d8ec5d2d197df697672e
+ SHA1 checksum:   25b9e18ed12adaee8bf2381107516482ccbd0abb
+
+Image information:
+ Acquisition started:   Sat Mar  5 07:26:08 2022
+ Acquisition finished:  Sat Mar  5 07:31:24 2022
+ Segment list:
+  C:\Users\Forensic-Geek\Desktop\Custom\InsiderThreat_Custom.ad1
+
+Image Verification Results:
+ Verification started:  Sat Mar  5 07:31:34 2022
+ Verification finished: Sat Mar  5 07:32:03 2022
+ MD5 checksum:    a0a2c9b43637d8ec5d2d197df697672e : verified
+ SHA1 checksum:   25b9e18ed12adaee8bf2381107516482ccbd0abb : verified
