@@ -1,0 +1,24 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,1,Desktop\Home Folder,Root folder: GUID,Home Folder,0,,,,2018-04-03 16:43:43,,,0,2018-03-31 12:43:42,,False,
+BagMRU,1,0,4,Desktop\My Computer,Root folder: GUID,My Computer,4,,,,2018-04-03 16:43:43,,,0,,,False,
+BagMRU,2,0,9,Desktop\Control Panel,Root folder: GUID,Control Panel,1,,,,2018-04-03 16:43:43,,,0,,,False,
+BagMRU,3,0,8,Desktop\Shared Documents Folder (Users Files),Root folder: GUID,Shared Documents Folder (Users Files),1,,,,2018-04-03 16:43:43,,,1,,,False,
+BagMRU,4,0,0,Desktop\F:\,Users property view: Drive letter,F:\,1,,,,2018-04-03 16:43:43,,,0,,2018-04-03 16:43:43,False,
+BagMRU,5,0,5,Desktop\E:\,Users property view: Drive letter,E:\,1,,,,2018-04-03 16:43:43,,,0,,,False,
+BagMRU,6,0,7,Desktop\Search Folder,Users property view,Search Folder,0,,,,2018-04-03 16:43:43,,,1,2018-04-03 00:15:17,,False,
+BagMRU,7,0,6,Desktop\Search Folder,Users property view,Search Folder,0,,,,2018-04-03 16:43:43,,,2,2018-04-03 00:15:21,,False,
+BagMRU,8,0,3,Desktop\Search Folder,Users property view,Search Folder,0,,,,2018-04-03 16:43:43,,,1,2018-04-03 00:16:53,,False,
+BagMRU,9,0,2,Desktop\Search Folder,Users property view,Search Folder,0,,,,2018-04-03 16:43:43,,,2,2018-04-03 00:16:54,,False,
+BagMRU\1,0,2,1,Desktop\My Computer\Downloads,Root folder: GUID,Downloads,0,,,,2018-04-03 00:16:48,,,1,2018-03-31 12:43:42,,True,
+BagMRU\1,1,4,3,Desktop\My Computer\Documents,Root folder: GUID,Documents,0,,,,2018-04-03 00:16:48,,,1,2018-03-31 13:06:23,,True,
+BagMRU\1,2,10,2,Desktop\My Computer\C:,Drive letter,C:,1,,,,2018-04-03 00:16:48,,,0,,,True,
+BagMRU\1,3,15,0,Desktop\My Computer\Desktop,Root folder: GUID,Desktop,0,,,,2018-04-03 00:16:48,,,1,2018-04-03 00:16:48,2018-04-03 00:16:48,True,
+BagMRU\1\2,0,11,0,Desktop\My Computer\C:\Users,Directory,Users,1,,,,2018-03-31 14:46:26,1414,1,1,,2018-03-31 14:46:26,True,NTFS file system
+BagMRU\1\2\0,0,12,0,Desktop\My Computer\C:\Users\ethomas,Directory,ethomas,0,,,,2018-03-31 14:46:27,92703,1,1,2018-03-31 14:46:27,2018-03-31 14:46:27,True,NTFS file system
+BagMRU\2,0,0,0,Desktop\Control Panel\System and Security,Control Panel Category,System and Security,1,,,,2018-03-31 12:46:31,,,0,,2018-03-31 12:46:31,False,
+BagMRU\2\0,0,3,0,Desktop\Control Panel\System and Security\System,GUID: Control panel,System,0,,,,2018-03-31 12:46:31,,,0,2018-03-31 12:46:31,2018-03-31 12:46:31,True,
+BagMRU\3,0,5,0,Desktop\Shared Documents Folder (Users Files)\Dropbox,Users Files Folder,Dropbox,0,,,,2018-03-31 13:21:49,140698,2,1,2018-03-31 13:21:49,2018-03-31 13:21:49,False,NTFS file system
+BagMRU\4,0,18,0,Desktop\F:\\Forensic Software,Directory,Forensic Software,1,,,,2018-04-03 16:43:41,452,1,1,,2018-04-03 16:43:41,True,NTFS file system
+BagMRU\4\0,0,19,0,Desktop\F:\\Forensic Software\FTK Imager,Directory,FTK Imager,1,,,,2018-04-03 16:43:42,1153,1,1,,2018-04-03 16:43:42,True,NTFS file system
+BagMRU\4\0\0,0,20,0,Desktop\F:\\Forensic Software\FTK Imager\FTK Imager,Directory,FTK Imager,0,,,,2018-04-03 16:43:43,1155,1,1,2018-04-03 16:43:43,2018-04-03 16:43:43,True,NTFS file system
+BagMRU\5,0,8,0,Desktop\E:\\Documents,Directory,Documents,0,,,,2018-03-31 14:43:06,2147483772,,1,2018-03-31 14:43:06,2018-03-31 14:43:06,False,FAT file system

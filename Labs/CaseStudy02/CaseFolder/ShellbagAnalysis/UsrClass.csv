@@ -1,0 +1,13 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,1,Desktop\Home Folder,Root folder: GUID,Home Folder,0,,,,2018-04-03 13:59:22,,,0,2018-03-31 15:36:58,,False,
+BagMRU,1,0,0,Desktop\E:\,Users property view: Drive letter,E:\,0,,,,2018-04-03 13:59:22,,,0,2018-03-31 15:36:58,2018-04-03 13:59:22,False,
+BagMRU,2,0,2,Desktop\My Computer,Root folder: GUID,My Computer,5,,,,2018-04-03 13:59:22,,,0,,,False,
+BagMRU,3,0,3,Desktop\Search Folder,Users property view,Search Folder,0,,,,2018-04-03 13:59:22,,,2,2018-04-03 00:10:04,,False,
+BagMRU\2,0,3,2,Desktop\My Computer\Documents,Root folder: GUID,Documents,0,,,,2018-04-03 13:36:33,,,1,2018-03-31 15:37:41,,True,
+BagMRU\2,1,5,4,Desktop\My Computer\C:,Drive letter,C:,1,,,,2018-04-03 13:36:33,,,0,,,True,
+BagMRU\2,2,9,3,Desktop\My Computer\Desktop,Root folder: GUID,Desktop,0,,,,2018-04-03 13:36:33,,,1,2018-03-31 15:54:12,,False,
+BagMRU\2,3,10,1,Desktop\My Computer\Downloads,Root folder: GUID,Downloads,0,,,,2018-04-03 13:36:33,,,1,2018-03-31 16:04:50,,True,
+BagMRU\2,4,13,0,Desktop\My Computer\E:,Drive letter,E:,0,,,,2018-04-03 13:36:33,,,0,2018-04-03 13:36:33,2018-04-03 13:36:33,True,
+BagMRU\2\1,0,6,0,Desktop\My Computer\C:\Users,Directory,Users,1,,,,2018-03-31 15:37:50,1414,1,1,,2018-03-31 15:37:50,True,NTFS file system
+BagMRU\2\1\0,0,7,0,Desktop\My Computer\C:\Users\ethomas,Directory,ethomas,1,,,,2018-03-31 15:37:51,92703,1,1,,2018-03-31 15:37:51,True,NTFS file system
+BagMRU\2\1\0\0,0,8,0,Desktop\My Computer\C:\Users\ethomas\Documents,Directory,Documents,0,,,,2018-03-31 15:38:00,92712,1,1,2018-03-31 15:38:00,2018-03-31 15:38:00,True,NTFS file system

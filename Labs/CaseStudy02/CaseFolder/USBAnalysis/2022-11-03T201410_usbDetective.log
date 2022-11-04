@@ -1,0 +1,78 @@
+11/3/2022 11:43:57 PM UTC: USB Detective v1.6.2 Community Edition log started.
+11/3/2022 11:55:02 PM UTC: Local timestamps will be interpreted using the displayed time zone of UTC.
+11/3/2022 11:55:41 PM UTC: Determining OS Version.
+11/3/2022 11:55:41 PM UTC: OS Version is Windows 10 Pro; using win10 OS profile.
+11/3/2022 11:55:41 PM UTC: Consistency level threshold set to 30 seconds.
+11/3/2022 11:55:41 PM UTC: Displayed timezone set to UTC.
+11/3/2022 11:55:41 PM UTC: Local timestamps will be interpreted based on displayed timezone settings (UTC).
+11/3/2022 11:55:41 PM UTC: Ambiguous devices will not be included in the results grid.
+11/3/2022 11:55:41 PM UTC: LNK file and jump list records without a VSN will be excluded in the results.
+11/3/2022 11:55:41 PM UTC: LNK file and jump list records referencing 'C:\' will be excluded in the results.
+11/3/2022 11:55:41 PM UTC: Non-removable devices will not be included in the results grid.
+11/3/2022 11:55:41 PM UTC: No SYSTEM hive(s) provided.
+11/3/2022 11:55:41 PM UTC: Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.dev.log.
+11/3/2022 11:55:41 PM UTC: Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.dev.log.
+11/3/2022 11:55:41 PM UTC: Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.offline.20170929_064627.log.
+11/3/2022 11:55:41 PM UTC: Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.offline.20170929_064627.log.
+11/3/2022 11:55:41 PM UTC: Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.setup.log.
+11/3/2022 11:55:41 PM UTC: Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.setup.log.
+11/3/2022 11:55:41 PM UTC: Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.offline.log.
+11/3/2022 11:55:41 PM UTC: Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.offline.log.
+11/3/2022 11:55:41 PM UTC: Processing SOFTWARE hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SOFTWARE\SOFTWARE).
+11/3/2022 11:55:41 PM UTC: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SOFTWARE\SOFTWARE is a dirty hive.  The transaction logs for this hive should be replayed.
+11/3/2022 11:55:41 PM UTC: Upgrade to Professional for transaction log support.
+11/3/2022 11:55:42 PM UTC: Processing SOFTWARE hive again without replaying transaction logs.
+11/3/2022 11:55:42 PM UTC: The current version of Windows was installed on 3/27/2018 12:01:29 AM (not necessarily the original install time).
+11/3/2022 11:55:42 PM UTC: Finished processing SOFTWARE hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SOFTWARE\SOFTWARE).
+11/3/2022 11:55:42 PM UTC: No ntuser.dat hive(s) provided.
+11/3/2022 11:55:42 PM UTC: No UsrClass.dat hive(s) provided.
+11/3/2022 11:55:42 PM UTC: No event log(s) provided.
+11/3/2022 11:55:42 PM UTC: Performing additional correlation across provided artifacts.
+11/3/2022 11:55:42 PM UTC: Populating results grid and checking for duplicate timestamps.
+11/3/2022 11:55:42 PM UTC: 4 devices were identified by USB Detective!
+11/3/2022 11:55:42 PM UTC: Processing is complete.
+11/4/2022 12:14:10 AM UTC: Testing hive signatures.
+11/4/2022 12:14:10 AM UTC: All provided hives have a valid signature.
+11/4/2022 12:14:10 AM UTC: Local timestamps will be interpreted using the displayed time zone of UTC.
+11/4/2022 12:14:10 AM UTC: Determining OS Version.
+11/4/2022 12:14:10 AM UTC: OS Version is Windows 10 Pro; using win10 OS profile.
+11/4/2022 12:14:10 AM UTC: Computer name is ETHOMAS_DESKTOP.
+11/4/2022 12:14:10 AM UTC: Time zone is Eastern Standard Time.
+11/4/2022 12:14:10 AM UTC: Consistency level threshold set to 30 seconds.
+11/4/2022 12:14:10 AM UTC: Displayed timezone set to UTC.
+11/4/2022 12:14:10 AM UTC: Local timestamps will be interpreted based on displayed timezone settings (UTC).
+11/4/2022 12:14:10 AM UTC: Ambiguous devices will not be included in the results grid.
+11/4/2022 12:14:10 AM UTC: LNK file and jump list records without a VSN will be excluded in the results.
+11/4/2022 12:14:10 AM UTC: LNK file and jump list records referencing 'C:\' will be excluded in the results.
+11/4/2022 12:14:10 AM UTC: Non-removable devices will not be included in the results grid.
+11/4/2022 12:14:10 AM UTC: Processing SYSTEM hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SYSTEM\SYSTEM).
+11/4/2022 12:14:11 AM UTC: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SYSTEM\SYSTEM is a dirty hive.  The transaction logs for this hive should be replayed.
+11/4/2022 12:14:11 AM UTC: Upgrade to Professional for transaction log support.
+11/4/2022 12:14:11 AM UTC: Processing SYSTEM hive again without replaying transaction logs.
+11/4/2022 12:14:11 AM UTC: The device with model/description 'NECVMWar VMware SATA CD01' was identified in '\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SYSTEM\SYSTEM' at 'ROOT\ControlSet001\Enum\SCSI\CdRom&Ven_NECVMWar&Prod_VMware_SATA_CD01\5&2edf08dd&0&010000' but will be excluded from the results because it is not a removable device/drive. To include non-removable devices in results, select 'Include Non-Removable Devices' in Tools > Options.
+11/4/2022 12:14:11 AM UTC: Finished processing SYSTEM hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SYSTEM\SYSTEM).
+11/4/2022 12:14:11 AM UTC: Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.dev.log.
+11/4/2022 12:14:11 AM UTC: Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.dev.log.
+11/4/2022 12:14:11 AM UTC: Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.offline.20170929_064627.log.
+11/4/2022 12:14:11 AM UTC: Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.offline.20170929_064627.log.
+11/4/2022 12:14:11 AM UTC: Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.setup.log.
+11/4/2022 12:14:11 AM UTC: Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.setup.log.
+11/4/2022 12:14:11 AM UTC: Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.offline.log.
+11/4/2022 12:14:11 AM UTC: Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SetupAPI\setupapi.offline.log.
+11/4/2022 12:14:11 AM UTC: Processing SOFTWARE hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SOFTWARE\SOFTWARE).
+11/4/2022 12:14:11 AM UTC: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SOFTWARE\SOFTWARE is a dirty hive.  The transaction logs for this hive should be replayed.
+11/4/2022 12:14:11 AM UTC: Upgrade to Professional for transaction log support.
+11/4/2022 12:14:11 AM UTC: Processing SOFTWARE hive again without replaying transaction logs.
+11/4/2022 12:14:11 AM UTC: The current version of Windows was installed on 3/27/2018 12:01:29 AM (not necessarily the original install time).
+11/4/2022 12:14:11 AM UTC: Finished processing SOFTWARE hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\SOFTWARE\SOFTWARE).
+11/4/2022 12:14:11 AM UTC: Processing  NTUSER.DAT hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\NTUSER.DAT.copy0).
+11/4/2022 12:14:11 AM UTC: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\NTUSER.DAT.copy0 is a dirty hive.  The transaction logs for this hive should be replayed.
+11/4/2022 12:14:11 AM UTC: Upgrade to Professional for transaction log support.
+11/4/2022 12:14:11 AM UTC: Processing NTUSER.DAT hive again without replaying transaction logs.
+11/4/2022 12:14:11 AM UTC: Finished processing  NTUSER.DAT hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\NTUSER.DAT.copy0).
+11/4/2022 12:14:11 AM UTC: No UsrClass.dat hive(s) provided.
+11/4/2022 12:14:11 AM UTC: No event log(s) provided.
+11/4/2022 12:14:11 AM UTC: Performing additional correlation across provided artifacts.
+11/4/2022 12:14:12 AM UTC: Populating results grid and checking for duplicate timestamps.
+11/4/2022 12:14:12 AM UTC: 5 devices were identified by USB Detective!
+11/4/2022 12:14:12 AM UTC: Processing of ETHOMAS_DESKTOP is complete.

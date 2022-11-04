@@ -1,0 +1,66 @@
+[19:39:24.829 INF] SBECmd version 2.0.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+[19:39:24.861 INF] Command line: -d ..\..\Labs\CaseStudy02\CaseFolder --csv ..\..\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis
+[19:39:24.861 INF] Directory to process: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder
+[19:39:24.861 INF] Deduplication: false
+[19:39:24.861 INF] All messages will be saved to \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\!SBECmd_Messages.txt
+[19:39:24.908 INF] Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\NTUSER.DAT
+[19:39:25.144 INF] Two transaction logs found. Determining primary log...
+[19:39:25.144 INF] Primary log: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\ntuser.dat.LOG2, secondary log: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\ntuser.dat.LOG1
+[19:39:25.144 INF] Replaying log file: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\ntuser.dat.LOG2
+[19:39:25.144 INF] Replaying log file: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\ntuser.dat.LOG1
+[19:39:25.144 INF] At least one transaction log was applied. Sequence numbers have been updated to 0x010D. New Checksum: 0x630AB96B
+[19:39:25.477 INF] Parse time: 0.45 seconds
+[19:39:25.477 INF] Total ShellBags found: 0
+[19:39:25.477 INF] Totals by bag type
+[19:39:25.477 INF] Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethomas\NTUSER.DAT
+[19:39:25.477 INF] Exported to: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\NTUSER.csv
+[19:39:25.477 INF] ---------------------------------------------------------------------
+[19:39:25.477 INF] Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethanlocal\NTUSER.DAT
+[19:39:25.606 WRN] Setting output path to \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\0_NTUSER.csv due to existing file \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\NTUSER.csv
+[19:39:25.606 INF] Parse time: 0.12 seconds
+[19:39:25.606 INF] Total ShellBags found: 0
+[19:39:25.606 INF] Totals by bag type
+[19:39:25.606 INF] Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\NTUSER\NTUSER_ethanlocal\NTUSER.DAT
+[19:39:25.606 INF] Exported to: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\0_NTUSER.csv
+[19:39:25.606 INF] ---------------------------------------------------------------------
+[19:39:25.606 INF] Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\USRCLASS\USRCLASS_ethanlocal\UsrClass.dat
+[19:39:26.065 INF] Parse time: 0.39 seconds
+[19:39:26.065 INF] Total ShellBags found: 12
+[19:39:26.065 INF] Totals by bag type
+[19:39:26.065 INF] Root folder: GUID: 5
+[19:39:26.065 INF] Users property view: Drive letter: 1
+[19:39:26.065 INF] Directory: 3
+[19:39:26.065 INF] Drive letter: 2
+[19:39:26.065 INF] Users property view: 1
+[19:39:26.065 INF] Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\USRCLASS\USRCLASS_ethanlocal\UsrClass.dat
+[19:39:26.065 INF] Exported to: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\UsrClass.csv
+[19:39:26.065 INF] ---------------------------------------------------------------------
+[19:39:26.065 INF] Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\USRCLASS\USRCLASS_ethomas\UsrClass.dat
+[19:39:26.081 INF] Two transaction logs found. Determining primary log...
+[19:39:26.081 INF] Primary log: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\USRCLASS\USRCLASS_ethomas\UsrClass.dat.LOG2, secondary log: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\USRCLASS\USRCLASS_ethomas\UsrClass.dat.LOG1
+[19:39:26.081 INF] Replaying log file: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\USRCLASS\USRCLASS_ethomas\UsrClass.dat.LOG2
+[19:39:26.081 INF] Replaying log file: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\USRCLASS\USRCLASS_ethomas\UsrClass.dat.LOG1
+[19:39:26.081 INF] At least one transaction log was applied. Sequence numbers have been updated to 0x0082. New Checksum: 0xE075C0BF
+[19:39:26.354 WRN] Setting output path to \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\0_UsrClass.csv due to existing file \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\UsrClass.csv
+[19:39:26.379 INF] Parse time: 0.28 seconds
+[19:39:26.379 INF] Total ShellBags found: 23
+[19:39:26.379 INF] Totals by bag type
+[19:39:26.379 INF] Root folder: GUID: 7
+[19:39:26.379 INF] Directory: 6
+[19:39:26.379 INF] Drive letter: 1
+[19:39:26.379 INF] GUID: Control panel: 1
+[19:39:26.379 INF] Control Panel Category: 1
+[19:39:26.379 INF] Users Files Folder: 1
+[19:39:26.379 INF] Users property view: Drive letter: 2
+[19:39:26.379 INF] Users property view: 4
+[19:39:26.379 INF] Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\USRCLASS\USRCLASS_ethomas\UsrClass.dat
+[19:39:26.379 INF] Exported to: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\CY5210_Information_System_Forensics\Labs\CaseStudy02\CaseFolder\ShellbagAnalysis\0_UsrClass.csv
+[19:39:26.379 INF] ---------------------------------------------------------------------
+[19:39:26.394 INF] Processing complete!
+[19:39:26.394 INF] Processed 4 files in 1.25 seconds!
+[19:39:26.394 INF] Total ShellBags found: 35
+
+
