@@ -1,0 +1,79 @@
+Hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\SECURITY\SECURITY) is dirty.
+If you need to process hive transasction logs, please consider using yarp + registryFlush.py
+(Maxim Suhanov) or rla.exe (Eric Zimmerman).
+
+auditpol v.20200515
+(Security) Get audit policy from the Security hive file
+
+auditpol
+Policy\PolAdtEv
+LastWrite Time 2019-03-25 15:47:05Z
+
+Possible Win10(1607+)/Win2016
+System:Security State Change                       S    
+System:Security System Extension                   N    
+System:System Integrity                            S/F  
+System:IPsec Driver                                N    
+System:Other System Events                         S/F  
+Logon/Logoff:Logon                                 S    
+Logon/Logoff:Logoff                                S    
+Logon/Logoff:Account Lockout                       S    
+Logon/Logoff:IPsec Main Mode                       N    
+Logon/Logoff:Special Logon                         S    
+Logon/Logoff:IPsec Quick Mode                      N    
+Logon/Logoff:IPsec Extended Mode                   N    
+Logon/Logoff:Other Logon/Logoff Events             N    
+Logon/Logoff:Network Policy Server                 S/F  
+Logon/Logoff:User/Device Claims                    N    
+Logon/Logoff:Group Membership                      N    
+Object Access:File System                          N    
+Object Access:Registry                             N    
+Object Access:Kernel Object                        N    
+Object Access:SAM                                  N    
+Object Access:Other Object Access Events           N    
+Object Access:Certification Services               N    
+Object Access:Application Generated                N    
+Object Access:Handle Manipulation                  N    
+Object Access:File Share                           N    
+Object Access:Filtering Platform Packet Drop       N    
+Object Access:Filtering Platform Connection        N    
+Object Access:Detailed File Share                  N    
+Object Access:Removable Storage                    N    
+Object Access:Central Policy Staging               N    
+Privilege Use:Sensitive Privilege Use              N    
+Privilege Use:Non Sensitive Privilege Use          N    
+Privilege Use:Other Privilege Use Events           N    
+Detailed Tracking:Process Creation                 N    
+Detailed Tracking:Process Termination              N    
+Detailed Tracking:DPAPI Activity                   N    
+Detailed Tracking:RPC Events                       N    
+Detailed Tracking:Plug and Play Events             N    
+Detailed Tracking:Token Right Adjusted Events      N    
+Policy Change:Audit Policy Change                  S    
+Policy Change:Authentication Policy Change         S    
+Policy Change:Authorization Policy Change          N    
+Policy Change:MPSSVC Rule-Level Policy Change      N    
+Policy Change:Filtering Platform Policy Change     N    
+Policy Change:Other Policy Change Events           N    
+Account Management:User Account Management         S    
+Account Management:Computer Account Management     N    
+Account Management:Security Group Management       S    
+Account Management:Distribution Group Management   N    
+Account Management:Application Group Management    N    
+Account Management:Other Account Management Events N    
+DS Access:Directory Service Access                 N    
+DS Access:Directory Service Changes                N    
+DS Access:Directory Service Replication            N    
+DS Access:Detailed Directory Service Replication   N    
+Account Logon:Credential Validation                N    
+Account Logon:Kerberos Service Ticket Operations   N    
+Account Logon:Other Account Logon Events           N    
+Account Logon:Kerberos Authentication Service      N    
+----------------------------------------
+secrets v.20200517
+(Security) Get the last write time for the Policy\Secrets key
+
+Policy\Secrets
+LastWrite Time 2019-03-27 11:45:47Z
+
+----------------------------------------

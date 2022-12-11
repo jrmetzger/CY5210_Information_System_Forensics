@@ -1,0 +1,31 @@
+[20:27:00.645 INF] SBECmd version 2.0.0.0
+
+Author: Eric Zimmerman (saericzimmerman@gmail.com)
+https://github.com/EricZimmerman
+[20:27:00.676 INF] Command line: -d ..\Labs\CaseStudy04/CaseFolder --csv ..\Labs\CaseStudy04/CaseFolder/ShellbagAnalysis
+[20:27:00.676 INF] Directory to process: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder
+[20:27:00.676 INF] Deduplication: false
+[20:27:00.676 INF] All messages will be saved to \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\ShellbagAnalysis\!SBECmd_Messages.txt
+[20:27:00.724 INF] Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\NTUSER\NTUSER.DAT
+[20:27:01.316 INF] Parse time: 0.47 seconds
+[20:27:01.316 INF] Total ShellBags found: 0
+[20:27:01.316 INF] Totals by bag type
+[20:27:01.316 INF] Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\NTUSER\NTUSER.DAT
+[20:27:01.316 INF] Exported to: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\ShellbagAnalysis\NTUSER.csv
+[20:27:01.316 INF] ---------------------------------------------------------------------
+[20:27:01.327 INF] Processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\USRCLASS\UsrClass.dat
+[20:27:01.772 INF] Parse time: 0.38 seconds
+[20:27:01.772 INF] Total ShellBags found: 28
+[20:27:01.772 INF] Totals by bag type
+[20:27:01.772 INF] Root folder: GUID: 7
+[20:27:01.772 INF] Directory: 16
+[20:27:01.772 INF] Users property view: Drive letter: 3
+[20:27:01.772 INF] Drive letter: 2
+[20:27:01.772 INF] Finished processing \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\USRCLASS\UsrClass.dat
+[20:27:01.772 INF] Exported to: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\ShellbagAnalysis\UsrClass.csv
+[20:27:01.772 INF] ---------------------------------------------------------------------
+[20:27:01.772 INF] Processing complete!
+[20:27:01.772 INF] Processed 2 files in 0.86 seconds!
+[20:27:01.772 INF] Total ShellBags found: 28
+
+

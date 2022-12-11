@@ -1,0 +1,972 @@
+[Device Install Log]
+     OS Version = 10.0.17134
+     Service Pack = 0.0
+     Suite = 0x0110
+     ProductType = 1
+     Architecture = amd64
+
+[BeginLog]
+
+[Boot Session: 2019/03/25 08:46:50.490]
+
+>>>  [Sysprep Specialize - {b6f10fe6-0b0d-df11-8018-705ab691135d}]
+>>>  Section start 2019/03/25 08:47:27.364
+     set: BIOS Release Date: 12/10/2009
+     set: BIOS Vendor: Insyde
+     set: BIOS Version: F.17
+     set: System Family: 103C_5335KV
+     set: System Manufacturer: Hewlett-Packard
+     set: System Product Name: HP Pavilion dv4 Notebook PC
+     set: System SKU: WA889UA#ABA
+     set: System Version: 049A210002241310000020000
+<<<  Section end 2019/03/25 08:47:58.907
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup Update Driver Package Signatures]
+>>>  Section start 2019/03/25 08:47:27.739
+     set: No driver package signatures to update.
+<<<  Section end 2019/03/25 08:47:27.848
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup Plug and Play Device Install]
+>>>  Section start 2019/03/25 08:47:27.848
+     set: ACPI\PNP0C09\1 -> Configured [machine.inf:*PNP0C09,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_1200&SUBSYS_00000000&REV_00\3&2411E6FE&0&C0 -> Configured [machine.inf:PCI\CC_0600,NO_DRV] and started (ConfigFlags = 0x00000000).
+!    set: HDAUDIO\FUNC_01&VEN_111D&DEV_76B2&SUBSYS_103C3642&REV_1003\4&7E89B6F&0&0001 -> Setting CONFIGFLAG_REINSTALL on unstarted device (ProblemCode = 18, ProblemStatus = 0xC0000493).
+     set: ACPI\PNP0C0A\1 -> Configured [cmbatt.inf:ACPI\PNP0C0A,CmBatt_Inst] and started (ConfigFlags = 0x00000000).
+     set: DISPLAY\CMO1425\1&8713BCA&0&UID0 -> Configured [monitor.inf:*PNP09FF,PnPMonitor.Install] and started (ConfigFlags = 0x00000000).
+     set: USB\ROOT_HUB\4&389CF650&0 -> Configured [usbport.inf:USB\ROOT_HUB,ROOTHUB.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_9606&SUBSYS_3642103C&REV_00\3&2411E6FE&0&30 -> Configured [pci.inf:PCI\CC_0604,PCI_BRIDGE] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_103C&DEV_9602&SUBSYS_3642103C&REV_00\3&2411E6FE&0&08 -> Configured [pci.inf:PCI\CC_0604,PCI_BRIDGE] and started (ConfigFlags = 0x00000000).
+     set: ROOT\VOLMGR\0000 -> Configured [volmgr.inf:ROOT\VOLMGR,Volmgr] and started (ConfigFlags = 0x00040000).
+     set: ACPI\PNP0100\4&7A1354&0 -> Configured [machine.inf:*PNP0100,NO_DRV_X] (ConfigFlags = 0x00000000).
+     set: ROOT\BASICDISPLAY\0000 -> Configured [basicdisplay.inf:ROOT\BasicDisplay,MSBDD_Fallback] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0C0E\2&DABA3FF&0 -> Configured [machine.inf:*PNP0C0E,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0303\4&7A1354&0 -> Configured [keyboard.inf:*PNP0303,STANDARD_Inst] and started (ConfigFlags = 0x00000000).
+     set: ACPI\THERMALZONE\TZ01 -> Configured [machine.inf:ACPI\ThermalZone,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0C14\0 -> Configured [wmiacpi.inf:*pnp0c14,WMIMAP_Inst.NT] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0C01\4&7A1354&0 -> Configured [machine.inf:*PNP0C01,NO_DRV_MBRES] (ConfigFlags = 0x00000000).
+!    set: PCI\VEN_168C&DEV_002B&SUBSYS_303F103C&REV_01\4&3A695A07&0&0030 -> Setting CONFIGFLAG_REINSTALL on unstarted device (ProblemCode = 18, ProblemStatus = 0xC0000493).
+     set: ACPI\PNP0800\4&7A1354&0 -> Configured [machine.inf:*PNP0800,NO_DRV_X] (ConfigFlags = 0x00000000).
+     set: ROOT\COMPOSITEBUS\0000 -> Configured [compositebus.inf:ROOT\CompositeBus,CompositeBus_Device.NT] and started (ConfigFlags = 0x00000000).
+     set: ROOT\VDRVROOT\0000 -> Configured [vdrvroot.inf:ROOT\vdrvroot,VDRVROOT] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0C02\4&7A1354&0 -> Configured [machine.inf:*PNP0C02,NO_DRV_MBRES] (ConfigFlags = 0x00000000).
+     set: ACPI\ACPI0003\2&DABA3FF&0 -> Configured [cmbatt.inf:ACPI\ACPI0003,AcAdapter_Inst] and started (ConfigFlags = 0x00000000).
+     set: ROOT\SPACEPORT\0000 -> Configured [spaceport.inf:Root\Spaceport,Spaceport_Install] and started (ConfigFlags = 0x00040000).
+     set: PCI\VEN_1002&DEV_970F&SUBSYS_3642103C&REV_00\4&2767B852&0&2908 -> Configured [hdaudbus.inf:PCI\CC_0403,HDAudio_Device.NT] and started (ConfigFlags = 0x00000000).
+!    set: USB\VID_090C&PID_137B&MI_00\6&25C2559E&0&0000 -> Setting CONFIGFLAG_REINSTALL on unstarted device (ProblemCode = 18, ProblemStatus = 0xC0000493).
+     set: STORAGE\VOLUME\{963FEF67-4F1D-11E9-8A2E-806E6F6E6963}#0000000022600000 -> Configured [volume.inf:STORAGE\Volume,volume_install.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_1202&SUBSYS_00000000&REV_00\3&2411E6FE&0&C2 -> Configured [machine.inf:PCI\CC_0600,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: ROOT\KDNIC\0000 -> Configured [kdnic.inf:root\kdnic,KdNic.ndi] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4384&SUBSYS_00000000&REV_00\3&2411E6FE&0&A4 -> Configured [pci.inf:PCI\CC_0604,PCI_BRIDGE] and started (ConfigFlags = 0x00000000).
+!    set: ACPI\ENE0100\3&2411E6FE&0 -> Configured [null] and unstarted (ProblemCode = 28, ProblemStatus = 0xC0000490, ConfigFlags = 0x00000040).
+     set: USB\ROOT_HUB20\4&2C51FD64&0 -> Configured [usbport.inf:USB\ROOT_HUB20,ROOTHUB.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0C0D\2&DABA3FF&0 -> Configured [machine.inf:*PNP0C0D,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: USB\VID_090C&PID_137B\SMI001 -> Configured [usb.inf:USB\COMPOSITE,Composite.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4397&SUBSYS_3642103C&REV_00\3&2411E6FE&0&90 -> Configured [usbport.inf:PCI\CC_0C0310,OHCI.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4397&SUBSYS_3642103C&REV_00\3&2411E6FE&0&98 -> Configured [usbport.inf:PCI\CC_0C0310,OHCI.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: USB\ROOT_HUB\4&3ABE2D2F&0 -> Configured [usbport.inf:USB\ROOT_HUB,ROOTHUB.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0C04\4&7A1354&0 -> Configured [machine.inf:*PNP0C04,NO_DRV_X] (ConfigFlags = 0x00000000).
+     set: USB\ROOT_HUB\4&31958488&0 -> Configured [usbport.inf:USB\ROOT_HUB,ROOTHUB.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4383&SUBSYS_3642103C&REV_00\3&2411E6FE&0&A2 -> Configured [hdaudbus.inf:PCI\CC_0403,HDAudio_Device.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_9605&SUBSYS_3642103C&REV_00\3&2411E6FE&0&28 -> Configured [pci.inf:PCI\CC_0604,PCI_BRIDGE] and started (ConfigFlags = 0x00000000).
+     set: ROOT\UMBUS\0000 -> Configured [umbus.inf:root\umbus,UmBusRoot_Device.NT] and started (ConfigFlags = 0x00000000).
+     set: ROOT\CAD\0000 -> Configured [ChargeArbitration.inf:ROOT\CAD,CAD_Inst.NT] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0F13\4&7A1354&0 -> Configured [msmouse.inf:*PNP0F13,PS2_Inst] and started (ConfigFlags = 0x00000000).
+!    set: PCI\VEN_10EC&DEV_8136&SUBSYS_3642103C&REV_02\4&85F97FE&0&0038 -> Setting CONFIGFLAG_REINSTALL on unstarted device (ProblemCode = 18, ProblemStatus = 0xC0000493).
+     set: ROOT\ACPI_HAL\0000 -> Configured [hal.inf:acpiapic,ACPI_AMD64_HAL] and started (ConfigFlags = 0x00040000).
+     set: ACPI\PNP0A08\1 -> Configured [pci.inf:*PNP0A08,PCI_ROOT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4385&SUBSYS_3642103C&REV_3C\3&2411E6FE&0&A0 -> Configured [machine.inf:PCI\VEN_1002&DEV_4385,NO_DRV_MEM] (ConfigFlags = 0x00000000).
+!    set: ACPI\HPQ0004\3&2411E6FE&0 -> Configured [null] and unstarted (ProblemCode = 28, ProblemStatus = 0xC0000490, ConfigFlags = 0x00000040).
+     set: ACPI\PNP0C0C\2&DABA3FF&0 -> Configured [machine.inf:*PNP0C0C,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: ACPI_HAL\PNP0C08\0 -> Configured [acpi.inf:*PNP0C08,ACPI_Inst.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_439D&SUBSYS_3642103C&REV_00\3&2411E6FE&0&A3 -> Configured [machine.inf:PCI\CC_0601,MSISADRV] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_1204&SUBSYS_00000000&REV_00\3&2411E6FE&0&C4 -> Configured [machine.inf:PCI\CC_0600,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: ROOT\BASICRENDER\0000 -> Configured [basicrender.inf:ROOT\BasicRender,BasicRender] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0200\4&7A1354&0 -> Configured [machine.inf:*PNP0200,NO_DRV_X] (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4391&SUBSYS_3642103C&REV_00\3&2411E6FE&0&88 -> Configured [mshdc.inf:PCI\CC_010601,msahci_Inst] and started (ConfigFlags = 0x00000000).
+     set: SCSI\CDROM&VEN_HP&PROD_DVD_RW_AD-7561S\4&2D884A8A&0&010000 -> Configured [cdrom.inf:GenCdRom,cdrom_install] and started (ConfigFlags = 0x00000000).
+!    set: HDAUDIO\FUNC_01&VEN_1002&DEV_791A&SUBSYS_00791A00&REV_1000\5&3865763A&0&0001 -> Setting CONFIGFLAG_REINSTALL on unstarted device (ProblemCode = 18, ProblemStatus = 0xC0000493).
+     set: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_16_MODEL_6_-_AMD_TURION(TM)_II_DUAL-CORE_MOBILE_M520\_0 -> Configured [cpu.inf:ACPI\AuthenticAMD_-_AMD64,AmdPPM_Inst.NT] and started (ConfigFlags = 0x00000000).
+     set: ACPI\AUTHENTICAMD_-_AMD64_FAMILY_16_MODEL_6_-_AMD_TURION(TM)_II_DUAL-CORE_MOBILE_M520\_1 -> Configured [cpu.inf:ACPI\AuthenticAMD_-_AMD64,AmdPPM_Inst.NT] and started (ConfigFlags = 0x00000000).
+     set: ACPI\FIXEDBUTTON\2&DABA3FF&0 -> Configured [machine.inf:ACPI\FixedButton,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_1201&SUBSYS_00000000&REV_00\3&2411E6FE&0&C1 -> Configured [machine.inf:PCI\CC_0600,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0000\4&7A1354&0 -> Configured [machine.inf:*PNP0000,NO_DRV_PIC] (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_9607&SUBSYS_3642103C&REV_00\3&2411E6FE&0&38 -> Configured [pci.inf:PCI\CC_0604,PCI_BRIDGE] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0B00\4&7A1354&0 -> Configured [machine.inf:*PNP0B00,NO_DRV_X] and started (ConfigFlags = 0x00000000).
+     set: USB\ROOT_HUB20\4&9988D08&0 -> Configured [usbport.inf:USB\ROOT_HUB20,ROOTHUB.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: SCSI\DISK&VEN_WDC&PROD_WD3200BEKT-60V5T\4&2D884A8A&0&000000 -> Configured [disk.inf:GenDisk,disk_install.NT] and started (ConfigFlags = 0x00000000).
+!    set: PCI\VEN_1002&DEV_9712&SUBSYS_3642103C&REV_00\4&2767B852&0&2808 -> Setting CONFIGFLAG_REINSTALL on unstarted device (ProblemCode = 18, ProblemStatus = 0xC0000493).
+     set: PCI\VEN_1002&DEV_4396&SUBSYS_3642103C&REV_00\3&2411E6FE&0&92 -> Configured [usbport.inf:PCI\CC_0C0320,EHCI.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4396&SUBSYS_3642103C&REV_00\3&2411E6FE&0&9A -> Configured [usbport.inf:PCI\CC_0C0320,EHCI.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: ROOT\NDISVIRTUALBUS\0000 -> Configured [ndisvirtualbus.inf:ROOT\NdisVirtualBus,NdisVirtualBus_Device.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_9604&SUBSYS_3642103C&REV_00\3&2411E6FE&0&20 -> Configured [pci.inf:PCI\CC_0604,PCI_BRIDGE] and started (ConfigFlags = 0x00000000).
+     set: ROOT\MSSMBIOS\0000 -> Configured [mssmbios.inf:ROOT\mssmbios,MSSMBIOS_DRV] and started (ConfigFlags = 0x00000000).
+     set: STORAGE\VOLUME\{963FEF67-4F1D-11E9-8A2E-806E6F6E6963}#0000000000100000 -> Configured [volume.inf:STORAGE\Volume,volume_install.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_9601&SUBSYS_3642103C&REV_00\3&2411E6FE&0&00 -> Configured [machine.inf:PCI\CC_0600,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1022&DEV_1203&SUBSYS_00000000&REV_00\3&2411E6FE&0&C3 -> Configured [machine.inf:PCI\CC_0600,NO_DRV] and started (ConfigFlags = 0x00000000).
+     set: ROOT\SYSTEM\0000 -> Configured [swenum.inf:ROOT\SWENUM,SWENUM] and started (ConfigFlags = 0x00000000).
+     set: ACPI\PNP0C02\3&2411E6FE&0 -> Configured [machine.inf:*PNP0C02,NO_DRV_MBRES] (ConfigFlags = 0x00000000).
+     set: ROOT\RDPBUS\0000 -> Configured [rdpbus.inf:ROOT\RDPBUS,RDPBUS] and started (ConfigFlags = 0x00000000).
+     set: STORAGE\VOLUME\{963FEF67-4F1D-11E9-8A2E-806E6F6E6963}#000000321BD00000 -> Configured [volume.inf:STORAGE\Volume,volume_install.NT] and started (ConfigFlags = 0x00000000).
+     set: USB\ROOT_HUB\4&1F748DF2&0 -> Configured [usbport.inf:USB\ROOT_HUB,ROOTHUB.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4398&SUBSYS_3642103C&REV_00\3&2411E6FE&0&91 -> Configured [usbport.inf:PCI\CC_0C0310,OHCI.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: PCI\VEN_1002&DEV_4398&SUBSYS_3642103C&REV_00\3&2411E6FE&0&99 -> Configured [usbport.inf:PCI\CC_0C0310,OHCI.Dev.NT] and started (ConfigFlags = 0x00000000).
+     set: Devices configured: 76
+     set: Devices legacy-installed: 0
+     set: Devices need (re)install: 6
+     set: Waiting for system services to start... 08:47:27.895
+     set: Completed waiting for system services to start. 08:47:35.677
+     set: DeviceInstall service already running. 08:47:35.770
+     set: Waiting for pending device installs... 08:47:35.770
+     set: Completed pending device installs. 08:47:58.747
+<<<  Section end 2019/03/25 08:47:58.747
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup online Device Install (Hardware initiated) - HDAUDIO\FUNC_01&VEN_111D&DEV_76B2&SUBSYS_103C3642&REV_1003\4&7e89b6f&0&0001]
+>>>  Section start 2019/03/25 08:47:35.833
+     dvi: {Build Driver List} 08:47:36.848
+     dvi:      Searching for hardware ID(s):
+     dvi:           hdaudio\func_01&ven_111d&dev_76b2&subsys_103c3642&rev_1003
+     dvi:           hdaudio\func_01&ven_111d&dev_76b2&subsys_103c3642
+     dvi:      Searching for compatible ID(s):
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ctlr_dev_4383&ven_111d&dev_76b2&rev_1003
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ven_111d&dev_76b2&rev_1003
+     dvi:           hdaudio\func_01&ven_111d&dev_76b2&rev_1003
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ctlr_dev_4383&ven_111d&dev_76b2
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ven_111d&dev_76b2
+     dvi:           hdaudio\func_01&ven_111d&dev_76b2
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ctlr_dev_4383&ven_111d
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ven_111d
+     dvi:           hdaudio\func_01&ven_111d
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ctlr_dev_4383
+     dvi:           hdaudio\func_01&ctlr_ven_1002
+     dvi:           hdaudio\func_01&gf&ven_111d&dev_76b2&subsys_103c3642&rev_1003
+     dvi:           hdaudio\func_01
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - HDAUDIO\FUNC_01
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\hdaudio.inf_amd64_bc8d23bd4cb8d506\hdaudio.inf
+     dvi:           DevDesc      - High Definition Audio Device
+     dvi:           Section      - HdAudModel
+     dvi:           Rank         - 0x00ff300c
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 04/11/2018
+     dvi:           Version      - 10.0.17134.1
+     dvi: {Build Driver List - exit(0x00000000)} 08:47:39.020
+     dvi: {DIF_SELECTBESTCOMPATDRV} 08:47:39.020
+     dvi:      Using exported function 'MediaClassInstaller' in module 'C:\Windows\system32\mmci.dll'.
+     dvi:      Class installer == mmci.dll,MediaClassInstaller
+     dvi:      Class installer: Enter 08:47:40.552
+     dvi:      Class installer: Exit
+     dvi:      Default installer: Enter 08:47:40.567
+     dvi:           {Select Best Driver}
+     dvi:                Class GUID of device changed to: {4d36e96c-e325-11ce-bfc1-08002be10318}.
+     dvi:                {DIF_DESTROYPRIVATEDATA} 08:47:40.567
+     dvi:                     Class installer: Enter 08:47:40.567
+     dvi:                     Class installer: Exit
+     dvi:                     Default installer: Enter 08:47:40.567
+     dvi:                     Default installer: Exit
+     dvi:                {DIF_DESTROYPRIVATEDATA - exit(0xe000020e)} 08:47:40.567
+     dvi:                Selected Driver:
+     dvi:                     Description - High Definition Audio Device
+     dvi:                     InfFile     - c:\windows\system32\driverstore\filerepository\hdaudio.inf_amd64_bc8d23bd4cb8d506\hdaudio.inf
+     dvi:                     Section     - HdAudModel
+     dvi:           {Select Best Driver - exit(0x00000000)}
+     dvi:      Default installer: Exit
+     dvi: {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 08:47:40.567
+     dvi: Waiting for previous device install to complete. 08:47:40.567
+     dvi: {Core Device Install} 08:47:49.190
+     dvi:      {Install Device - HDAUDIO\FUNC_01&VEN_111D&DEV_76B2&SUBSYS_103C3642&REV_1003\4&7E89B6F&0&0001} 08:47:49.284
+     dvi:           Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:           Parent device: PCI\VEN_1002&DEV_4383&SUBSYS_3642103C&REV_00\3&2411e6fe&0&A2
+     dvi:           {Configure Device - HDAUDIO\FUNC_01&VEN_111D&DEV_76B2&SUBSYS_103C3642&REV_1003\4&7E89B6F&0&0001} 08:47:49.597
+     dvi:                Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:                Parent device: PCI\VEN_1002&DEV_4383&SUBSYS_3642103C&REV_00\3&2411e6fe&0&A2
+!    dvi:                Device class {4d36e96c-e325-11ce-bfc1-08002be10318} is not configurable.
+     dvi:           {Configure Device - exit(0x00000032)} 08:47:49.612
+     dvi:           {DIF_ALLOW_INSTALL} 08:47:49.628
+     dvi:                Using exported function 'MediaClassInstaller' in module 'C:\Windows\system32\mmci.dll'.
+     dvi:                Class installer == mmci.dll,MediaClassInstaller
+     dvi:                Class installer: Enter 08:47:49.628
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:49.628
+     dvi:                Default installer: Exit
+     dvi:           {DIF_ALLOW_INSTALL - exit(0xe000020e)} 08:47:49.628
+     dvi:           {DIF_INSTALLDEVICEFILES} 08:47:50.060
+     dvi:                Class installer: Enter 08:47:50.076
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:50.076
+     dvi:                Default installer: Exit
+     dvi:           {DIF_INSTALLDEVICEFILES - exit(0x00000000)} 08:47:50.947
+     flq:           File 'C:\Windows\system32\DRIVERS\drmk.sys' pruned from copy.
+     flq:           File 'C:\Windows\system32\DRIVERS\portcls.sys' pruned from copy.
+     flq:           Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\hdaudio.inf_amd64_bc8d23bd4cb8d506\HdAudio.sys' to 'C:\Windows\system32\DRIVERS\HdAudio.sys'.
+     flq:           Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\wdmaudio.inf_amd64_179dade7dec66387\WMALFXGFXDSP.dll' to 'C:\Windows\system32\WMALFXGFXDSP.dll'.
+     flq:           Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\wdmaudio.inf_amd64_179dade7dec66387\SysFxUI.dll' to 'C:\Windows\system32\SysFxUI.dll'.
+     dvi:           {DIF_REGISTER_COINSTALLERS} 08:47:52.368
+     dvi:                Reset Device: Resetting device configuration. 08:47:52.383
+     dvi:                Reset Device: Resetting device configuration completed. 08:47:52.383
+     dvi:                Class installer: Enter 08:47:52.383
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:52.383
+     inf:                     {Install from INF Section - HdAudModel.CoInstallers} 08:47:52.522
+     inf:                          Flags         - 0x001001ee
+     inf:                     {Install from INF Section - exit(0x00000000)} 08:47:52.522
+     dvi:                Default installer: Exit
+     dvi:           {DIF_REGISTER_COINSTALLERS - exit(0x00000000)} 08:47:52.522
+     dvi:           {DIF_INSTALLINTERFACES} 08:47:52.522
+     dvi:                Class installer: Enter 08:47:52.584
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:52.584
+     dvi:                Default installer: Exit
+     dvi:           {DIF_INSTALLINTERFACES - exit(0x00000000)} 08:47:52.870
+     dvi:           {DIF_INSTALLDEVICE} 08:47:52.870
+     dvi:                Class installer: Enter 08:47:52.870
+     dvi:                     {Install DEVICE}
+     inf:                          {Install from INF Section - HdAudModel} 08:47:52.870
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:52.986
+     inf:                          {Install from INF Section - KS.Registration} 08:47:52.986
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:53.340
+     inf:                          {Install from INF Section - WDMAUDIO.Registration} 08:47:53.340
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:53.340
+     inf:                          {Install from INF Section - mssysfx.CopyFilesAndRegister} 08:47:53.340
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:53.413
+     inf:                          {Install from INF Section - HdAudModel.Hw} 08:47:53.418
+     inf:                               Flags         - 0x00100004
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:53.420
+     dvi:                          {Writing Device Properties}
+     dvi:                               Strong Name=hdaudio.inf:db04a16ce4e8d6ee:HdAudModel:10.0.17134.1:hdaudio\func_01
+     dvi:                          {Writing Device Properties - Complete}
+     inf:                          AddService=HdAudAddService,0x00000002,HdAud_Service_Install  (hdaudio.inf line 91)
+     dvi:                          Add Service: Created service 'HdAudAddService'.
+     inf:                          {Install from INF Section - HdAud_Service_Install} 08:47:53.489
+     inf:                               Flags         - 0x00100004
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:53.489
+     dvi:                     {Install DEVICE exit (0x00000000)}
+     sto:                     {Configure Driver Package: c:\windows\system32\driverstore\filerepository\hdaudio.inf_amd64_bc8d23bd4cb8d506\hdaudio.inf}
+     sto:                          Source Filter  = HdAudModel
+     sto:                          Target Filter  = HDAUDIO\FUNC_01&VEN_111D&DEV_76B2&SUBSYS_103C3642&REV_1003\4&7E89B6F&0&0001
+     inf:                          Class GUID     = {4d36e96c-e325-11ce-bfc1-08002be10318}
+     inf:                          {Configure Driver: High Definition Audio Device}
+     inf:                               Section Name = HdAudModel
+     inf:                               {Configure Device: HDAUDIO\FUNC_01&VEN_111D&DEV_76B2&SUBSYS_103C3642&REV_1003\4&7E89B6F&0&0001}
+     inf:                               {Configure Device: exit(0x00000000)}
+     inf:                          {Configure Driver: exit(0x00000000)}
+     sto:                     {Configure Driver Package: exit(0x00000000)}
+     dvi:                     Install Device: Configuring device class. 08:47:53.540
+     dvi:                     Install Device: Configuring device class completed. 08:47:53.556
+     dvi:                     Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:                     {Restarting Devices} 08:47:53.556
+     dvi:                          Start: HDAUDIO\FUNC_01&VEN_111D&DEV_76B2&SUBSYS_103C3642&REV_1003\4&7E89B6F&0&0001
+     dvi:                     {Restarting Devices exit} 08:47:53.772
+     dvi:                Class installer: Exit
+     dvi:           {DIF_INSTALLDEVICE - exit(0x00000000)} 08:47:54.104
+     inf:           {Install from INF Section - MSTEE.Interface.Install} 08:47:54.305
+     inf:                Flags         - 0x000007fe
+     inf:           {Install from INF Section - exit(0x00000000)} 08:47:54.343
+     inf:           {Install from INF Section - MSTEE.Interface.Install} 08:47:54.374
+     inf:                Flags         - 0x000007fe
+     inf:           {Install from INF Section - exit(0x00000000)} 08:47:54.374
+     inf:           {Install from INF Section - WDM_DRMKAUD.Interface.Install} 08:47:54.474
+     inf:                Flags         - 0x000007fe
+     inf:           {Install from INF Section - exit(0x00000000)} 08:47:54.512
+     dvi:           {DIF_NEWDEVICEWIZARD_FINISHINSTALL} 08:47:54.512
+     dvi:                Class installer: Enter 08:47:54.512
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:54.512
+     dvi:                Default installer: Exit
+     dvi:           {DIF_NEWDEVICEWIZARD_FINISHINSTALL - exit(0xe000020e)} 08:47:54.512
+     dvi:      {Install Device - exit(0x00000000)} 08:47:54.543
+     dvi: {Core Device Install - exit(0x00000000)} 08:47:54.543
+     dvi: {DIF_DESTROYPRIVATEDATA} 08:47:54.606
+     dvi:      Class installer: Enter 08:47:54.606
+     dvi:      Class installer: Exit
+     dvi:      Default installer: Enter 08:47:54.606
+     dvi:      Default installer: Exit
+     dvi: {DIF_DESTROYPRIVATEDATA - exit(0xe000020e)} 08:47:54.606
+<<<  Section end 2019/03/25 08:47:54.744
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup online Device Install (Hardware initiated) - PCI\VEN_168C&DEV_002B&SUBSYS_303F103C&REV_01\4&3a695a07&0&0030]
+>>>  Section start 2019/03/25 08:47:35.895
+     dvi: {Build Driver List} 08:47:36.848
+     dvi:      Searching for hardware ID(s):
+     dvi:           pci\ven_168c&dev_002b&subsys_303f103c&rev_01
+     dvi:           pci\ven_168c&dev_002b&subsys_303f103c
+     dvi:           pci\ven_168c&dev_002b&cc_028000
+     dvi:           pci\ven_168c&dev_002b&cc_0280
+     dvi:      Searching for compatible ID(s):
+     dvi:           pci\ven_168c&dev_002b&rev_01
+     dvi:           pci\ven_168c&dev_002b
+     dvi:           pci\ven_168c&cc_028000
+     dvi:           pci\ven_168c&cc_0280
+     dvi:           pci\ven_168c
+     dvi:           pci\cc_028000
+     dvi:           pci\cc_0280
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - PCI\VEN_168C&DEV_002B&SUBSYS_303F103C
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\netathrx.inf_amd64_220db23f5419ea8d\netathrx.inf
+     dvi:           DevDesc      - Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter
+     dvi:           Section      - ATHR_DEV_OS61_H30A1.ndi.NTamd64
+     dvi:           Rank         - 0x00ff0001
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 01/29/2016
+     dvi:           Version      - 3.0.2.202
+     dvi: {Build Driver List - exit(0x00000000)} 08:47:38.739
+     dvi: {DIF_SELECTBESTCOMPATDRV} 08:47:38.739
+     dvi:      Default installer: Enter 08:47:38.739
+     dvi:           {Select Best Driver}
+     dvi:                Class GUID of device changed to: {4d36e972-e325-11ce-bfc1-08002be10318}.
+     dvi:                Selected Driver:
+     dvi:                     Description - Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter
+     dvi:                     InfFile     - c:\windows\system32\driverstore\filerepository\netathrx.inf_amd64_220db23f5419ea8d\netathrx.inf
+     dvi:                     Section     - ATHR_DEV_OS61_H30A1.ndi
+     dvi:           {Select Best Driver - exit(0x00000000)}
+     dvi:      Default installer: Exit
+     dvi: {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 08:47:38.739
+     dvi: {Core Device Install} 08:47:38.739
+     dvi:      {Install Device - PCI\VEN_168C&DEV_002B&SUBSYS_303F103C&REV_01\4&3A695A07&0&0030} 08:47:38.989
+     dvi:           Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:           Parent device: PCI\VEN_1022&DEV_9606&SUBSYS_3642103C&REV_00\3&2411e6fe&0&30
+     dvi:           {Configure Device - PCI\VEN_168C&DEV_002B&SUBSYS_303F103C&REV_01\4&3A695A07&0&0030} 08:47:39.145
+     dvi:                Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:                Parent device: PCI\VEN_1022&DEV_9606&SUBSYS_3642103C&REV_00\3&2411e6fe&0&30
+     sto:                {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\netathrx.inf_amd64_220db23f5419ea8d\netathrx.inf}
+     sto:                     Source Filter  = pci\ven_168c&dev_002b&subsys_303f103c
+     inf:                     Class GUID     = {4d36e972-e325-11ce-bfc1-08002be10318}
+     inf:                     Class Options  = Configurable
+!    inf:                     Needed section [PciASPMOptIn] found in included INF "pci.inf", not referenced from [ATHR_DEV_OS61_E007105B.ndi.NTamd64.Hw]. Code = 1313, Line = 3333
+!    inf:                     Needed section [PciASPMOptIn] found in included INF "pci.inf", not referenced from [ATHR_DEV_OS61_E000105B.ndi.NTamd64.Hw]. Code = 1313, Line = 3193
+!    inf:                     Needed section [PciASPMOptIn] found in included INF "pci.inf", not referenced from [ATHR_DEV_OS61_E002105B.ndi.NTamd64.Hw]. Code = 1313, Line = 3213
+!    inf:                     Needed section [PciASPMOptIn] found in included INF "pci.inf", not referenced from [ATHR_DEV_OS61_04231468.ndi.NTamd64.Hw]. Code = 1313, Line = 3313
+!    inf:                     Needed section [PciASPMOptIn] found in included INF "pci.inf", not referenced from [ATHR_DEV_OS61_SS30A1.ndi.NTamd64.Hw]. Code = 1313, Line = 3393
+!    inf:                     Needed section [PciASPMOptIn] found in included INF "pci.inf", not referenced from [ATHR_DEV_OS61_S30A1w.ndi.NTamd64.Hw]. Code = 1313, Line = 3373
+     inf:                     {Configure Driver: Qualcomm Atheros AR9285 802.11b|g|n WiFi Adapter}
+     inf:                          Section Name = ATHR_DEV_OS61_H30A1.ndi.NTamd64
+     inf:                          {Add Service: athr}
+     inf:                               Start Type    = 3
+     inf:                               Service Type  = 1
+     inf:                               Error Control = 1
+     inf:                               Image Path    = \SystemRoot\System32\drivers\athwnx.sys
+     inf:                               Display Name  = Qualcomm Atheros Extensible Wireless LAN device driver
+     inf:                               Group         = NDIS
+     inf:                               Created new service 'athr'.
+     inf:                          {Add Service: exit(0x00000000)}
+     inf:                          {Add Service: vwifibus}
+     inf:                               Start Type    = 3
+     inf:                               Service Type  = 1
+     inf:                               Error Control = 1
+     inf:                               Image Path    = \SystemRoot\System32\drivers\vwifibus.sys
+     inf:                               Display Name  = @%SystemRoot%\System32\drivers\vwifibus.sys,-257
+     inf:                               Description   = @%SystemRoot%\System32\drivers\vwifibus.sys,-258
+     inf:                               Updated service 'vwifibus'.
+     inf:                          {Add Service: exit(0x00000000)}
+     inf:                          Hardware Id  = PCI\VEN_168C&DEV_002B&SUBSYS_303F103C
+     inf:                          {Configure Driver Configuration: ATHR_DEV_OS61_H30A1.ndi.NTamd64}
+     inf:                               Service Name  = athr
+     inf:                               Upper Filters = vwifibus
+     inf:                               Included INFs = netvwifibus.inf
+     inf:                               Config Flags  = 0x00000000
+     inf:                          {Configure Driver Configuration: exit(0x00000000)}
+     inf:                     {Configure Driver: exit(0x00000000)}
+     flq:                     Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\netathrx.inf_amd64_220db23f5419ea8d\athwnx.sys' to 'C:\Windows\System32\drivers\athwnx.sys'.
+     dvi:                     Existing files modified, may need to restart related services.
+     sto:                {Configure Driver Package: exit(0x00000bc3)}
+     dvi:                Restart required for any devices using this driver.
+     dvi:                Install Device: Configuring device (netathrx.inf:pci\ven_168c&dev_002b&subsys_303f103c,ATHR_DEV_OS61_H30A1.ndi.NTamd64). 08:47:42.817
+     dvi:                Install Device: Configuring device completed. 08:47:42.833
+     dvi:                Device Status: 0x01802000, Problem: 0x0 (0x00000000)
+     dvi:                {Restarting Devices} 08:47:42.833
+     dvi:                     Start: PCI\VEN_168C&DEV_002B&SUBSYS_303F103C&REV_01\4&3A695A07&0&0030
+!    dvi:                     Device pending start: Device has problem: 0x38 (CM_PROB_NEED_CLASS_CONFIG), problem status: 0x00000000.
+     dvi:                {Restarting Devices exit} 08:47:42.989
+     dvi:           {Configure Device - exit(0x00000000)} 08:47:42.989
+     dvi:           Device Status: 0x01802400, Problem: 0x38
+     dvi:      {Install Device - exit(0x00000000)} 08:47:43.301
+     dvi: {Core Device Install - exit(0x00000000)} 08:47:43.301
+     dvi: Waiting for device post-install to complete. 08:47:43.301
+     dvi: Device post-install completed. 08:47:46.583
+<<<  Section end 2019/03/25 08:47:46.637
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup online Device Install (Hardware initiated) - USB\VID_090C&PID_137B&MI_00\6&25c2559e&0&0000]
+>>>  Section start 2019/03/25 08:47:35.895
+     dvi: {Build Driver List} 08:47:36.848
+     dvi:      Searching for hardware ID(s):
+     dvi:           usb\vid_090c&pid_137b&rev_0304&mi_00
+     dvi:           usb\vid_090c&pid_137b&mi_00
+     dvi:      Searching for compatible ID(s):
+     dvi:           usb\class_0e&subclass_03&prot_00
+     dvi:           usb\class_0e&subclass_03
+     dvi:           usb\class_0e
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - USB\CLASS_0E
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\usbvideo.inf_amd64_4bab48f1b169c4b9\usbvideo.inf
+     dvi:           DevDesc      - USB Video Device
+     dvi:           Section      - USBVideo.NT
+     dvi:           Rank         - 0x00ff2002
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 06/21/2006
+     dvi:           Version      - 10.0.17134.1
+     dvi: {Build Driver List - exit(0x00000000)} 08:47:38.880
+     dvi: {DIF_SELECTBESTCOMPATDRV} 08:47:38.880
+     dvi:      Default installer: Enter 08:47:38.880
+     dvi:           {Select Best Driver}
+     dvi:                Class GUID of device changed to: {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}.
+     dvi:                Selected Driver:
+     dvi:                     Description - USB Video Device
+     dvi:                     InfFile     - c:\windows\system32\driverstore\filerepository\usbvideo.inf_amd64_4bab48f1b169c4b9\usbvideo.inf
+     dvi:                     Section     - USBVideo
+     dvi:           {Select Best Driver - exit(0x00000000)}
+     dvi:      Default installer: Exit
+     dvi: {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 08:47:38.880
+     dvi: Waiting for previous device install to complete. 08:47:38.880
+     dvi: {Core Device Install} 08:47:43.301
+     dvi:      {Install Device - USB\VID_090C&PID_137B&MI_00\6&25C2559E&0&0000} 08:47:43.708
+     dvi:           Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:           Parent device: USB\VID_090C&PID_137B\SMI001
+     dvi:           {Configure Device - USB\VID_090C&PID_137B&MI_00\6&25C2559E&0&0000} 08:47:43.723
+     dvi:                Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:                Parent device: USB\VID_090C&PID_137B\SMI001
+     sto:                {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\usbvideo.inf_amd64_4bab48f1b169c4b9\usbvideo.inf}
+     sto:                     Source Filter  = usb\class_0e
+     inf:                     Class GUID     = {ca3e7ab9-b4c3-4ae6-8251-579ef933890f}
+     inf:                     Class Options  = Configurable
+!    inf:                     Missing 'AddService' directive for 'KmdfService' directive with service "WdmCompanionFilter" in section [WdmCompanionFilter_KmdfSvcSect]. Code = 1084, Line = 155
+     inf:                     {Configure Driver: USB Video Device}
+     inf:                          Section Name = USBVideo.NT
+     inf:                          {Add Service: usbvideo}
+     inf:                               Start Type    = 3
+     inf:                               Service Type  = 1
+     inf:                               Error Control = 1
+     inf:                               Image Path    = \SystemRoot\System32\Drivers\usbvideo.sys
+     inf:                               Display Name  = USB Video Device (WDM)
+     inf:                               Created new service 'usbvideo'.
+     inf:                          {Add Service: exit(0x00000000)}
+     inf:                          Hardware Id  = USB\CLASS_0E
+     inf:                          {Configure Driver Configuration: USBVideo.NT}
+     inf:                               Service Name  = usbvideo
+     inf:                               Lower Filters = WdmCompanionFilter
+     inf:                               Included INFs = ks.inf
+     inf:                                               kscaptur.inf
+     inf:                                               pci.inf
+     inf:                               Include Scope = Services
+     inf:                               Config Flags  = 0x00000000
+     inf:                          {Configure Driver Configuration: exit(0x00000000)}
+     inf:                     {Configure Driver: exit(0x00000000)}
+     flq:                     Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\usbvideo.inf_amd64_4bab48f1b169c4b9\usbvideo.sys' to 'C:\Windows\System32\drivers\usbvideo.sys'.
+     flq:                     Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\usbvideo.inf_amd64_4bab48f1b169c4b9\SecureUSBVideo.dll' to 'C:\Windows\System32\drivers\UMDF\SecureUSBVideo.dll'.
+     dvi:                     Existing files modified, may need to restart related services.
+     sto:                {Configure Driver Package: exit(0x00000bc3)}
+     dvi:                Restart required for any devices using this driver.
+     dvi:                Install Device: Configuring device (usbvideo.inf:usb\class_0e,USBVideo.NT). 08:47:46.020
+     dvi:                Install Device: Configuring device completed. 08:47:46.427
+     dvi:                Device Status: 0x01802000, Problem: 0x0 (0x00000000)
+     dvi:                {Restarting Devices} 08:47:46.442
+     dvi:                     Start: USB\VID_090C&PID_137B&MI_00\6&25C2559E&0&0000
+     dvi:                {Restarting Devices exit} 08:47:47.492
+     dvi:           {Configure Device - exit(0x00000000)} 08:47:47.492
+     dvi:      {Install Device - exit(0x00000000)} 08:47:47.507
+     dvi: {Core Device Install - exit(0x00000000)} 08:47:47.507
+<<<  Section end 2019/03/25 08:47:47.757
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup online Device Install (Hardware initiated) - PCI\VEN_10EC&DEV_8136&SUBSYS_3642103C&REV_02\4&85f97fe&0&0038]
+>>>  Section start 2019/03/25 08:47:35.958
+     dvi: {Build Driver List} 08:47:36.973
+     dvi:      Searching for hardware ID(s):
+     dvi:           pci\ven_10ec&dev_8136&subsys_3642103c&rev_02
+     dvi:           pci\ven_10ec&dev_8136&subsys_3642103c
+     dvi:           pci\ven_10ec&dev_8136&cc_020000
+     dvi:           pci\ven_10ec&dev_8136&cc_0200
+     dvi:      Searching for compatible ID(s):
+     dvi:           pci\ven_10ec&dev_8136&rev_02
+     dvi:           pci\ven_10ec&dev_8136
+     dvi:           pci\ven_10ec&cc_020000
+     dvi:           pci\ven_10ec&cc_0200
+     dvi:           pci\ven_10ec
+     dvi:           pci\cc_020000
+     dvi:           pci\cc_0200
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - PCI\VEN_10EC&DEV_8136&REV_02
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\rt640x64.inf_amd64_6610b89eaf17e0fb\rt640x64.inf
+     dvi:           DevDesc      - Realtek PCIe FE Family Controller
+     dvi:           Section      - RTL8102.ndi.NT
+     dvi:           Rank         - 0x00ff2000
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 04/06/2015
+     dvi:           Version      - 9.1.406.2015
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - PCI\VEN_10EC&DEV_8136&SUBSYS_3642103C
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\rt640x64.inf_amd64_6610b89eaf17e0fb\rt640x64.inf
+     dvi:           DevDesc      - Realtek PCIe FE Family Controller
+     dvi:           Section      - RTL8102.ndi.NT
+     dvi:           Rank         - 0x00ff0001
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 04/06/2015
+     dvi:           Version      - 9.1.406.2015
+     dvi: {Build Driver List - exit(0x00000000)} 08:47:39.708
+     dvi: {DIF_SELECTBESTCOMPATDRV} 08:47:39.708
+     dvi:      Default installer: Enter 08:47:39.708
+     dvi:           {Select Best Driver}
+     dvi:                Class GUID of device changed to: {4d36e972-e325-11ce-bfc1-08002be10318}.
+     dvi:                Selected Driver:
+     dvi:                     Description - Realtek PCIe FE Family Controller
+     dvi:                     InfFile     - c:\windows\system32\driverstore\filerepository\rt640x64.inf_amd64_6610b89eaf17e0fb\rt640x64.inf
+     dvi:                     Section     - RTL8102.ndi
+     dvi:                Skipped Basic Driver:
+     dvi:                     Description - Realtek PCIe FE Family Controller
+     dvi:                     InfFile     - C:\Windows\INF\rt640x64.inf
+     dvi:                     Section     - RTL8102.ndi
+     dvi:           {Select Best Driver - exit(0x00000000)}
+     dvi:      Default installer: Exit
+     dvi: {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 08:47:39.723
+     dvi: Waiting for previous device install to complete. 08:47:39.723
+     dvi: {Core Device Install} 08:47:47.507
+     dvi:      {Install Device - PCI\VEN_10EC&DEV_8136&SUBSYS_3642103C&REV_02\4&85F97FE&0&0038} 08:47:47.742
+     dvi:           Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:           Parent device: PCI\VEN_1022&DEV_9607&SUBSYS_3642103C&REV_00\3&2411e6fe&0&38
+     dvi:           {Configure Device - PCI\VEN_10EC&DEV_8136&SUBSYS_3642103C&REV_02\4&85F97FE&0&0038} 08:47:48.070
+     dvi:                Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:                Parent device: PCI\VEN_1022&DEV_9607&SUBSYS_3642103C&REV_00\3&2411e6fe&0&38
+     sto:                {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\rt640x64.inf_amd64_6610b89eaf17e0fb\rt640x64.inf}
+     sto:                     Source Filter  = pci\ven_10ec&dev_8136&subsys_3642103c
+     inf:                     Class GUID     = {4d36e972-e325-11ce-bfc1-08002be10318}
+     inf:                     Class Options  = Configurable
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8136.ndi.NT.Hw]. Code = 1313, Line = 5101
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8136HP.ndi.NT.Hw]. Code = 1313, Line = 5106
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8136HPS5WOLDisable.ndi.NT.Hw]. Code = 1313, Line = 5111
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168C.ndi.NT.Hw]. Code = 1313, Line = 5116
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168CS5WOLDisable.ndi.NT.Hw]. Code = 1313, Line = 5121
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168CNotSpdDown.ndi.NT.Hw]. Code = 1313, Line = 5126
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168CForceGigabit.ndi.NT.Hw]. Code = 1313, Line = 5131
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168CForce100Full.ndi.NT.Hw]. Code = 1313, Line = 5136
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8102.ndi.NT.Hw]. Code = 1313, Line = 5141
+     inf:                     {Configure Driver: Realtek PCIe FE Family Controller}
+     inf:                          Section Name = RTL8102.ndi.NT
+     inf:                          {Add Service: rt640x64}
+     inf:                               Start Type    = 3
+     inf:                               Service Type  = 1
+     inf:                               Error Control = 1
+     inf:                               Image Path    = \SystemRoot\System32\drivers\rt640x64.sys
+     inf:                               Display Name  = Realtek RT640 NT Driver
+     inf:                               Group         = NDIS
+     inf:                               Created new service 'rt640x64'.
+     inf:                          {Add Service: exit(0x00000000)}
+     inf:                          Hardware Id  = PCI\VEN_10EC&DEV_8136&SUBSYS_3642103C
+     inf:                          {Configure Driver Configuration: RTL8102.ndi.NT}
+     inf:                               Service Name  = rt640x64
+     inf:                               Included INFs = machine.inf
+     inf:                                               pci.inf
+     inf:                               Config Flags  = 0x00000000
+     inf:                          {Configure Driver Configuration: exit(0x00000000)}
+     inf:                     {Configure Driver: exit(0x00000000)}
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8102S5WOLDisable.ndi.NT.Hw]. Code = 1313, Line = 5146
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8102S5WOLHideEnable.ndi.NT.Hw]. Code = 1313, Line = 5151
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8102ForceEnableClkReq.ndi.NT.Hw]. Code = 1313, Line = 5156
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168D.ndi.NT.Hw]. Code = 1313, Line = 5161
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168DS5WOLDisable.ndi.NT.Hw]. Code = 1313, Line = 5166
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168DS5WOLHideEnable.ndi.NT.Hw]. Code = 1313, Line = 5171
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168DP.ndi.NT.Hw]. Code = 1313, Line = 5176
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168E.ndi.NT.Hw]. Code = 1313, Line = 5181
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168ES5WOLDisable.ndi.NT.Hw]. Code = 1313, Line = 5186
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168ES5WOLHideEnable.ndi.NT.Hw]. Code = 1313, Line = 5191
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168EEEEEnable.ndi.NT.Hw]. Code = 1313, Line = 5196
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168EEEEEnS5WOLHideDn.ndi.NT.Hw]. Code = 1313, Line = 5201
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168EEEEDnFCDn.ndi.NT.Hw]. Code = 1313, Line = 5206
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168ES.ndi.NT.Hw]. Code = 1313, Line = 5211
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8104.ndi.NT.Hw]. Code = 1313, Line = 5246
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8105.ndi.NT.Hw]. Code = 1313, Line = 5251
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8105S5WOLDisable.ndi.NT.Hw]. Code = 1313, Line = 5256
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8105S5WOLHideEnable.ndi.NT.Hw]. Code = 1313, Line = 5261
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8105S5WOLHideDisable.ndi.NT.Hw]. Code = 1313, Line = 5266
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8105EEEEnable.ndi.NT.Hw]. Code = 1313, Line = 5271
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168F.ndi.NT.Hw]. Code = 1313, Line = 5216
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168FS5WOLHideEnable.ndi.NT.Hw]. Code = 1313, Line = 5221
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168FS5WOLHideDisable.ndi.NT.Hw]. Code = 1313, Line = 5226
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168FS5WOLDisable.ndi.NT.Hw]. Code = 1313, Line = 5231
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168FEEEDnFCDn.ndi.NT.Hw]. Code = 1313, Line = 5236
+!    inf:                     Needed section [PciASPMOptOut] found in included INF "pci.inf", not referenced from [RTL8168FB.ndi.NT.Hw]. Code = 1313, Line = 5241
+     flq:                     Hardlinking 'C:\Windows\System32\DriverStore\FileRepository\rt640x64.inf_amd64_6610b89eaf17e0fb\rt640x64.sys' to 'C:\Windows\System32\drivers\rt640x64.sys'.
+     dvi:                     Existing files modified, may need to restart related services.
+     sto:                {Configure Driver Package: exit(0x00000bc3)}
+     dvi:                Restart required for any devices using this driver.
+     dvi:                Install Device: Configuring device (rt640x64.inf:pci\ven_10ec&dev_8136&subsys_3642103c,RTL8102.ndi.NT). 08:47:48.846
+     dvi:                Install Device: Configuring device completed. 08:47:48.862
+     dvi:                Device Status: 0x01802000, Problem: 0x0 (0x00000000)
+     dvi:                {Restarting Devices} 08:47:48.862
+     dvi:                     Start: PCI\VEN_10EC&DEV_8136&SUBSYS_3642103C&REV_02\4&85F97FE&0&0038
+!    dvi:                     Device pending start: Device has problem: 0x38 (CM_PROB_NEED_CLASS_CONFIG), problem status: 0x00000000.
+     dvi:                {Restarting Devices exit} 08:47:49.174
+     dvi:           {Configure Device - exit(0x00000000)} 08:47:49.174
+     dvi:           Device Status: 0x01802400, Problem: 0x38
+     dvi:      {Install Device - exit(0x00000000)} 08:47:49.174
+     dvi: {Core Device Install - exit(0x00000000)} 08:47:49.174
+     dvi: Waiting for device post-install to complete. 08:47:49.190
+     dvi: Device post-install completed. 08:47:50.029
+<<<  Section end 2019/03/25 08:47:50.261
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup online Device Install (Hardware initiated) - PCI\VEN_1002&DEV_9712&SUBSYS_3642103C&REV_00\4&2767b852&0&2808]
+>>>  Section start 2019/03/25 08:47:46.637
+     dvi: {Build Driver List} 08:47:46.824
+     dvi:      Searching for hardware ID(s):
+     dvi:           pci\ven_1002&dev_9712&subsys_3642103c&rev_00
+     dvi:           pci\ven_1002&dev_9712&subsys_3642103c
+     dvi:           pci\ven_1002&dev_9712&cc_030000
+     dvi:           pci\ven_1002&dev_9712&cc_0300
+     dvi:      Searching for compatible ID(s):
+     dvi:           pci\ven_1002&dev_9712&rev_00
+     dvi:           pci\ven_1002&dev_9712
+     dvi:           pci\ven_1002&cc_030000
+     dvi:           pci\ven_1002&cc_0300
+     dvi:           pci\ven_1002
+     dvi:           pci\cc_030000
+     dvi:           pci\cc_0300
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - PCI\CC_0300
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\display.inf_amd64_705614beb8150a14\display.inf
+     dvi:           DevDesc      - Microsoft Basic Display Adapter
+     dvi:           Section      - MSBDA
+     dvi:           Rank         - 0x00fb2006
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 06/21/2006
+     dvi:           Version      - 10.0.17134.1
+     dvi: {Build Driver List - exit(0x00000000)} 08:47:47.804
+     dvi: {DIF_SELECTBESTCOMPATDRV} 08:47:47.804
+     dvi:      Default installer: Enter 08:47:47.804
+     dvi:           {Select Best Driver}
+     dvi:                Class GUID of device changed to: {4d36e968-e325-11ce-bfc1-08002be10318}.
+     dvi:                Selected Driver:
+     dvi:                     Description - Microsoft Basic Display Adapter
+     dvi:                     InfFile     - c:\windows\system32\driverstore\filerepository\display.inf_amd64_705614beb8150a14\display.inf
+     dvi:                     Section     - MSBDA
+     dvi:           {Select Best Driver - exit(0x00000000)}
+     dvi:      Default installer: Exit
+     dvi: {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 08:47:47.804
+     dvi: Waiting for previous device install to complete. 08:47:47.804
+     dvi: {Core Device Install} 08:47:54.543
+     dvi:      {Install Device - PCI\VEN_1002&DEV_9712&SUBSYS_3642103C&REV_00\4&2767B852&0&2808} 08:47:54.612
+     dvi:           Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:           Parent device: PCI\VEN_103C&DEV_9602&SUBSYS_3642103C&REV_00\3&2411e6fe&0&08
+     dvi:           {Configure Device - PCI\VEN_1002&DEV_9712&SUBSYS_3642103C&REV_00\4&2767B852&0&2808} 08:47:54.706
+     dvi:                Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:                Parent device: PCI\VEN_103C&DEV_9602&SUBSYS_3642103C&REV_00\3&2411e6fe&0&08
+     sto:                {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\display.inf_amd64_705614beb8150a14\display.inf}
+     sto:                     Source Filter  = pci\cc_0300
+     inf:                     Class GUID     = {4d36e968-e325-11ce-bfc1-08002be10318}
+     inf:                     Class Options  = Configurable
+     inf:                     {Configure Driver: Microsoft Basic Display Adapter}
+     inf:                          Section Name = MSBDA
+     inf:                          {Add Service: BasicDisplay}
+     inf:                               Start Type    = 1
+     inf:                               Service Type  = 1
+     inf:                               Error Control = 0
+     inf:                               Image Path    = \SystemRoot\System32\drivers\BasicDisplay.sys
+     inf:                               Group         = Video
+     inf:                               Updated service 'BasicDisplay'.
+     inf:                          {Add Service: exit(0x00000000)}
+     inf:                          Hardware Id  = PCI\CC_0300
+     inf:                          {Configure Driver Configuration: MSBDA}
+     inf:                               Service Name  = BasicDisplay
+     inf:                               Exclude IDs   = PCI\VEN_1414&DEV_5353
+     inf:                               Included INFs = basicdisplay.inf
+     inf:                               Config Flags  = 0x00000000
+     inf:                          {Configure Driver Configuration: exit(0x00000000)}
+     inf:                     {Configure Driver: exit(0x00000000)}
+     sto:                {Configure Driver Package: exit(0x00000000)}
+     dvi:                Install Device: Configuring device (display.inf:pci\cc_0300,MSBDA). 08:47:55.130
+     dvi:                Install Device: Configuring device completed. 08:47:55.145
+     dvi:                Device Status: 0x01802000, Problem: 0x0 (0x00000000)
+     dvi:                Install Device: Starting device 'PCI\VEN_1002&DEV_9712&SUBSYS_3642103C&REV_00\4&2767B852&0&2808'. 08:47:55.145
+     dvi:                Install Device: Starting device completed. 08:47:55.462
+     dvi:           {Configure Device - exit(0x00000000)} 08:47:55.462
+     dvi:      {Install Device - exit(0x00000000)} 08:47:55.478
+     dvi: {Core Device Install - exit(0x00000000)} 08:47:55.478
+<<<  Section end 2019/03/25 08:47:55.552
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup online Device Install (Hardware initiated) - HDAUDIO\FUNC_01&VEN_1002&DEV_791A&SUBSYS_00791A00&REV_1000\5&3865763a&0&0001]
+>>>  Section start 2019/03/25 08:47:47.757
+     dvi: {Build Driver List} 08:47:48.148
+     dvi:      Searching for hardware ID(s):
+     dvi:           hdaudio\func_01&ven_1002&dev_791a&subsys_00791a00&rev_1000
+     dvi:           hdaudio\func_01&ven_1002&dev_791a&subsys_00791a00
+     dvi:      Searching for compatible ID(s):
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ctlr_dev_970f&ven_1002&dev_791a&rev_1000
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ven_1002&dev_791a&rev_1000
+     dvi:           hdaudio\func_01&ven_1002&dev_791a&rev_1000
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ctlr_dev_970f&ven_1002&dev_791a
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ven_1002&dev_791a
+     dvi:           hdaudio\func_01&ven_1002&dev_791a
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ctlr_dev_970f&ven_1002
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ven_1002
+     dvi:           hdaudio\func_01&ven_1002
+     dvi:           hdaudio\func_01&ctlr_ven_1002&ctlr_dev_970f
+     dvi:           hdaudio\func_01&ctlr_ven_1002
+     dvi:           hdaudio\func_01&gf&ven_1002&dev_791a&subsys_00791a00&rev_1000
+     dvi:           hdaudio\func_01
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - HDAUDIO\FUNC_01
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\hdaudio.inf_amd64_bc8d23bd4cb8d506\hdaudio.inf
+     dvi:           DevDesc      - High Definition Audio Device
+     dvi:           Section      - HdAudModel
+     dvi:           Rank         - 0x00ff300c
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 04/11/2018
+     dvi:           Version      - 10.0.17134.1
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - HDAUDIO\FUNC_01&VEN_1002&DEV_791A&REV_1000
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\hdaudss.inf_amd64_fdedc96c9e23f112\hdaudss.inf
+     dvi:           DevDesc      - High Definition Audio Device
+     dvi:           Section      - HdAudModel_CustomConnTypeA
+     dvi:           Rank         - 0x00ff3002
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 08/24/2001
+     dvi:           Version      - 10.0.17134.1
+     dvi: {Build Driver List - exit(0x00000000)} 08:47:48.456
+     dvi: {DIF_SELECTBESTCOMPATDRV} 08:47:48.456
+     dvi:      Using exported function 'MediaClassInstaller' in module 'C:\Windows\system32\mmci.dll'.
+     dvi:      Class installer == mmci.dll,MediaClassInstaller
+     dvi:      Class installer: Enter 08:47:48.471
+     dvi:      Class installer: Exit
+     dvi:      Default installer: Enter 08:47:48.471
+     dvi:           {Select Best Driver}
+     dvi:                Class GUID of device changed to: {4d36e96c-e325-11ce-bfc1-08002be10318}.
+     dvi:                {DIF_DESTROYPRIVATEDATA} 08:47:48.471
+     dvi:                     Class installer: Enter 08:47:48.471
+     dvi:                     Class installer: Exit
+     dvi:                     Default installer: Enter 08:47:48.471
+     dvi:                     Default installer: Exit
+     dvi:                {DIF_DESTROYPRIVATEDATA - exit(0xe000020e)} 08:47:48.471
+     dvi:                Selected Driver:
+     dvi:                     Description - High Definition Audio Device
+     dvi:                     InfFile     - c:\windows\system32\driverstore\filerepository\hdaudss.inf_amd64_fdedc96c9e23f112\hdaudss.inf
+     dvi:                     Section     - HdAudModel_CustomConnTypeA
+     dvi:                Skipped Basic Driver:
+     dvi:                     Description - High Definition Audio Device
+     dvi:                     InfFile     - C:\Windows\INF\hdaudio.inf
+     dvi:                     Section     - HdAudModel
+     dvi:           {Select Best Driver - exit(0x00000000)}
+     dvi:      Default installer: Exit
+     dvi: {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 08:47:48.487
+     dvi: Waiting for previous device install to complete. 08:47:48.487
+     dvi: {Core Device Install} 08:47:55.478
+     dvi:      {Install Device - HDAUDIO\FUNC_01&VEN_1002&DEV_791A&SUBSYS_00791A00&REV_1000\5&3865763A&0&0001} 08:47:55.552
+     dvi:           Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:           Parent device: PCI\VEN_1002&DEV_970F&SUBSYS_3642103C&REV_00\4&2767b852&0&2908
+     dvi:           {Configure Device - HDAUDIO\FUNC_01&VEN_1002&DEV_791A&SUBSYS_00791A00&REV_1000\5&3865763A&0&0001} 08:47:55.687
+     dvi:                Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:                Parent device: PCI\VEN_1002&DEV_970F&SUBSYS_3642103C&REV_00\4&2767b852&0&2908
+!    dvi:                Device class {4d36e96c-e325-11ce-bfc1-08002be10318} is not configurable.
+     dvi:           {Configure Device - exit(0x00000032)} 08:47:55.689
+     dvi:           {DIF_ALLOW_INSTALL} 08:47:55.689
+     dvi:                Using exported function 'MediaClassInstaller' in module 'C:\Windows\system32\mmci.dll'.
+     dvi:                Class installer == mmci.dll,MediaClassInstaller
+     dvi:                Class installer: Enter 08:47:55.689
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:55.689
+     dvi:                Default installer: Exit
+     dvi:           {DIF_ALLOW_INSTALL - exit(0xe000020e)} 08:47:55.697
+     dvi:           {DIF_INSTALLDEVICEFILES} 08:47:55.697
+     dvi:                Class installer: Enter 08:47:55.699
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:55.699
+     dvi:                Default installer: Exit
+     dvi:           {DIF_INSTALLDEVICEFILES - exit(0x00000000)} 08:47:55.709
+     flq:           File 'C:\Windows\system32\DRIVERS\drmk.sys' pruned from copy.
+     flq:           File 'C:\Windows\system32\DRIVERS\portcls.sys' pruned from copy.
+     flq:           File 'C:\Windows\system32\WMALFXGFXDSP.dll' pruned from copy.
+     flq:           File 'C:\Windows\system32\SysFxUI.dll' pruned from copy.
+     flq:           File 'C:\Windows\system32\DRIVERS\HdAudio.sys' pruned from copy.
+     dvi:           {DIF_REGISTER_COINSTALLERS} 08:47:55.973
+     dvi:                Reset Device: Resetting device configuration. 08:47:55.973
+     dvi:                Reset Device: Resetting device configuration completed. 08:47:55.973
+     dvi:                Class installer: Enter 08:47:55.973
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:55.973
+     inf:                     {Install from INF Section - HdAudModel_CustomConnTypeA.CoInstallers} 08:47:56.062
+     inf:                          Flags         - 0x001001ee
+     inf:                     {Install from INF Section - exit(0x00000000)} 08:47:56.064
+     dvi:                Default installer: Exit
+     dvi:           {DIF_REGISTER_COINSTALLERS - exit(0x00000000)} 08:47:56.064
+     dvi:           {DIF_INSTALLINTERFACES} 08:47:56.064
+     dvi:                Class installer: Enter 08:47:56.064
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:56.064
+     dvi:                Default installer: Exit
+     dvi:           {DIF_INSTALLINTERFACES - exit(0x00000000)} 08:47:56.072
+     dvi:           {DIF_INSTALLDEVICE} 08:47:56.072
+     dvi:                Class installer: Enter 08:47:56.074
+     dvi:                     {Install DEVICE}
+     inf:                          {Install from INF Section - HdAudModel_CustomConnTypeA} 08:47:56.074
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:56.082
+     inf:                          {Install from INF Section - KS.Registration} 08:47:56.082
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:56.958
+     inf:                          {Install from INF Section - WDMAUDIO.Registration} 08:47:56.974
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:56.974
+     inf:                          {Install from INF Section - mssysfx.CopyFilesAndRegister} 08:47:56.974
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:57.106
+     inf:                          {Install from INF Section - HdAudModel} 08:47:57.106
+     inf:                               Flags         - 0x001005ee
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:57.128
+     inf:                          {Install from INF Section - HdAudModel_CustomConnTypeA.Hw} 08:47:57.128
+     inf:                               Flags         - 0x00100004
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:57.128
+     inf:                          {Install from INF Section - HdAudModel.HW} 08:47:57.128
+     inf:                               Flags         - 0x00100004
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:57.143
+     dvi:                          {Writing Device Properties}
+     dvi:                               Strong Name=hdaudss.inf:5911414ec0d0d7ed:HdAudModel_CustomConnTypeA:10.0.17134.1:hdaudio\func_01&ven_1002&dev_791a&rev_1000
+     dvi:                          {Writing Device Properties - Complete}
+     inf:                          AddService=HdAudAddService,0x00000002,HdAud_Service_Install  (hdaudio.inf line 91)
+     dvi:                          Add Service: Modified existing service 'HdAudAddService'.
+     inf:                          {Install from INF Section - HdAud_Service_Install} 08:47:57.159
+     inf:                               Flags         - 0x00100004
+     inf:                          {Install from INF Section - exit(0x00000000)} 08:47:57.159
+     dvi:                     {Install DEVICE exit (0x00000000)}
+     sto:                     {Configure Driver Package: c:\windows\system32\driverstore\filerepository\hdaudss.inf_amd64_fdedc96c9e23f112\hdaudss.inf}
+     sto:                          Source Filter  = HdAudModel_CustomConnTypeA
+     sto:                          Target Filter  = HDAUDIO\FUNC_01&VEN_1002&DEV_791A&SUBSYS_00791A00&REV_1000\5&3865763A&0&0001
+     inf:                          Class GUID     = {4d36e96c-e325-11ce-bfc1-08002be10318}
+     inf:                          {Configure Driver: High Definition Audio Device}
+     inf:                               Section Name = HdAudModel_CustomConnTypeA
+     inf:                          {Configure Driver: exit(0x00000000)}
+     inf:                          {Configure Driver: High Definition Audio Device}
+     inf:                               Section Name = HdAudModel_CustomConnTypeA
+     inf:                               {Configure Device: HDAUDIO\FUNC_01&VEN_1002&DEV_791A&SUBSYS_00791A00&REV_1000\5&3865763A&0&0001}
+     inf:                               {Configure Device: exit(0x00000000)}
+     inf:                          {Configure Driver: exit(0x00000000)}
+     inf:                          {Configure Driver: High Definition Audio Device}
+     inf:                               Section Name = HdAudModel_CustomConnTypeA
+     inf:                          {Configure Driver: exit(0x00000000)}
+     inf:                          {Configure Driver: High Definition Audio Device}
+     inf:                               Section Name = HdAudModel_CustomConnTypeA
+     inf:                          {Configure Driver: exit(0x00000000)}
+     inf:                          {Configure Driver: High Definition Audio Device}
+     inf:                               Section Name = HdAudModel_CustomConnTypeA
+     inf:                          {Configure Driver: exit(0x00000000)}
+     sto:                     {Configure Driver Package: exit(0x00000000)}
+     dvi:                     Install Device: Configuring device class. 08:47:57.206
+     dvi:                     Install Device: Configuring device class completed. 08:47:57.206
+     dvi:                     Device Status: 0x01802400, Problem: 0x12 (0xc0000493)
+     dvi:                     Install Device: Starting device 'HDAUDIO\FUNC_01&VEN_1002&DEV_791A&SUBSYS_00791A00&REV_1000\5&3865763A&0&0001'. 08:47:57.206
+     dvi:                     Install Device: Starting device completed. 08:47:57.322
+     dvi:                Class installer: Exit
+     dvi:           {DIF_INSTALLDEVICE - exit(0x00000000)} 08:47:57.375
+     inf:           {Install from INF Section - MSTEE.Interface.Install} 08:47:57.375
+     inf:                Flags         - 0x000007fe
+     inf:           {Install from INF Section - exit(0x00000000)} 08:47:57.375
+     inf:           {Install from INF Section - MSTEE.Interface.Install} 08:47:57.391
+     inf:                Flags         - 0x000007fe
+     inf:           {Install from INF Section - exit(0x00000000)} 08:47:57.391
+     inf:           {Install from INF Section - WDM_DRMKAUD.Interface.Install} 08:47:57.391
+     inf:                Flags         - 0x000007fe
+     inf:           {Install from INF Section - exit(0x00000000)} 08:47:57.391
+     dvi:           {DIF_NEWDEVICEWIZARD_FINISHINSTALL} 08:47:57.391
+     dvi:                Class installer: Enter 08:47:57.391
+     dvi:                Class installer: Exit
+     dvi:                Default installer: Enter 08:47:57.391
+     dvi:                Default installer: Exit
+     dvi:           {DIF_NEWDEVICEWIZARD_FINISHINSTALL - exit(0xe000020e)} 08:47:57.407
+     dvi:      {Install Device - exit(0x00000000)} 08:47:57.491
+     dvi: {Core Device Install - exit(0x00000000)} 08:47:57.491
+     dvi: {DIF_DESTROYPRIVATEDATA} 08:47:57.491
+     dvi:      Class installer: Enter 08:47:57.491
+     dvi:      Class installer: Exit
+     dvi:      Default installer: Enter 08:47:57.491
+     dvi:      Default installer: Exit
+     dvi: {DIF_DESTROYPRIVATEDATA - exit(0xe000020e)} 08:47:57.491
+<<<  Section end 2019/03/25 08:47:57.507
+<<<  [Exit status: SUCCESS]
+
+
+>>>  [Setup online Device Install (Hardware initiated) - {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd\5&3386f10e&0&11]
+>>>  Section start 2019/03/25 08:47:50.261
+     dvi: {Build Driver List} 08:47:50.461
+     dvi:      Searching for hardware ID(s):
+     dvi:           {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+     dvi:      Searching for compatible ID(s):
+     dvi:           {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+     dvi:      Created Driver Node:
+     dvi:           HardwareID   - {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+     dvi:           InfName      - C:\Windows\System32\DriverStore\FileRepository\netvwifimp.inf_amd64_5307866ce7e95a7b\netvwifimp.inf
+     dvi:           DevDesc      - Microsoft Wi-Fi Direct Virtual Adapter
+     dvi:           Section      - vwifimp_wfd.ndi
+     dvi:           Rank         - 0x00ff0000
+     dvi:           Signer Score - INBOX
+     dvi:           DrvDate      - 06/21/2006
+     dvi:           Version      - 10.0.17134.1
+     dvi: {Build Driver List - exit(0x00000000)} 08:47:51.835
+     dvi: {DIF_SELECTBESTCOMPATDRV} 08:47:51.835
+     dvi:      Default installer: Enter 08:47:51.835
+     dvi:           {Select Best Driver}
+     dvi:                Class GUID of device changed to: {4d36e972-e325-11ce-bfc1-08002be10318}.
+     dvi:                Selected Driver:
+     dvi:                     Description - Microsoft Wi-Fi Direct Virtual Adapter
+     dvi:                     InfFile     - c:\windows\system32\driverstore\filerepository\netvwifimp.inf_amd64_5307866ce7e95a7b\netvwifimp.inf
+     dvi:                     Section     - vwifimp_wfd.ndi
+     dvi:           {Select Best Driver - exit(0x00000000)}
+     dvi:      Default installer: Exit
+     dvi: {DIF_SELECTBESTCOMPATDRV - exit(0x00000000)} 08:47:51.851
+     dvi: Waiting for previous device install to complete. 08:47:51.851
+     dvi: {Core Device Install} 08:47:57.560
+     dvi:      {Install Device - {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&3386F10E&0&11} 08:47:57.692
+     dvi:           Device Status: 0x01802400, Problem: 0x1 (0xc0000493)
+     dvi:           Parent device: PCI\VEN_168C&DEV_002B&SUBSYS_303F103C&REV_01\4&3a695a07&0&0030
+     dvi:           {Configure Device - {5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&3386F10E&0&11} 08:47:57.730
+     dvi:                Device Status: 0x01802400, Problem: 0x1 (0xc0000493)
+     dvi:                Parent device: PCI\VEN_168C&DEV_002B&SUBSYS_303F103C&REV_01\4&3a695a07&0&0030
+     sto:                {Configure Driver Package: C:\Windows\System32\DriverStore\FileRepository\netvwifimp.inf_amd64_5307866ce7e95a7b\netvwifimp.inf}
+     sto:                     Source Filter  = {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+     inf:                     Class GUID     = {4d36e972-e325-11ce-bfc1-08002be10318}
+     inf:                     Class Options  = Configurable
+     inf:                     {Configure Driver: Microsoft Wi-Fi Direct Virtual Adapter}
+     inf:                          Section Name = vwifimp_wfd.ndi
+     inf:                          {Add Service: vwifimp}
+     inf:                               Start Type    = 3
+     inf:                               Service Type  = 1
+     inf:                               Error Control = 1
+     inf:                               Image Path    = \SystemRoot\System32\drivers\vwifimp.sys
+     inf:                               Display Name  = @%SystemRoot%\System32\drivers\vwifimp.sys,-261
+     inf:                               Group         = NDIS
+     inf:                               Created new service 'vwifimp'.
+     inf:                          {Add Service: exit(0x00000000)}
+     inf:                          Hardware Id  = {5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd
+     inf:                          {Configure Driver Configuration: vwifimp_wfd.ndi}
+     inf:                               Service Name  = vwifimp
+     inf:                               Config Flags  = 0x00000000
+     inf:                          {Configure Driver Configuration: exit(0x00000000)}
+     inf:                     {Configure Driver: exit(0x00000000)}
+     sto:                {Configure Driver Package: exit(0x00000000)}
+     dvi:                Install Device: Configuring device (netvwifimp.inf:{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd,vwifimp_wfd.ndi). 08:47:58.047
+     dvi:                Install Device: Configuring device completed. 08:47:58.047
+     dvi:                Device Status: 0x01802000, Problem: 0x0 (0x00000000)
+     dvi:                Install Device: Starting device '{5D624F94-8850-40C3-A3FA-A4FD2080BAF3}\VWIFIMP_WFD\5&3386F10E&0&11'. 08:47:58.047
+     dvi:                Install Device: Starting device completed. 08:47:58.209
+!    dvi:                Device pending start: Device has problem: 0x38 (CM_PROB_NEED_CLASS_CONFIG), problem status: 0x00000000.
+     dvi:           {Configure Device - exit(0x00000000)} 08:47:58.209
+     dvi:           Device Status: 0x01802400, Problem: 0x38
+     dvi:      {Install Device - exit(0x00000000)} 08:47:58.232
+     dvi: {Core Device Install - exit(0x00000000)} 08:47:58.232
+     dvi: Waiting for device post-install to complete. 08:47:58.232
+     dvi: Device post-install completed. 08:47:58.644
+<<<  Section end 2019/03/25 08:47:58.745
+<<<  [Exit status: SUCCESS]
+

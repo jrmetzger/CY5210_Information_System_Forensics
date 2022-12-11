@@ -1,0 +1,29 @@
+﻿BagPath,Slot,NodeSlot,MRUPosition,AbsolutePath,ShellType,Value,ChildBags,CreatedOn,ModifiedOn,AccessedOn,LastWriteTime,MFTEntry,MFTSequenceNumber,ExtensionBlockCount,FirstInteracted,LastInteracted,HasExplored,Miscellaneous
+BagMRU,0,0,2,Desktop\Home Folder,Root folder: GUID,Home Folder,0,,,,2019-03-27 12:06:02,,,0,2019-03-25 13:10:06,,False,
+BagMRU,1,0,5,Desktop\C:\,Users property view: Drive letter,C:\,1,,,,2019-03-27 12:06:02,,,0,,,False,
+BagMRU,2,0,1,Desktop\D:\,Users property view: Drive letter,D:\,1,,,,2019-03-27 12:06:02,,,0,,,False,
+BagMRU,3,0,4,Desktop\F:\,Users property view: Drive letter,F:\,0,,,,2019-03-27 12:06:02,,,0,2019-03-25 13:12:08,,False,
+BagMRU,4,0,0,Desktop\My Computer,Root folder: GUID,My Computer,6,,,,2019-03-27 12:06:02,,,0,,2019-03-27 12:06:02,False,
+BagMRU,5,0,6,Desktop\Shared Documents Folder (Users Files),Root folder: GUID,Shared Documents Folder (Users Files),0,,,,2019-03-27 12:06:02,,,1,2019-03-26 14:53:23,,False,
+BagMRU,6,0,3,Desktop\GoodOnes,Directory,GoodOnes,0,,,,2019-03-27 12:06:02,149918,1,1,2019-03-26 16:01:40,,False,NTFS file system
+BagMRU\1,0,4,0,Desktop\C:\\Users,Directory,Users,1,,,,2019-03-25 13:11:35,1496,1,1,,2019-03-25 13:11:35,True,NTFS file system
+BagMRU\1\0,0,5,0,Desktop\C:\\Users\Justine B,Directory,Justine B,1,,,,2019-03-25 13:11:37,87962,1,1,,2019-03-25 13:11:37,True,NTFS file system
+BagMRU\1\0\0,0,6,0,Desktop\C:\\Users\Justine B\AppData,Directory,AppData,1,,,,2019-03-25 13:11:39,87973,1,1,,2019-03-25 13:11:39,True,NTFS file system
+BagMRU\1\0\0\0,0,7,0,Desktop\C:\\Users\Justine B\AppData\Roaming,Directory,Roaming,1,,,,2019-03-25 13:11:40,87974,1,1,,2019-03-25 13:11:40,True,NTFS file system
+BagMRU\1\0\0\0\0,0,8,0,Desktop\C:\\Users\Justine B\AppData\Roaming\Microsoft,Directory,Microsoft,3,,,,2019-03-25 13:11:42,87975,1,1,,2019-03-25 13:11:42,True,NTFS file system
+BagMRU\1\0\0\0\0\0,0,9,2,Desktop\C:\\Users\Justine B\AppData\Roaming\Microsoft\New folder,Directory,New folder,0,,,,2019-03-25 13:11:55,90323,1,1,2019-03-25 13:11:50,,False,NTFS file system
+BagMRU\1\0\0\0\0\0,1,10,1,Desktop\C:\\Users\Justine B\AppData\Roaming\Microsoft\Protect,Directory,Protect,0,,,,2019-03-25 13:11:55,88166,1,1,2019-03-25 13:11:54,,False,NTFS file system
+BagMRU\1\0\0\0\0\0,2,11,0,Desktop\C:\\Users\Justine B\AppData\Roaming\Microsoft\Skype,Directory,Skype,1,,,,2019-03-25 13:11:55,90323,1,1,,2019-03-25 13:11:55,True,NTFS file system
+BagMRU\1\0\0\0\0\0\2,0,13,0,Desktop\C:\\Users\Justine B\AppData\Roaming\Microsoft\Skype\live#3astevedallas1010,Directory,live#3astevedallas1010,0,,,,2019-03-25 13:13:25,90394,1,1,2019-03-25 13:13:25,2019-03-25 13:13:25,False,NTFS file system
+BagMRU\2,0,24,0,Desktop\D:\\GoodOnes,Directory,GoodOnes,0,,,,2019-03-27 11:44:12,43,43,1,2019-03-27 11:44:12,2019-03-27 11:44:12,False,NTFS file system
+BagMRU\4,0,14,0,Desktop\My Computer\Downloads,Root folder: GUID,Downloads,0,,,,2019-03-27 18:32:06,,,0,2019-03-26 14:48:50,2019-03-27 18:32:06,True,
+BagMRU\4,1,0,5,Desktop\My Computer\C:,Drive letter,C:,1,,,,2019-03-27 18:32:06,,,0,,,False,
+BagMRU\4,2,17,2,Desktop\My Computer\Desktop,Root folder: GUID,Desktop,1,,,,2019-03-27 18:32:06,,,1,,,False,
+BagMRU\4,3,20,1,Desktop\My Computer\Documents,Root folder: GUID,Documents,0,,,,2019-03-27 18:32:06,,,0,2019-03-26 16:48:04,,True,
+BagMRU\4,4,21,4,Desktop\My Computer\Pictures,Root folder: GUID,Pictures,0,,,,2019-03-27 18:32:06,,,0,2019-03-26 17:13:17,,False,
+BagMRU\4,5,22,3,Desktop\My Computer\F:,Drive letter,F:,1,,,,2019-03-27 18:32:06,,,0,,,True,
+BagMRU\4\1,0,0,0,Desktop\My Computer\C:\Users,Directory,Users,1,,,,2019-03-26 15:32:12,1496,1,1,,2019-03-26 15:32:12,False,NTFS file system
+BagMRU\4\1\0,0,0,0,Desktop\My Computer\C:\Users\Justine B,Directory,Justine B,1,,,,2019-03-26 15:32:12,87962,1,1,,2019-03-26 15:32:12,False,NTFS file system
+BagMRU\4\1\0\0,0,16,0,Desktop\My Computer\C:\Users\Justine B\Downloads,Directory,Downloads,0,,,,2019-03-26 15:32:12,87970,1,1,2019-03-26 15:32:12,2019-03-26 15:32:12,True,NTFS file system
+BagMRU\4\2,0,18,0,Desktop\My Computer\Desktop\GoodOnes,Directory,GoodOnes,0,,,,2019-03-26 15:47:01,149918,1,1,2019-03-26 15:47:01,2019-03-26 15:47:01,False,NTFS file system
+BagMRU\4\5,0,23,0,Desktop\My Computer\F:\MagnetProcessCapture-20190326-140822,Directory,MagnetProcessCapture-20190326-140822,0,,,,2019-03-26 18:08:28,17571008,,1,2019-03-26 18:08:28,2019-03-26 18:08:28,True,FAT file system

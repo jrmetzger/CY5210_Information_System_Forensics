@@ -1,0 +1,48 @@
+﻿Created By AccessData® FTK® Imager 4.5.0.3 
+
+Case Information: 
+Acquired using: ADI4.5.0.3
+Case Number: Case_Study_3_Custom
+Evidence Number: 2022_03
+Unique Description: Cloudy Thoughts
+Examiner: 
+Notes: 
+
+--------------------------------------------------------------
+
+Information for D:\NEU CY5210\Instructor Course Material\Case Studies\Case Study 3\Case_Study_3_Custom.ad1:
+[Custom Content Sources]
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|$MFT(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|$LogFile(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|$Recycle.Bin|*(Wildcard,Consider Case,Include Subdirectories)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Users|jcloudy|*(Wildcard,Consider Case,Include Subdirectories)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|INF|setupapi.dev.log(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|Prefetch|*(Wildcard,Consider Case,Include Subdirectories)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SAM(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SAM.LOG1(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SAM.LOG2(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SECURITY(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SECURITY.LOG1(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SECURITY.LOG2(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SOFTWARE(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SOFTWARE.LOG1(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SOFTWARE.LOG2(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SYSTEM(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SYSTEM.LOG1(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|config|SYSTEM.LOG2(Exact)
+ LoneWolf.E01:Basic data partition (4) [487771MB]:NONAME [NTFS]|[root]|Windows|System32|winevt|Logs|*(Wildcard,Consider Case,Include Subdirectories)
+[Computed Hashes]
+ MD5 checksum:    90e3306ad507f508c8e4a8b5099988f4
+ SHA1 checksum:   63bfbdd2813f7d285703970cfbee3d36a4acb408
+
+Image information:
+ Acquisition started:   Thu Mar 24 23:32:09 2022
+ Acquisition finished:  Thu Mar 24 23:37:54 2022
+ Segment list:
+  D:\NEU CY5210\Instructor Course Material\Case Studies\Case Study 3\Case_Study_3_Custom.ad1
+
+Image Verification Results:
+ Verification started:  Thu Mar 24 23:38:00 2022
+ Verification finished: Thu Mar 24 23:38:20 2022
+ MD5 checksum:    90e3306ad507f508c8e4a8b5099988f4 : verified
+ SHA1 checksum:   63bfbdd2813f7d285703970cfbee3d36a4acb408 : verified

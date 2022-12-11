@@ -1,0 +1,54 @@
+Tue Nov 29 20:41:45 2022: Hive (\\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\SYSTEM\SYSTEM) is dirty.
+
+Tue Nov 29 20:41:45 2022: Log opened.
+Tue Nov 29 20:41:45 2022: File: \\Mac\Home\Documents\_Education\Northeastern\PhD_Cybersecurity\ISF\Labs\CaseStudy04\CaseFolder\SYSTEM\SYSTEM
+Tue Nov 29 20:41:45 2022: Environment set up.
+Tue Nov 29 20:41:45 2022: Launching appcertdlls v.20200427
+Tue Nov 29 20:41:45 2022: Launching appcompatcache v.20200428
+Tue Nov 29 20:41:45 2022: Launching backuprestore v.20200517
+Tue Nov 29 20:41:45 2022: Launching bam v.20200427
+Tue Nov 29 20:41:45 2022: Launching bthenum v.20200515
+Tue Nov 29 20:41:45 2022: Launching bthport v.20200517
+Tue Nov 29 20:41:45 2022: Launching codepage v.20200519
+Tue Nov 29 20:41:45 2022: Launching compname v.20090727
+Tue Nov 29 20:41:45 2022: Launching crashcontrol v.20131210
+Tue Nov 29 20:41:45 2022: Launching cred v.20200427
+Tue Nov 29 20:41:45 2022: Launching dafupnp v.20200525
+Tue Nov 29 20:41:45 2022: Launching devclass v.20200525
+Tue Nov 29 20:41:45 2022: Launching disablelastaccess v.20200517
+Tue Nov 29 20:41:45 2022: Launching disableremotescm v.20200513
+Tue Nov 29 20:41:45 2022: Launching environment v.20200512
+Tue Nov 29 20:41:45 2022: Launching imagedev v.20140104
+Tue Nov 29 20:41:45 2022: Launching ips v.20200518
+Tue Nov 29 20:41:45 2022: Launching lsa v.20200517
+Tue Nov 29 20:41:45 2022: Launching macaddr v.20200515
+Tue Nov 29 20:41:45 2022: Launching mountdev v.20200517
+Tue Nov 29 20:41:46 2022: Launching mountdev2 v.20200517
+Tue Nov 29 20:41:46 2022: Launching netlogon v.20200515
+Tue Nov 29 20:41:46 2022: Launching networksetup2 v.20191004
+Tue Nov 29 20:41:46 2022: Launching nic2 v.20200525
+Tue Nov 29 20:41:46 2022: Launching ntds v.20200427
+Tue Nov 29 20:41:46 2022: Launching pagefile v.20140505
+Tue Nov 29 20:41:46 2022: Launching pending v.20130711
+Tue Nov 29 20:41:46 2022: Launching prefetch v.20200515
+Tue Nov 29 20:41:46 2022: Launching printmon v.20200427
+Tue Nov 29 20:41:46 2022: Launching processor_architecture v.20140505
+Tue Nov 29 20:41:46 2022: Launching profiler v.20200525
+Tue Nov 29 20:41:46 2022: Launching rdpport v.20200526
+Tue Nov 29 20:41:46 2022: Launching remoteaccess v.20200517
+Tue Nov 29 20:41:46 2022: Launching routes v.20200526
+Tue Nov 29 20:41:46 2022: Launching securityproviders v.20200526
+Tue Nov 29 20:41:46 2022: Launching services v.20191024
+Tue Nov 29 20:41:48 2022: Launching shares v.20200525
+Tue Nov 29 20:41:48 2022: Launching shimcache v.20200428
+Tue Nov 29 20:41:49 2022: Launching shutdown v.20200518
+Tue Nov 29 20:41:49 2022: Launching source_os v.20200511
+Tue Nov 29 20:41:49 2022: Launching svc v.20200525
+Tue Nov 29 20:41:50 2022: Launching svcdll v.20200525
+Tue Nov 29 20:41:51 2022: Launching termcert v.20200526
+Tue Nov 29 20:41:51 2022: Launching termserv v.20200506
+Tue Nov 29 20:41:51 2022: Launching timezone v.20200518
+Tue Nov 29 20:41:51 2022: Launching usb v.20200515
+Tue Nov 29 20:41:51 2022: Launching usbdevices v.20200525
+Tue Nov 29 20:41:51 2022: Launching usbstor v.20200515
+Tue Nov 29 20:41:51 2022: Launching wpdbusenum v.20200515
